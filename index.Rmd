@@ -8,6 +8,18 @@ output: html_document
   display: none;
 }
 
+h1 {
+  font-weight: bold;
+  color: #707070;
+  font-size: 32px;
+}
+
+h2 {
+  font-weight: bold;
+  color: #707070;
+  font-size: 24px;
+}
+
 img {
   margin: 40px;
 }
@@ -16,8 +28,6 @@ img {
 
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
-
-
 
 ```{r Setup, warning=FALSE, include=FALSE, results='hide'}
 library(knitr)
@@ -39,6 +49,11 @@ library(DT)
 
 ```
 
+
+The **Heads of Government (HoG)** dataset provides summary information about the **ideological orientation of heads of government** in **33 countries** in Europe, Latin America, North America, and the Asia-Pacific region **between 1870 and 2012**.
+
+Our coding of head-of-government ideology has two dimensions: on the one hand the **economic dimension** (we distinguish between “left,” “center,” and “right”); on the other hand the **religious dimension** (we distinguish between heads of government with an explicitly Christian platform and those without an explicitly Christian platform).
+
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}
 hogcy <- read_excel(paste(data_location,"/v1.4/HoG_dataset_country_year_v1.4.xls",sep=""))
 
@@ -56,7 +71,8 @@ data <- dplyr::left_join(hogcy, bmr, by = c(year="year", ccodecow = "ccodecow"))
 
 ## Head of Government Ideology by Regime Types
 
-Using the most current data on the heads of governments, I re-created our original graphs. The step functions are more true to our annual data structure, I believe.
+To following graphs provide a quick overview of the coding of ideology of heads of hovernment over time
+.
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, dpi=300}
 theme_new <- function(base_size = 12, base_family = "Helvetica"){
@@ -122,5 +138,239 @@ ggplot(aes(x=year, y=perc, fill=hogideo)) +
   labs(x = "Year", y = "Proportion of Countries", title = "Dictatorships", fill = "Ideology") + 
   scale_x_continuous(breaks = seq(1875,2000,25), expand = c(0, 0)) + scale_y_continuous(expand = c(0, 0)) +
   theme_bw() -> g
+# g   
+# do not show
+```
+
+
+## Head of Government Ideology by Country
+
+The graph below is a representation of the head of government ideology coding for all countries in the sample.
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, cache=FALSE, dpi=300}
+countries <- unique(data$cname)
+
+data %>% 
+  group_by(cname, year, hogideo) %>% 
+  summarise(count=n()) %>% 
+  mutate(perc=count/sum(count)) %>%
+  dplyr::filter(is.na(hogideo)==FALSE) %>% 
+ggplot(aes(x=year, y=perc, fill=hogideo, group=cname)) + 
+  geom_bar(position = "stack", stat = "identity", size = 0, width=1.1) +
+  scale_fill_manual(values=color4) + 
+  labs(x = "Year", y = "", title = "Ideology by Country over Time", fill = "Ideology") + 
+  scale_x_continuous(breaks = seq(1875,2000,25), expand = c(0, 0)) + scale_y_discrete(expand = c(0, 0)) +
+  theme_new() + 
+  theme(strip.text.y = element_text(angle=0, hjust = 0),
+        legend.position = "bottom") + 
+  facet_grid(cname~.) -> g
+```
+
+```{r, fig.height=10, fig.width=6, message=FALSE, warning=FALSE, echo=FALSE, dpi=600}
 g
+```
+
+
+
+## Validation of Ideology Coding
+
+To validate our heads of government ideology measure, this section provides a comparison of our ideology coding with two existing indexes of the ideology of heads of governments and one ideology placement of government cabinets.  We have chosen to rely on the following three different databases for validation:
+
+  1. The World Bank _Database on Political Institutions_ (Keefer 2012) codes the ideology of heads of governments from 1975 onward for a world-wide sample. In our own coding efforts, we started with the DPI, both conceptually as well as an initial coding for the post-1975 time period.
+  2. In their book _Taxing the Rich_, Scheve and Stasavage (2016) provide a coding for left heads of governments for 20 developed countries (19 of them are in our dataset) from 1800 - 2013. For direct comparison, we collapse our codings for `center` and `right` ideology into a non-left category.
+  3. The _Comparative Political Parties Dataset_ by Swank (2013) offers the _share of cabinet seats_ for left, center, and right parties for 21 countries (all in our sample as well) from 1950 - 2011. While not strictly comparable to our ideology coding of heads of governments, it arguably still provides a somewhat imprecise check for potential errors in coding the ideology of government parties on which our own heads of governments codings is based as well. 
+  
+Below, we provide cross tabulations of our own Heads of Governments coding (in rows) with each of these alternative ideology measures. 
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, dpi=300}
+## Add other ideology coding data sources
+library(countrycode)
+
+## Validation
+# 1. WorldBank DPI
+wb <- read_excel(paste(data_location,"reference/Worldbank_Keefer_data.xls",sep=""))
+wb$ccodecow <- countrycode(wb$countryname, origin="country.name", destination="cown")
+wb <- dplyr::rename(wb, wb_countryname = countryname, wb_execrlc = execrlc)
+wb <- dplyr::select(wb, ccodecow, year, wb_countryname, wb_execrlc)
+df_validate <- left_join(data, wb, by=c(ccodecow = "ccodecow", year = "year"))
+
+library(plyr)
+df_validate$wb_execrlc <- factor(df_validate$wb_execrlc, levels = c("L","C","R","O"))
+df_validate$wb_execrlc <- revalue(df_validate$wb_execrlc, c(L = "Left", C = "Center", R = "Right", O = "Other"))
+detach("package:plyr", unload=TRUE)
+
+valid_hog_wb_ct <- table(df_validate$hogideo, df_validate$wb_execrlc)
+valid_hog_wb <- prop.table(valid_hog_wb_ct, 1)
+valid_hog_wb <- melt(valid_hog_wb, varnames = c("hog","wb"))
+valid_hog_wb_n <- melt(valid_hog_wb_ct, varnames = c("hog","wb"))
+valid_hog_wb <- cbind(valid_hog_wb, n=valid_hog_wb_n$value)
+valid_hog_wb$cell <- paste(format(round(valid_hog_wb$value, 2), nsmall = 2),
+                           "\n(n=",valid_hog_wb$n,")",sep="")
+valid_hog_wb$hog <- factor(valid_hog_wb$hog, levels=rev(levels(valid_hog_wb$hog)))
+
+# Theme Definition for validation graphs
+theme_def <- theme_tufte() + 
+   theme( axis.ticks.x=element_blank(),
+          panel.grid = element_blank(),
+          #axis.text = element_text(size=14),
+          # axis.title = element_text(margin(b = 10, unit = "pt")),
+          plot.title = element_text(hjust=0.5),
+          plot.subtitle=element_text(hjust=0.5), 
+          plot.caption=element_text(hjust=0.9, size=8),
+          legend.position = "none",
+          text = element_text(size = 12))
+
+validate_wb <- ggplot(valid_hog_wb, aes(x = wb, y = hog, fill = value)) + 
+  geom_tile(color="black", size=0.2) + geom_text(aes(label = cell), size=4) + coord_fixed(0.5) +
+  scale_fill_gradient(low = "white", high = "gray") +
+  labs(title = "Cross-Validation of Heads of Government Database",
+       subtitle = "with World Bank Database of Political Institutions",
+       y="Heads of Government\n(own coding)",
+       x="Database of Political Institutions (World Bank)",
+       caption = "Note: Table entries are the percentage of observations by ideology category in the Heads of Government \ndatabase. Entries on the diagonal indicate coding agreement; off-diagonal elements indicate disagreement.") + theme_def
+
+lambda_wb <- Lambda(valid_hog_wb_ct)
+```
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, dpi=300}
+# 2. Scheve and Stasavage
+library(readr)
+ss <- read_csv(paste(data_location,"reference/Scheve_Stasavage/scheve_stasavage_ttr.csv",sep=""))
+df_validate <- left_join(df_validate, ss, by=c(ccodecow = "ccodecow", year = "year"))
+
+# overlap in countries
+hog_countries <- unique(data$cname)
+ss_countries <- unique(ss$ss_cname)
+ # ss_countries[ss_countries %in% hog_countries]
+ # sum(ss_countries %in% hog_countries)
+
+library(plyr)
+df_validate$hogideo2 <- ifelse(df_validate$hogideo=="Center" | df_validate$hogideo=="Right", "Not Left", NA)
+df_validate$hogideo2 <- ifelse(df_validate$hogideo=="Left" , "Left", df_validate$hogideo2)
+df_validate$hogideo2 <- ifelse(df_validate$hogideo=="Other" , "Other", df_validate$hogideo2)
+
+# table(df_validate$hogideo2)
+
+df_validate$ss_leftexec <- ifelse(df_validate$ss_leftexec == 1, "Left", df_validate$ss_leftexec )
+df_validate$ss_leftexec <- ifelse(df_validate$ss_leftexec == 0, "Not Left", df_validate$ss_leftexec )
+
+valid_hog_ss_ct <- table(df_validate$hogideo2, df_validate$ss_leftexec)
+valid_hog_ss <- prop.table(valid_hog_ss_ct, 1)
+valid_hog_ss <- melt(valid_hog_ss, varnames = c("hog","ss"))
+valid_hog_ss_n <- melt(valid_hog_ss_ct, varnames = c("hog","ss"))
+valid_hog_ss <- cbind(valid_hog_ss, n=valid_hog_ss_n$value)
+valid_hog_ss$cell <- paste(format(round(valid_hog_ss$value, 2), nsmall = 2),
+                           "\n(n=",valid_hog_ss$n,")",sep="")
+valid_hog_ss$hog <- factor(valid_hog_ss$hog, levels=rev(levels(valid_hog_ss$hog)))
+
+validate_ss <- ggplot(valid_hog_ss, aes(x = ss, y = hog, fill = value)) + 
+  geom_tile(color="black", size=0.2) + geom_text(aes(label = cell), size=4) + coord_fixed(0.5) +
+  scale_fill_gradient(low = "white", high = "gray") +
+  labs(title = "Cross-Validation of Heads of Government Database",
+       subtitle = "with Scheve and Stasavage Ideology Coding",
+       y="Heads of Government\n(own coding)",
+       x="Scheve and Stasavage",
+       caption = "Note: Table entries are the percentage of observations by ideology category in the Heads of Government \ndatabase. Entries on the diagonal indicate coding agreement; off-diagonal elements indicate disagreement.") +
+  theme_def
+
+lambda_ss <- Lambda(valid_hog_ss_ct)
+```
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, dpi=300}
+# 3. Swank - Comparative Political Parties Dataset
+sw <- read_excel(paste(data_location,"reference/Swank_Comparative Political Parties Dataset/Swank_CPPD_PARTY19502011.xls",sep=""))
+  # Note: LEFTC = Left party cabinet portfolios as a percent of all cabinet portfolios, RIGHTC = Right party cabinet portfolios, CENTC = Center party cabinet portfolios)
+sw %>% dplyr::select(., coid, year, leftc,centc, rightc) %>%
+  mutate(coid = ifelse(coid==1, "Australia", coid)) %>%
+  mutate(coid = ifelse(coid==2, "Austria", coid)) %>%
+  mutate(coid = ifelse(coid==3, "Belgium", coid)) %>%
+  mutate(coid = ifelse(coid==4, "Canada", coid)) %>%
+  mutate(coid = ifelse(coid==5, "Denmark", coid)) %>%
+  mutate(coid = ifelse(coid==6, "Finland", coid)) %>%
+  mutate(coid = ifelse(coid==7, "France", coid)) %>%
+  mutate(coid = ifelse(coid==8, "Germany", coid)) %>%
+  mutate(coid = ifelse(coid==9, "Ireland", coid)) %>%
+  mutate(coid = ifelse(coid==10, "Italy", coid)) %>%
+  mutate(coid = ifelse(coid==11, "Japan", coid)) %>%
+  mutate(coid = ifelse(coid==12, "Netherlands", coid)) %>%
+  mutate(coid = ifelse(coid==13, "New Zealand", coid)) %>%
+  mutate(coid = ifelse(coid==14, "Norway", coid)) %>%
+  mutate(coid = ifelse(coid==15, "Sweden", coid)) %>%
+  mutate(coid = ifelse(coid==16, "Switzerland", coid)) %>%
+  mutate(coid = ifelse(coid==17, "United Kingdom", coid)) %>%
+  mutate(coid = ifelse(coid==18, "United States", coid)) %>%
+  mutate(coid = ifelse(coid==19, "Greece", coid)) %>%
+  mutate(coid = ifelse(coid==20, "Portugal", coid)) %>%
+  mutate(coid = ifelse(coid==21, "Spain", coid)) -> sw
+
+# Check overlap in countries
+hog_countries <- unique(data$cname)
+sw_countries <- unique(sw$coid)
+ # sw_countries[sw_countries %in% hog_countries]
+ # sum(sw_countries %in% hog_countries)
+
+# Get ideology with majority of seats
+# assuming(!) this correlates with HoG
+sw_sel <- sw[,c("leftc","centc","rightc")]
+sw$sw_majcabideo <- colnames(sw_sel)[apply(sw_sel,1,which.max)]
+sw$sw_majcabideo <- toupper(substr(sw$sw_majcabideo,1,1))
+sw$sw_majcabideo <- factor(sw$sw_majcabideo, levels = c("L","C","R"))
+sw$sw_majcabideo <- plyr::revalue(sw$sw_majcabideo, c(L = "Left", C = "Center", R = "Right"))
+
+sw <- select(sw, coid, year, sw_majcabideo)
+df_validate <- left_join(df_validate, sw, by=c(cname = "coid", year = "year"))
+
+# Validate with our HoG coding
+valid_hog_sw_ct <- table(df_validate$hogideo, df_validate$sw_majcabideo)
+valid_hog_sw <- prop.table(valid_hog_sw_ct, 1)
+valid_hog_sw <- melt(valid_hog_sw, varnames = c("hog","sw"))
+valid_hog_sw_n <- melt(valid_hog_sw_ct, varnames = c("hog","sw"))
+valid_hog_sw <- cbind(valid_hog_sw, n=valid_hog_sw_n$value)
+valid_hog_sw$cell <- paste(format(round(valid_hog_sw$value, 2), nsmall = 2),
+                           "\n(n=",valid_hog_sw$n,")",sep="")
+valid_hog_sw$hog <- factor(valid_hog_sw$hog, levels=rev(levels(valid_hog_sw$hog)))
+
+validate_sw <- ggplot(valid_hog_sw, aes(x = sw, y = hog, fill = value)) + 
+  geom_tile(color="black", size=0.2) + geom_text(aes(label = cell), size=4) +
+  scale_fill_gradient(low = "white", high = "gray") +
+  labs(title = "Cross-Validation of Heads of Government Database",
+       subtitle = "with Swank Cabinet Ideology Coding",
+       y="Heads of Government\n(own coding)",
+       x="Swank Cabinet Seat Majority",
+       caption = "Note: Table entries are the percentage of observations by ideology category in the Heads of Government \ndatabase. Entries on the diagonal indicate coding agreement; off-diagonal elements indicate disagreement.") +
+  theme_def
+
+lambda_sw <- Lambda(valid_hog_sw_ct)
+```
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+# 4. Döring and Manow - ParlGov
+# I am not sure what to include here.
+```
+
+First, for the World Bank Database of Political Institutions (DPI), we find a Goodman-Kruskal lambda of `r round(lambda_wb,2)`. The cross tabulation shows that most of the cases in the `left`, `right`, and `other` categories are in agreement with the World Bank DPI coding. In the `center` category, we find that 52 percent of the heads of governments we characterize as centrist fall in either the `left` or `right` categories in the DPI.
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, dpi=300}
+validate_wb
+```
+
+Second, we find that Scheve and Stasavage's coding of `Left` and `Non-Left` heads of governments is in remarkably close agreement with our own measure. To allow comparison, we combine our `center` and `right` ideology categories into a non-left category. The less-precise ideological coding scheme notwithstanding, the observation that the ideological placement is consistent with Scheve and Stasavage's ideology measure across a time period starting in 1870 is reassuring. A high Goodman-Kruskal lambda of `r round(lambda_ss,2)` further confirms the strong coding agreeement. 
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, dpi=300}
+validate_ss
+```
+
+Third, we compare our Heads of Government ideological coding to Martin Swank's ideological coding of government cabinets (Swank 2013). To enable such a comparison, we use the political placement of the _majority of the cabinet_ on the left-center-right scale. While conceptually a less-direct fit with our focus on the heads of government, it nonetheless allows some validation with another ideology measure that has a longer temporal coverage (1950-) than the World Bank DPI measure. Despite the conceptual differences, we find a fairly close agreement in the `left` and `right` categories, and more disagreement in the heads of government `center` category. The Goodman-Kruskal lambda of `r round(lambda_sw,2)` indicates moderately strong agreement.
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, dpi=300}
+validate_sw
+```
+
+# The data 
+
+To give the reader of our (online) codebook the ability to quickly peruse our database, we are providing a quick way to search the database here:
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+data_sel <- dplyr::select(data, cname, year, hogname, hogideo, hogrel, hogindate, hogoutdate)
+datatable(data_sel)
 ```
