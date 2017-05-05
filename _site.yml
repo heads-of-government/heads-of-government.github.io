@@ -9,3 +9,8 @@ navbar:
       href: download.html
     - text: "Citation and References"
       href: citation_references.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: bootstrap.min.css

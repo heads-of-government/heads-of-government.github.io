@@ -3,30 +3,7 @@ title: "Overview"
 output: html_document
 ---
 
-<style type="text/css">
-.title {
-  display: none;
-}
 
-h1 {
-  font-weight: bold;
-  color: #707070;
-  font-size: 32px;
-}
-
-h2 {
-  font-weight: bold;
-  color: #707070;
-  font-size: 24px;
-}
-
-img {
-  margin: 40px;
-}
-
-</style>
-
-<div class="row" style="padding-top: 30px;">
 
 ```{r Setup, warning=FALSE, include=FALSE, results='hide'}
 library(knitr)
@@ -105,8 +82,7 @@ ggplot(aes(x=year, y=perc, fill=hogideo)) +
   scale_fill_manual(values=color3) + 
   labs(x = "Year", y = "Proportion of Countries", title = "All Regimes", fill = "Ideology") + 
   scale_x_continuous(breaks = seq(1875,2000,25), expand = c(0, 0)) + scale_y_continuous(expand = c(0, 0)) +
-  theme_new() -> g
-g
+  theme_new() -> g_all
 
 ## Graph Ideology for all Democracies
 data %>% 
@@ -120,8 +96,7 @@ ggplot(aes(x=year, y=perc, fill=hogideo)) +
   scale_fill_manual(values=color3) + 
   labs(x = "Year", y = "Proportion of Countries", title = "Democracies", fill = "Ideology") + 
   scale_x_continuous(breaks = seq(1875,2000,25), expand = c(0, 0)) + scale_y_continuous(expand = c(0, 0)) +
-  theme_new() + theme(plot.title = element_text(vjust=30)) -> g
-g
+  theme_new() + theme(plot.title = element_text(vjust=30)) -> g_dem
 
 ## Graph Ideology for all Dictatorships
 data %>% 
@@ -136,10 +111,18 @@ ggplot(aes(x=year, y=perc, fill=hogideo)) +
   scale_fill_manual(values=color3) + 
   labs(x = "Year", y = "Proportion of Countries", title = "Dictatorships", fill = "Ideology") + 
   scale_x_continuous(breaks = seq(1875,2000,25), expand = c(0, 0)) + scale_y_continuous(expand = c(0, 0)) +
-  theme_bw() -> g
-# g   
-# do not show
+  theme_bw() -> g_dic
 ```
+
+## {.columns-2}
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, dpi=150}
+g_all 
+g_dem
+```
+
+
+
 
 
 ## Head of Government Ideology by Country
