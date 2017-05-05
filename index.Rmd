@@ -27,7 +27,6 @@ img {
 </style>
 
 <div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
 
 ```{r Setup, warning=FALSE, include=FALSE, results='hide'}
 library(knitr)
