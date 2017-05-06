@@ -7,7 +7,57 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# Citation
+## Citation
 
-# References
+Scholars who wish to use the data compiled here in their own work are kindly asked to include the following reference:
+
+    Brambor, Thomas, Johannes Lindvall, and Annika Stjernquist. 2013. “The Ideology of Heads of Government, 1870–2012.” Version 1.4. Department of Political Science, Lund University.
+
+## References
+
+For a complete list of references, please see the codebook. 
+
+The following scholars (also listed in full our in codebook) contributed their expertise and advice to evaluating and improving our leader coding. We are grateful for their advise but all errors remain our own: 
+
+- John Ahlquist (Australia)
+- Pedro Tavares de Almeida (Portugal)
+- David Altman (Uruguay) 
+- Ben Ansell (United Kingdom)
+- Lars Bille (Denmark)
+- John Bullock (United States)
+- Matthew Carnes (Argentina and Chile)
+- Ricardo Ceneviva (Brazil)
+- Fabio Cristiano (Italy)
+- Ana Beatriz Franco Cuervo (Colombia)
+- Marie Demker (France) 
+- Pascal Dewitt (Belgium)
+- Alberto Diaz-Cayeros (Mexico) 
+- Holger Döring 
+- Peter Esaiasson (Sweden) 
+- David Goldey (France) 
+- Ursula Hackett (United States) 
+- Niamh Hardiman (Ireland) 
+- Silja Häusermann (Switzerland) 
+- Marta Irurozqui (Bolivia) 
+- Lars Bo Kaspersen (Denmark) 
+- Kees van Kersbergen (Netherlands) 
+- Pauli Kettunen (Finland) 
+- Douglas Kriner (United States)
+- Varvara Lalioti (Greece) 
+- Scott Matthews (Canada) 
+- Victor Lapuente (Spain)
+- Cathie Jo Martin (United States)
+- Kenneth Mori McElwain (Ireland and Japan)
+- Ivan Molina (Costa Rica)
+- Marek Naczyk (Belgium)
+- Espen Olsen (Norway)
+- Thomas Paster (Austria) 
+- Mariela Szwarcberg (Argentina)
+- Herman Schwartz (New Zealand) 
+- Valentin Schröder (Germany) 
+- Marco Simoni (Italy) 
+- Bradley Spahn (United States) 
+- Manuel Viedma (Bolivia) 
+- Gunnar Wetterberg (Sweden) 
+- Jaap Woldendorp (Netherlands)
 
