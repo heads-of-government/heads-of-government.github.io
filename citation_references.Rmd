@@ -5,13 +5,14 @@ output: html_document
 
 
 <div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
 
 ## Citation
 
 Scholars who wish to use the data compiled here in their own work are kindly asked to include the following reference:
 
-    Brambor, Thomas, Johannes Lindvall, and Annika Stjernquist. 2013. “The Ideology of Heads of Government, 1870–2012.” Version 1.4. Department of Political Science, Lund University.
+    Brambor, Thomas, Johannes Lindvall, and Annika Stjernquist. 2013. 
+    “The Ideology of Heads of Government, 1870–2012.” Version 1.5. 
+    Department of Political Science, Lund University.
 
 ## References
 
