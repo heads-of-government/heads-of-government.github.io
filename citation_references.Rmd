@@ -3,14 +3,13 @@ title: "Citation and References"
 output: html_document
 ---
 
-
 <div class="row" style="padding-top: 30px;">
 
 ## Citation
 
 Scholars who wish to use the data compiled here in their own work are kindly asked to include the following reference:
 
-    Brambor, Thomas, Johannes Lindvall, and Annika Stjernquist. 2013. 
+    Brambor, Thomas, Johannes Lindvall, and Annika Stjernquist. 2017. 
     “The Ideology of Heads of Government, 1870–2012.” Version 1.5. 
     Department of Political Science, Lund University.
 
