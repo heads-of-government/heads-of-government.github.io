@@ -1,0 +1,4561 @@
+ccode,cname,year,hogname,hogideo,hogrel
+32,Argentina,1870,Domingo Faustino Sarmiento,C,0
+32,Argentina,1871,Domingo Faustino Sarmiento,C,0
+32,Argentina,1872,Domingo Faustino Sarmiento,C,0
+32,Argentina,1873,Domingo Faustino Sarmiento,C,0
+32,Argentina,1874,Domingo Faustino Sarmiento,C,0
+32,Argentina,1875,Nicolás Avellaneda,R,0
+32,Argentina,1876,Nicolás Avellaneda,R,0
+32,Argentina,1877,Nicolás Avellaneda,R,0
+32,Argentina,1878,Nicolás Avellaneda,R,0
+32,Argentina,1879,Nicolás Avellaneda,R,0
+32,Argentina,1880,Nicolás Avellaneda,R,0
+32,Argentina,1881,Julio A. Roca,R,0
+32,Argentina,1882,Julio A. Roca,R,0
+32,Argentina,1883,Julio A. Roca,R,0
+32,Argentina,1884,Julio A. Roca,R,0
+32,Argentina,1885,Julio A. Roca,R,0
+32,Argentina,1886,Julio A. Roca,R,0
+32,Argentina,1887,Miguel Juárez Celman,R,0
+32,Argentina,1888,Miguel Juárez Celman,R,0
+32,Argentina,1889,Miguel Juárez Celman,R,0
+32,Argentina,1890,Miguel Juárez Celman,R,0
+32,Argentina,1891,Carlos Pellegrini,R,0
+32,Argentina,1892,Carlos Pellegrini,R,0
+32,Argentina,1893,Luis Sáenz Peña,R,0
+32,Argentina,1894,Luis Sáenz Peña,R,0
+32,Argentina,1895,José Evaristo Uriburu,R,0
+32,Argentina,1896,José Evaristo Uriburu,R,0
+32,Argentina,1897,José Evaristo Uriburu,R,0
+32,Argentina,1898,Julio A. Roca,R,0
+32,Argentina,1899,Julio A. Roca,R,0
+32,Argentina,1900,Julio A. Roca,R,0
+32,Argentina,1901,Julio A. Roca,R,0
+32,Argentina,1902,Julio A. Roca,R,0
+32,Argentina,1903,Julio A. Roca,R,0
+32,Argentina,1904,Julio A. Roca,R,0
+32,Argentina,1905,Manuel Quintana,R,0
+32,Argentina,1906,José Figueroa Alcorta,R,0
+32,Argentina,1907,José Figueroa Alcorta,R,0
+32,Argentina,1908,José Figueroa Alcorta,R,0
+32,Argentina,1909,José Figueroa Alcorta,R,0
+32,Argentina,1910,José Figueroa Alcorta,R,0
+32,Argentina,1911,Roque Sáenz Peña,R,0
+32,Argentina,1912,Roque Sáenz Peña,R,0
+32,Argentina,1913,Roque Sáenz Peña,R,0
+32,Argentina,1914,Victorino de la Plaza,R,0
+32,Argentina,1915,Victorino de la Plaza,R,0
+32,Argentina,1916,Victorino de la Plaza,R,0
+32,Argentina,1917,Hipólito Irigoyen,C,0
+32,Argentina,1918,Hipólito Irigoyen,C,0
+32,Argentina,1919,Hipólito Irigoyen,C,0
+32,Argentina,1920,Hipólito Irigoyen,C,0
+32,Argentina,1921,Hipólito Irigoyen,C,0
+32,Argentina,1922,Hipólito Irigoyen,C,0
+32,Argentina,1923,Marcelo T. De Alvear,C,0
+32,Argentina,1924,Marcelo T. De Alvear,C,0
+32,Argentina,1925,Marcelo T. De Alvear,C,0
+32,Argentina,1926,Marcelo T. De Alvear,C,0
+32,Argentina,1927,Marcelo T. De Alvear,C,0
+32,Argentina,1928,Marcelo T. De Alvear,C,0
+32,Argentina,1929,Hipólito Irigoyen,C,0
+32,Argentina,1930,Hipólito Irigoyen,C,0
+32,Argentina,1931,José Félix Uriburu,R,0
+32,Argentina,1932,Agustín P. Justo,R,0
+32,Argentina,1933,Agustín P. Justo,R,0
+32,Argentina,1934,Agustín P. Justo,R,0
+32,Argentina,1935,Agustín P. Justo,R,0
+32,Argentina,1936,Agustín P. Justo,R,0
+32,Argentina,1937,Agustín P. Justo,R,0
+32,Argentina,1938,Roberto M. Ortiz,R,0
+32,Argentina,1939,Roberto M. Ortiz,R,0
+32,Argentina,1940,Roberto M. Ortiz,R,0
+32,Argentina,1941,Ramón S. Castillo,R,0
+32,Argentina,1942,Ramón S. Castillo,R,0
+32,Argentina,1943,Pedro Pablo Ramírez Machuca,O,0
+32,Argentina,1944,Edelmiro J. Farrell,O,0
+32,Argentina,1945,Edelmiro J. Farrell,O,0
+32,Argentina,1946,Juan Perón,L,0
+32,Argentina,1947,Juan Perón,L,0
+32,Argentina,1948,Juan Perón,L,0
+32,Argentina,1949,Juan Perón,L,0
+32,Argentina,1950,Juan Perón,L,0
+32,Argentina,1951,Juan Perón,L,0
+32,Argentina,1952,Juan Perón,L,0
+32,Argentina,1953,Juan Perón,L,0
+32,Argentina,1954,Juan Perón,L,0
+32,Argentina,1955,Juan Perón,L,0
+32,Argentina,1956,Pedro Eugenio Aramburu,O,0
+32,Argentina,1957,Pedro Eugenio Aramburu,O,0
+32,Argentina,1958,Arturo Frondizi,C,0
+32,Argentina,1959,Arturo Frondizi,C,0
+32,Argentina,1960,Arturo Frondizi,C,0
+32,Argentina,1961,Arturo Frondizi,C,0
+32,Argentina,1962,José María Guido,C,0
+32,Argentina,1963,José María Guido,C,0
+32,Argentina,1964,Arturo Umberto Illia,C,0
+32,Argentina,1965,Arturo Umberto Illia,C,0
+32,Argentina,1966,Juan Carlos Onganía,O,0
+32,Argentina,1967,Juan Carlos Onganía,O,0
+32,Argentina,1968,Juan Carlos Onganía,O,0
+32,Argentina,1969,Juan Carlos Onganía,O,0
+32,Argentina,1970,Roberto Marcelo Levingston,O,0
+32,Argentina,1971,Alejandro Agustín Lanusse,O,0
+32,Argentina,1972,Alejandro Agustín Lanusse,O,0
+32,Argentina,1973,Alejandro Agustín Lanusse,O,0
+32,Argentina,1974,Juan Perón,L,0
+32,Argentina,1975,Isabel Perón,R,0
+32,Argentina,1976,Jorge Rafael Videla,O,0
+32,Argentina,1977,Jorge Rafael Videla,O,0
+32,Argentina,1978,Jorge Rafael Videla,O,0
+32,Argentina,1979,Jorge Rafael Videla,O,0
+32,Argentina,1980,Jorge Rafael Videla,O,0
+32,Argentina,1981,Roberto Eduardo Viola,O,0
+32,Argentina,1982,Reynaldo Bignone,O,0
+32,Argentina,1983,Reynaldo Bignone,O,0
+32,Argentina,1984,Raúl Alfonsín,C,0
+32,Argentina,1985,Raúl Alfonsín,C,0
+32,Argentina,1986,Raúl Alfonsín,C,0
+32,Argentina,1987,Raúl Alfonsín,C,0
+32,Argentina,1988,Raúl Alfonsín,C,0
+32,Argentina,1989,Raúl Alfonsín,C,0
+32,Argentina,1990,Carlos Saúl Menem,R,0
+32,Argentina,1991,Carlos Saúl Menem,R,0
+32,Argentina,1992,Carlos Saúl Menem,R,0
+32,Argentina,1993,Carlos Saúl Menem,R,0
+32,Argentina,1994,Carlos Saúl Menem,R,0
+32,Argentina,1995,Carlos Saúl Menem,R,0
+32,Argentina,1996,Carlos Saúl Menem,R,0
+32,Argentina,1997,Carlos Saúl Menem,R,0
+32,Argentina,1998,Carlos Saúl Menem,R,0
+32,Argentina,1999,Carlos Saúl Menem,R,0
+32,Argentina,2000,Fernando de la Rúa,C,0
+32,Argentina,2001,Fernando de la Rúa,C,0
+32,Argentina,2002,Eduardo Duhalde,R,0
+32,Argentina,2003,Néstor Kirchner,L,0
+32,Argentina,2004,Néstor Kirchner,L,0
+32,Argentina,2005,Néstor Kirchner,L,0
+32,Argentina,2006,Néstor Kirchner,L,0
+32,Argentina,2007,Néstor Kirchner,L,0
+32,Argentina,2008,Cristina Fernández de Kirchner,L,0
+32,Argentina,2009,Cristina Fernández de Kirchner,L,0
+32,Argentina,2010,Cristina Fernández de Kirchner,L,0
+32,Argentina,2011,Cristina Fernández de Kirchner,L,0
+32,Argentina,2012,Cristina Fernández de Kirchner,L,0
+36,Australia,1901,Edmund Barton,R,0
+36,Australia,1902,Edmund Barton,R,0
+36,Australia,1903,Edmund Barton,R,0
+36,Australia,1904,George Reid,C,0
+36,Australia,1905,George Reid,C,0
+36,Australia,1906,Alfred Deakin,R,0
+36,Australia,1907,Alfred Deakin,R,0
+36,Australia,1908,Alfred Deakin,R,0
+36,Australia,1909,Alfred Deakin,R,0
+36,Australia,1910,Andrew Fisher,L,0
+36,Australia,1911,Andrew Fisher,L,0
+36,Australia,1912,Andrew Fisher,L,0
+36,Australia,1913,Joseph Cook,R,0
+36,Australia,1914,Joseph Cook,R,0
+36,Australia,1915,Andrew Fisher,L,0
+36,Australia,1916,William Morris Hughes,L,0
+36,Australia,1917,William Morris Hughes,R,0
+36,Australia,1918,William Morris Hughes,R,0
+36,Australia,1919,William Morris Hughes,R,0
+36,Australia,1920,William Morris Hughes,R,0
+36,Australia,1921,William Morris Hughes,R,0
+36,Australia,1922,William Morris Hughes,R,0
+36,Australia,1923,Stanley Melbourne Bruce,R,0
+36,Australia,1924,Stanley Melbourne Bruce,R,0
+36,Australia,1925,Stanley Melbourne Bruce,R,0
+36,Australia,1926,Stanley Melbourne Bruce,R,0
+36,Australia,1927,Stanley Melbourne Bruce,R,0
+36,Australia,1928,Stanley Melbourne Bruce,R,0
+36,Australia,1929,Stanley Melbourne Bruce,R,0
+36,Australia,1930,James Henry Scullin,L,0
+36,Australia,1931,James Henry Scullin,L,0
+36,Australia,1932,Joseph Aloysius Lyons,R,0
+36,Australia,1933,Joseph Aloysius Lyons,R,0
+36,Australia,1934,Joseph Aloysius Lyons,R,0
+36,Australia,1935,Joseph Aloysius Lyons,R,0
+36,Australia,1936,Joseph Aloysius Lyons,R,0
+36,Australia,1937,Joseph Aloysius Lyons,R,0
+36,Australia,1938,Joseph Aloysius Lyons,R,0
+36,Australia,1939,Robert Gordon Menzies,R,0
+36,Australia,1940,Robert Gordon Menzies,R,0
+36,Australia,1941,Robert Gordon Menzies,R,0
+36,Australia,1942,John Curtin,L,0
+36,Australia,1943,John Curtin,L,0
+36,Australia,1944,John Curtin,L,0
+36,Australia,1945,John Curtin,L,0
+36,Australia,1946,Joseph Benedict Chifley,L,0
+36,Australia,1947,Joseph Benedict Chifley,L,0
+36,Australia,1948,Joseph Benedict Chifley,L,0
+36,Australia,1949,Joseph Benedict Chifley,L,0
+36,Australia,1950,Robert Gordon Menzies,R,0
+36,Australia,1951,Robert Gordon Menzies,R,0
+36,Australia,1952,Robert Gordon Menzies,R,0
+36,Australia,1953,Robert Gordon Menzies,R,0
+36,Australia,1954,Robert Gordon Menzies,R,0
+36,Australia,1955,Robert Gordon Menzies,R,0
+36,Australia,1956,Robert Gordon Menzies,R,0
+36,Australia,1957,Robert Gordon Menzies,R,0
+36,Australia,1958,Robert Gordon Menzies,R,0
+36,Australia,1959,Robert Gordon Menzies,R,0
+36,Australia,1960,Robert Gordon Menzies,R,0
+36,Australia,1961,Robert Gordon Menzies,R,0
+36,Australia,1962,Robert Gordon Menzies,R,0
+36,Australia,1963,Robert Gordon Menzies,R,0
+36,Australia,1964,Robert Gordon Menzies,R,0
+36,Australia,1965,Robert Gordon Menzies,R,0
+36,Australia,1966,Harold Holt,R,0
+36,Australia,1967,Harold Holt,R,0
+36,Australia,1968,John McEwen,R,0
+36,Australia,1969,John Grey Gorton,R,0
+36,Australia,1970,John Grey Gorton,R,0
+36,Australia,1971,William McMahon,R,0
+36,Australia,1972,William McMahon,R,0
+36,Australia,1973,Gough Whitlam,L,0
+36,Australia,1974,Gough Whitlam,L,0
+36,Australia,1975,Gough Whitlam,L,0
+36,Australia,1976,Malcolm Fraser,R,0
+36,Australia,1977,Malcolm Fraser,R,0
+36,Australia,1978,Malcolm Fraser,R,0
+36,Australia,1979,Malcolm Fraser,R,0
+36,Australia,1980,Malcolm Fraser,R,0
+36,Australia,1981,Malcolm Fraser,R,0
+36,Australia,1982,Malcolm Fraser,R,0
+36,Australia,1983,Bob Hawke,L,0
+36,Australia,1984,Bob Hawke,L,0
+36,Australia,1985,Bob Hawke,L,0
+36,Australia,1986,Bob Hawke,L,0
+36,Australia,1987,Bob Hawke,L,0
+36,Australia,1988,Bob Hawke,L,0
+36,Australia,1989,Bob Hawke,L,0
+36,Australia,1990,Bob Hawke,L,0
+36,Australia,1991,Bob Hawke,L,0
+36,Australia,1992,Paul Keating,L,0
+36,Australia,1993,Paul Keating,L,0
+36,Australia,1994,Paul Keating,L,0
+36,Australia,1995,Paul Keating,L,0
+36,Australia,1996,John Howard,R,0
+36,Australia,1997,John Howard,R,0
+36,Australia,1998,John Howard,R,0
+36,Australia,1999,John Howard,R,0
+36,Australia,2000,John Howard,R,0
+36,Australia,2001,John Howard,R,0
+36,Australia,2002,John Howard,R,0
+36,Australia,2003,John Howard,R,0
+36,Australia,2004,John Howard,R,0
+36,Australia,2005,John Howard,R,0
+36,Australia,2006,John Howard,R,0
+36,Australia,2007,John Howard,R,0
+36,Australia,2008,Kevin Rudd,L,0
+36,Australia,2009,Kevin Rudd,L,0
+36,Australia,2010,Julia Gillard,L,0
+36,Australia,2011,Julia Gillard,L,0
+36,Australia,2012,Julia Gillard,L,0
+40,Austria,1870,Alfred Graf von Potocki-Pilawa,R,1
+40,Austria,1871,Karl Siegmund Graf von Hohenwart,R,1
+40,Austria,1872,Adolf Fürst Auersperg,R,1
+40,Austria,1873,Adolf Fürst Auersperg,R,1
+40,Austria,1874,Adolf Fürst Auersperg,R,1
+40,Austria,1875,Adolf Fürst Auersperg,R,1
+40,Austria,1876,Adolf Fürst Auersperg,R,1
+40,Austria,1877,Adolf Fürst Auersperg,R,1
+40,Austria,1878,Adolf Fürst Auersperg,R,1
+40,Austria,1879,Karl von Stremayr,R,1
+40,Austria,1880,Eduard Graf Taaffe,R,1
+40,Austria,1881,Eduard Graf Taaffe,R,1
+40,Austria,1882,Eduard Graf Taaffe,R,1
+40,Austria,1883,Eduard Graf Taaffe,R,1
+40,Austria,1884,Eduard Graf Taaffe,R,1
+40,Austria,1885,Eduard Graf Taaffe,R,1
+40,Austria,1886,Eduard Graf Taaffe,R,1
+40,Austria,1887,Eduard Graf Taaffe,R,1
+40,Austria,1888,Eduard Graf Taaffe,R,1
+40,Austria,1889,Eduard Graf Taaffe,R,1
+40,Austria,1890,Eduard Graf Taaffe,R,1
+40,Austria,1891,Eduard Graf Taaffe,R,1
+40,Austria,1892,Eduard Graf Taaffe,R,1
+40,Austria,1893,Eduard Graf Taaffe,R,1
+40,Austria,1894,Alfred August August Fürst zu Windischgrätz,R,1
+40,Austria,1895,Alfred August August Fürst zu Windischgrätz,R,1
+40,Austria,1896,Kasimir Felix Graf von Badeni,R,1
+40,Austria,1897,Kasimir Felix Graf von Badeni,R,1
+40,Austria,1898,Franz Graf von Thun und Hohenstein,R,1
+40,Austria,1899,Franz Graf von Thun und Hohenstein,R,1
+40,Austria,1900,Ernest von Koerber,R,1
+40,Austria,1901,Ernest von Koerber,R,1
+40,Austria,1902,Ernest von Koerber,R,1
+40,Austria,1903,Ernest von Koerber,R,1
+40,Austria,1904,Ernest von Koerber,R,1
+40,Austria,1905,Paul Freiherr Gautsch von Frankenthurn,R,1
+40,Austria,1906,Max Wladimir Freiherr von Beck,R,1
+40,Austria,1907,Max Wladimir Freiherr von Beck,R,1
+40,Austria,1908,Max Wladimir Freiherr von Beck,R,1
+40,Austria,1909,Richard Freiherr von Bienerth-Schmerling,R,1
+40,Austria,1910,Richard Freiherr von Bienerth-Schmerling,R,1
+40,Austria,1911,Richard Freiherr von Bienerth-Schmerling,R,1
+40,Austria,1912,Karl Reichsgraf von Stürgkh,R,1
+40,Austria,1913,Karl Reichsgraf von Stürgkh,R,1
+40,Austria,1914,Karl Reichsgraf von Stürgkh,R,1
+40,Austria,1915,Karl Reichsgraf von Stürgkh,R,1
+40,Austria,1916,Karl Reichsgraf von Stürgkh,R,1
+40,Austria,1917,Ernst Ritter Seidler von Feuchtenegg,R,1
+40,Austria,1918,,,
+40,Austria,1919,,,
+40,Austria,1920,Karl Renner,L,0
+40,Austria,1921,Johan Schober,O,0
+40,Austria,1922,Ignaz Seipel,R,1
+40,Austria,1923,Ignaz Seipel,R,1
+40,Austria,1924,Ignaz Seipel,R,1
+40,Austria,1925,Rudolf Ramek,R,1
+40,Austria,1926,Rudolf Ramek,R,1
+40,Austria,1927,Ignaz Seipel,R,1
+40,Austria,1928,Ignaz Seipel,R,1
+40,Austria,1929,Ernst Streeruwitz,R,1
+40,Austria,1930,Johan Schober,O,0
+40,Austria,1931,Karl Buresch,R,1
+40,Austria,1932,Engelbert Dollfuss,R,1
+40,Austria,1933,Engelbert Dollfuss,R,1
+40,Austria,1934,Engelbert Dollfuss,R,1
+40,Austria,1935,Kurt Schuschnigg,R,1
+40,Austria,1936,Kurt Schuschnigg,R,1
+40,Austria,1937,Kurt Schuschnigg,R,1
+40,Austria,1938,,,
+40,Austria,1939,,,
+40,Austria,1940,,,
+40,Austria,1941,,,
+40,Austria,1942,,,
+40,Austria,1943,,,
+40,Austria,1944,,,
+40,Austria,1945,,,
+40,Austria,1946,Leopold Figl,R,1
+40,Austria,1947,Leopold Figl,R,1
+40,Austria,1948,Leopold Figl,R,1
+40,Austria,1949,Leopold Figl,R,1
+40,Austria,1950,Leopold Figl,R,1
+40,Austria,1951,Leopold Figl,R,1
+40,Austria,1952,Leopold Figl,R,1
+40,Austria,1953,Julius Raab,R,1
+40,Austria,1954,Julius Raab,R,1
+40,Austria,1955,Julius Raab,R,1
+40,Austria,1956,Julius Raab,R,1
+40,Austria,1957,Julius Raab,R,1
+40,Austria,1958,Julius Raab,R,1
+40,Austria,1959,Julius Raab,R,1
+40,Austria,1960,Julius Raab,R,1
+40,Austria,1961,Alfons Gorbach,R,1
+40,Austria,1962,Alfons Gorbach,R,1
+40,Austria,1963,Alfons Gorbach,R,1
+40,Austria,1964,Josef Klaus,R,1
+40,Austria,1965,Josef Klaus,R,1
+40,Austria,1966,Josef Klaus,R,1
+40,Austria,1967,Josef Klaus,R,1
+40,Austria,1968,Josef Klaus,R,1
+40,Austria,1969,Josef Klaus,R,1
+40,Austria,1970,Bruno Kreisky,L,0
+40,Austria,1971,Bruno Kreisky,L,0
+40,Austria,1972,Bruno Kreisky,L,0
+40,Austria,1973,Bruno Kreisky,L,0
+40,Austria,1974,Bruno Kreisky,L,0
+40,Austria,1975,Bruno Kreisky,L,0
+40,Austria,1976,Bruno Kreisky,L,0
+40,Austria,1977,Bruno Kreisky,L,0
+40,Austria,1978,Bruno Kreisky,L,0
+40,Austria,1979,Bruno Kreisky,L,0
+40,Austria,1980,Bruno Kreisky,L,0
+40,Austria,1981,Bruno Kreisky,L,0
+40,Austria,1982,Bruno Kreisky,L,0
+40,Austria,1983,Fred Sinowatz,L,0
+40,Austria,1984,Fred Sinowatz,L,0
+40,Austria,1985,Fred Sinowatz,L,0
+40,Austria,1986,Franz Vranitzky,L,0
+40,Austria,1987,Franz Vranitzky,L,0
+40,Austria,1988,Franz Vranitzky,L,0
+40,Austria,1989,Franz Vranitzky,L,0
+40,Austria,1990,Franz Vranitzky,L,0
+40,Austria,1991,Franz Vranitzky,L,0
+40,Austria,1992,Franz Vranitzky,L,0
+40,Austria,1993,Franz Vranitzky,L,0
+40,Austria,1994,Franz Vranitzky,L,0
+40,Austria,1995,Franz Vranitzky,L,0
+40,Austria,1996,Franz Vranitzky,L,0
+40,Austria,1997,Viktor Klima,L,0
+40,Austria,1998,Viktor Klima,L,0
+40,Austria,1999,Viktor Klima,L,0
+40,Austria,2000,Wolfgang Schüssel,R,1
+40,Austria,2001,Wolfgang Schüssel,R,1
+40,Austria,2002,Wolfgang Schüssel,R,1
+40,Austria,2003,Wolfgang Schüssel,R,1
+40,Austria,2004,Wolfgang Schüssel,R,1
+40,Austria,2005,Wolfgang Schüssel,R,1
+40,Austria,2006,Wolfgang Schüssel,R,1
+40,Austria,2007,Alfred Gusenbauer,L,0
+40,Austria,2008,Alfred Gusenbauer,L,0
+40,Austria,2009,Werner Faymann,L,0
+40,Austria,2010,Werner Faymann,L,0
+40,Austria,2011,Werner Faymann,L,0
+40,Austria,2012,Werner Faymann,L,0
+56,Belgium,1870,Walthère Frère-Orban,C,0
+56,Belgium,1871,"Jules Joseph, baron d'Anethan",R,1
+56,Belgium,1872,Jules Malou,R,1
+56,Belgium,1873,Jules Malou,R,1
+56,Belgium,1874,Jules Malou,R,1
+56,Belgium,1875,Jules Malou,R,1
+56,Belgium,1876,Jules Malou,R,1
+56,Belgium,1877,Jules Malou,R,1
+56,Belgium,1878,Walthère Frère-Orban,C,0
+56,Belgium,1879,Walthère Frère-Orban,C,0
+56,Belgium,1880,Walthère Frère-Orban,C,0
+56,Belgium,1881,Walthère Frère-Orban,C,0
+56,Belgium,1882,Walthère Frère-Orban,C,0
+56,Belgium,1883,Walthère Frère-Orban,C,0
+56,Belgium,1884,Jules Malou,R,1
+56,Belgium,1885,Auguste Beernaert ,R,1
+56,Belgium,1886,Auguste Beernaert ,R,1
+56,Belgium,1887,Auguste Beernaert ,R,1
+56,Belgium,1888,Auguste Beernaert ,R,1
+56,Belgium,1889,Auguste Beernaert ,R,1
+56,Belgium,1890,Auguste Beernaert ,R,1
+56,Belgium,1891,Auguste Beernaert ,R,1
+56,Belgium,1892,Auguste Beernaert ,R,1
+56,Belgium,1893,Auguste Beernaert ,R,1
+56,Belgium,1894,Jules Philippe Marie de Burlet,R,1
+56,Belgium,1895,Jules Philippe Marie de Burlet,R,1
+56,Belgium,1896,Paul de Smet de Naeyer,R,1
+56,Belgium,1897,Paul de Smet de Naeyer,R,1
+56,Belgium,1898,Paul de Smet de Naeyer,R,1
+56,Belgium,1899,Julius Vandenpeereboom,R,1
+56,Belgium,1900,Paul de Smet de Naeyer,R,1
+56,Belgium,1901,Paul de Smet de Naeyer,R,1
+56,Belgium,1902,Paul de Smet de Naeyer,R,1
+56,Belgium,1903,Paul de Smet de Naeyer,R,1
+56,Belgium,1904,Paul de Smet de Naeyer,R,1
+56,Belgium,1905,Paul de Smet de Naeyer,R,1
+56,Belgium,1906,Paul de Smet de Naeyer,R,1
+56,Belgium,1907,Jules de Trooz,R,1
+56,Belgium,1908,Frans Schollaert,R,1
+56,Belgium,1909,Frans Schollaert,R,1
+56,Belgium,1910,Frans Schollaert,R,1
+56,Belgium,1911,"Charles, baron de Broqueville",R,1
+56,Belgium,1912,"Charles, baron de Broqueville",R,1
+56,Belgium,1913,"Charles, baron de Broqueville",R,1
+56,Belgium,1914,"Charles, baron de Broqueville",R,1
+56,Belgium,1915,"Charles, baron de Broqueville",R,1
+56,Belgium,1916,"Charles, baron de Broqueville",R,1
+56,Belgium,1917,"Charles, baron de Broqueville",R,1
+56,Belgium,1918,Geraard Cooreman,R,1
+56,Belgium,1919,Léon Delacroix,R,1
+56,Belgium,1920,Léon Delacroix,R,1
+56,Belgium,1921,Henri Carton de Wiart,R,1
+56,Belgium,1922,Georges Theunis,R,1
+56,Belgium,1923,Georges Theunis,R,1
+56,Belgium,1924,Georges Theunis,R,1
+56,Belgium,1925,"Prosper, vicomte Poullet",R,1
+56,Belgium,1926,Henri Jaspar,R,1
+56,Belgium,1927,Henri Jaspar,R,1
+56,Belgium,1928,Henri Jaspar,R,1
+56,Belgium,1929,Henri Jaspar,R,1
+56,Belgium,1930,Henri Jaspar,R,1
+56,Belgium,1931,Henri Jaspar,R,1
+56,Belgium,1932,Jules Renkin,R,1
+56,Belgium,1933,"Charles, comte de Broqueville",R,1
+56,Belgium,1934,"Charles, comte de Broqueville",R,1
+56,Belgium,1935,Paul Van Zeeland,R,1
+56,Belgium,1936,Paul Van Zeeland,R,1
+56,Belgium,1937,Paul Janson,C,1
+56,Belgium,1938,Paul-Henri Spaak,L,0
+56,Belgium,1939,Hubert Pierlot,R,1
+56,Belgium,1940,Hubert Pierlot,,
+56,Belgium,1941,Hubert Pierlot,,
+56,Belgium,1942,Hubert Pierlot,,
+56,Belgium,1943,Hubert Pierlot,,
+56,Belgium,1944,Hubert Pierlot,,
+56,Belgium,1945,Achille Von Acker,L,0
+56,Belgium,1946,Camille Huysmans,L,0
+56,Belgium,1947,Paul-Henri Spaak,L,0
+56,Belgium,1948,Paul-Henri Spaak,L,0
+56,Belgium,1949,Paul-Henri Spaak,L,0
+56,Belgium,1950,Jean Duvieusart,R,1
+56,Belgium,1951,Joseph Pholien,R,1
+56,Belgium,1952,Jean Van Houtte,R,1
+56,Belgium,1953,Jean Van Houtte,R,1
+56,Belgium,1954,Achille Von Acker,L,0
+56,Belgium,1955,Achille Von Acker,L,0
+56,Belgium,1956,Achille Von Acker,L,0
+56,Belgium,1957,Achille Von Acker,L,0
+56,Belgium,1958,Gaston Eyskens ,R,1
+56,Belgium,1959,Gaston Eyskens ,R,1
+56,Belgium,1960,Gaston Eyskens ,R,1
+56,Belgium,1961,Théo Lefèvre ,R,1
+56,Belgium,1962,Théo Lefèvre ,R,1
+56,Belgium,1963,Théo Lefèvre ,R,1
+56,Belgium,1964,Théo Lefèvre ,R,1
+56,Belgium,1965,Pierre Harmel,R,1
+56,Belgium,1966,Paul Vanden Boeynants,R,1
+56,Belgium,1967,Paul Vanden Boeynants,R,1
+56,Belgium,1968,Gaston Eyskens ,R,1
+56,Belgium,1969,Gaston Eyskens ,R,1
+56,Belgium,1970,Gaston Eyskens ,R,1
+56,Belgium,1971,Gaston Eyskens ,R,1
+56,Belgium,1972,Gaston Eyskens ,R,1
+56,Belgium,1973,Edmond Leburton,L,0
+56,Belgium,1974,Léo Tindemans ,R,1
+56,Belgium,1975,Léo Tindemans ,R,1
+56,Belgium,1976,Léo Tindemans ,R,1
+56,Belgium,1977,Léo Tindemans ,R,1
+56,Belgium,1978,Léo Tindemans ,R,1
+56,Belgium,1979,Wilfried Martens,R,1
+56,Belgium,1980,Wilfried Martens,R,1
+56,Belgium,1981,Mark Eyskens,R,1
+56,Belgium,1982,Wilfried Martens,R,1
+56,Belgium,1983,Wilfried Martens,R,1
+56,Belgium,1984,Wilfried Martens,R,1
+56,Belgium,1985,Wilfried Martens,R,1
+56,Belgium,1986,Wilfried Martens,R,1
+56,Belgium,1987,Wilfried Martens,R,1
+56,Belgium,1988,Wilfried Martens,R,1
+56,Belgium,1989,Wilfried Martens,R,1
+56,Belgium,1990,Wilfried Martens,R,1
+56,Belgium,1991,Wilfried Martens,R,1
+56,Belgium,1992,Jean-Luc Dehaene,R,1
+56,Belgium,1993,Jean-Luc Dehaene,R,1
+56,Belgium,1994,Jean-Luc Dehaene,R,1
+56,Belgium,1995,Jean-Luc Dehaene,R,1
+56,Belgium,1996,Jean-Luc Dehaene,R,1
+56,Belgium,1997,Jean-Luc Dehaene,R,1
+56,Belgium,1998,Jean-Luc Dehaene,R,1
+56,Belgium,1999,Jean-Luc Dehaene,R,1
+56,Belgium,2000,Guy Verhofstadt,R,1
+56,Belgium,2001,Guy Verhofstadt,R,1
+56,Belgium,2002,Guy Verhofstadt,R,1
+56,Belgium,2003,Guy Verhofstadt,R,1
+56,Belgium,2004,Guy Verhofstadt,R,1
+56,Belgium,2005,Guy Verhofstadt,R,1
+56,Belgium,2006,Guy Verhofstadt,R,1
+56,Belgium,2007,Guy Verhofstadt,R,1
+56,Belgium,2008,Yves Leterme,R,0
+56,Belgium,2009,Herman Van Rompuy,R,0
+56,Belgium,2010,Yves Leterme,R,0
+56,Belgium,2011,Yves Leterme,R,0
+56,Belgium,2012,Elio Di Rupo,L,0
+68,Bolivia,1870,Mariano Melgarejo,O,0
+68,Bolivia,1871,Agustín Morales,R,0
+68,Bolivia,1872,Agustín Morales,R,0
+68,Bolivia,1873,Adolfo Ballivián,R,0
+68,Bolivia,1874,Tomás Frías,R,0
+68,Bolivia,1875,Tomás Frías,R,0
+68,Bolivia,1876,Hilarion Daza,R,0
+68,Bolivia,1877,Hilarion Daza,R,0
+68,Bolivia,1878,Hilarion Daza,R,0
+68,Bolivia,1879,Hilarion Daza,R,0
+68,Bolivia,1880,Narciso Campero,R,0
+68,Bolivia,1881,Narciso Campero,R,0
+68,Bolivia,1882,Narciso Campero,R,0
+68,Bolivia,1883,Narciso Campero,R,0
+68,Bolivia,1884,Narciso Campero,R,0
+68,Bolivia,1885,Gregorio Pacheco,R,0
+68,Bolivia,1886,Gregorio Pacheco,R,0
+68,Bolivia,1887,Gregorio Pacheco,R,0
+68,Bolivia,1888,Gregorio Pacheco,R,0
+68,Bolivia,1889,Aniceto Arce,R,0
+68,Bolivia,1890,Aniceto Arce,R,0
+68,Bolivia,1891,Aniceto Arce,R,0
+68,Bolivia,1892,Aniceto Arce,R,0
+68,Bolivia,1893,Mariano Baptista,R,1
+68,Bolivia,1894,Mariano Baptista,R,1
+68,Bolivia,1895,Mariano Baptista,R,1
+68,Bolivia,1896,Mariano Baptista,R,1
+68,Bolivia,1897,Severo Fernández Alonso,R,0
+68,Bolivia,1898,Severo Fernández Alonso,R,0
+68,Bolivia,1899,Serapio Reyes Ortiz,R,0
+68,Bolivia,1900,Manuel Pando,C,0
+68,Bolivia,1901,Manuel Pando,C,0
+68,Bolivia,1902,Manuel Pando,C,0
+68,Bolivia,1903,Manuel Pando,C,0
+68,Bolivia,1904,Manuel Pando,C,0
+68,Bolivia,1905,Ismael Montes,C,0
+68,Bolivia,1906,Ismael Montes,C,0
+68,Bolivia,1907,Ismael Montes,C,0
+68,Bolivia,1908,Ismael Montes,C,0
+68,Bolivia,1909,Ismael Montes,C,0
+68,Bolivia,1910,Eliodoro Villazón,C,0
+68,Bolivia,1911,Eliodoro Villazón,C,0
+68,Bolivia,1912,Eliodoro Villazón,C,0
+68,Bolivia,1913,Eliodoro Villazón,C,0
+68,Bolivia,1914,Ismael Montes,C,0
+68,Bolivia,1915,Ismael Montes,C,0
+68,Bolivia,1916,Ismael Montes,C,0
+68,Bolivia,1917,Ismael Montes,C,0
+68,Bolivia,1918,José Gutiérrez Guerra,C,0
+68,Bolivia,1919,José Gutiérrez Guerra,C,0
+68,Bolivia,1920,José Gutiérrez Guerra,C,0
+68,Bolivia,1921,Bautista Saavedra,C,0
+68,Bolivia,1922,Bautista Saavedra,C,0
+68,Bolivia,1923,Bautista Saavedra,C,0
+68,Bolivia,1924,Bautista Saavedra,C,0
+68,Bolivia,1925,Bautista Saavedra,C,0
+68,Bolivia,1926,Hernando Siles Reyes,C,0
+68,Bolivia,1927,Hernando Siles Reyes,C,0
+68,Bolivia,1928,Hernando Siles Reyes,C,0
+68,Bolivia,1929,Hernando Siles Reyes,C,0
+68,Bolivia,1930,Carlos Blanco Galindo,O,0
+68,Bolivia,1931,Daniel Domingo Salamanca,R,0
+68,Bolivia,1932,Daniel Domingo Salamanca,R,0
+68,Bolivia,1933,Daniel Domingo Salamanca,R,0
+68,Bolivia,1934,Daniel Domingo Salamanca,R,0
+68,Bolivia,1935,José Luis Tejada Sorzano,C,0
+68,Bolivia,1936,José David Toro,L,0
+68,Bolivia,1937,José David Toro,L,0
+68,Bolivia,1938,Germán Busch,L,0
+68,Bolivia,1939,Germán Busch,L,0
+68,Bolivia,1940,Enrique Peñaranda,R,0
+68,Bolivia,1941,Enrique Peñaranda,R,0
+68,Bolivia,1942,Enrique Peñaranda,R,0
+68,Bolivia,1943,Enrique Peñaranda,R,0
+68,Bolivia,1944,Gualberto Villarroel,L,0
+68,Bolivia,1945,Gualberto Villarroel,L,0
+68,Bolivia,1946,Gualberto Villarroel,L,0
+68,Bolivia,1947,Enrique Hertzog,R,0
+68,Bolivia,1948,Enrique Hertzog,R,0
+68,Bolivia,1949,Enrique Hertzog,R,0
+68,Bolivia,1950,Mamerto Urriolagoitia,R,
+68,Bolivia,1951,Hugo Ballivián Rojas,R,
+68,Bolivia,1952,Víctor Paz Estenssoro,L,0
+68,Bolivia,1953,Víctor Paz Estenssoro,L,0
+68,Bolivia,1954,Víctor Paz Estenssoro,L,0
+68,Bolivia,1955,Víctor Paz Estenssoro,L,0
+68,Bolivia,1956,Víctor Paz Estenssoro,L,0
+68,Bolivia,1957,Hernán Siles Zuazo,L,0
+68,Bolivia,1958,Hernán Siles Zuazo,L,0
+68,Bolivia,1959,Hernán Siles Zuazo,L,0
+68,Bolivia,1960,Hernán Siles Zuazo,L,0
+68,Bolivia,1961,Víctor Paz Estenssoro,L,0
+68,Bolivia,1962,Víctor Paz Estenssoro,L,0
+68,Bolivia,1963,Víctor Paz Estenssoro,L,0
+68,Bolivia,1964,Víctor Paz Estenssoro,L,0
+68,Bolivia,1965,René Barrientos Ortuño,R,0
+68,Bolivia,1966,Alfredo Ovando Candía,R,0
+68,Bolivia,1967,René Barrientos Ortuño,O,0
+68,Bolivia,1968,René Barrientos Ortuño,O,0
+68,Bolivia,1969,René Barrientos Ortuño/Luis Adolfo Siles Salinas/Alfredo Ovando Candía,O,0
+68,Bolivia,1970,Alfredo Ovando Candía,R,0
+68,Bolivia,1971,Juan José Torres Gonzales,L,0
+68,Bolivia,1972,Hugo Banzer Suárez,R,0
+68,Bolivia,1973,Hugo Banzer Suárez,R,0
+68,Bolivia,1974,Hugo Banzer Suárez,R,0
+68,Bolivia,1975,Hugo Banzer Suárez,R,0
+68,Bolivia,1976,Hugo Banzer Suárez,R,0
+68,Bolivia,1977,Hugo Banzer Suárez,R,0
+68,Bolivia,1978,Hugo Banzer Suárez,R,0
+68,Bolivia,1979,David Padilla Arancibia,L,0
+68,Bolivia,1980,Lidia Gueiler Tejada,O,0
+68,Bolivia,1981,Luis García Meza Tejada,O,0
+68,Bolivia,1982,Celso Torrelio Villa,O,0
+68,Bolivia,1983,Hernán Siles Zuazo,L,0
+68,Bolivia,1984,Hernán Siles Zuazo,L,0
+68,Bolivia,1985,Hernán Siles Zuazo,L,0
+68,Bolivia,1986,Víctor Paz Estenssoro,R,0
+68,Bolivia,1987,Víctor Paz Estenssoro,R,0
+68,Bolivia,1988,Víctor Paz Estenssoro,R,0
+68,Bolivia,1989,Víctor Paz Estenssoro,R,0
+68,Bolivia,1990,Jaime Paz Zamora,L,0
+68,Bolivia,1991,Jaime Paz Zamora,L,0
+68,Bolivia,1992,Jaime Paz Zamora,L,0
+68,Bolivia,1993,Jaime Paz Zamora,L,0
+68,Bolivia,1994,Gonzalo Sánchez de Lozada,C,0
+68,Bolivia,1995,Gonzalo Sánchez de Lozada,C,0
+68,Bolivia,1996,Gonzalo Sánchez de Lozada,C,0
+68,Bolivia,1997,Gonzalo Sánchez de Lozada,C,0
+68,Bolivia,1998,Hugo Banzer Suárez,R,0
+68,Bolivia,1999,Hugo Banzer Suárez,R,0
+68,Bolivia,2000,Hugo Banzer Suárez,R,0
+68,Bolivia,2001,Hugo Banzer Suárez,R,0
+68,Bolivia,2002,Jorge Quiroga Ramírez,R,0
+68,Bolivia,2003,Gonzalo Sánchez de Lozada,C,0
+68,Bolivia,2004,Carlos Meza,C,0
+68,Bolivia,2005,Eduardo Rodríguez,C,0
+68,Bolivia,2006,Evo Morales,L,0
+68,Bolivia,2007,Evo Morales,L,0
+68,Bolivia,2008,Evo Morales,L,0
+68,Bolivia,2009,Evo Morales,L,0
+68,Bolivia,2010,Evo Morales,L,0
+68,Bolivia,2011,Evo Morales,L,0
+68,Bolivia,2012,Evo Morales,L,0
+76,Brazil,1870,Joaquim José Rodriguez Torres,R,0
+76,Brazil,1871,José Maria da Silva Paranhos,R,0
+76,Brazil,1872,José Maria da Silva Paranhos,R,0
+76,Brazil,1873,José Maria da Silva Paranhos,R,0
+76,Brazil,1874,José Maria da Silva Paranhos,R,0
+76,Brazil,1875,Luís Alves de Lima e Silva,R,0
+76,Brazil,1876,Luís Alves de Lima e Silva,R,0
+76,Brazil,1877,Luís Alves de Lima e Silva,R,0
+76,Brazil,1878,João Lins Vieira Cansacão de Sinimbu,R,0
+76,Brazil,1879,João Lins Vieira Cansacão de Sinimbu,R,0
+76,Brazil,1880,José Antônio Saraiva ,R,0
+76,Brazil,1881,José Antônio Saraiva ,R,0
+76,Brazil,1882,João Lustosa da Cunha Paranaguá,R,0
+76,Brazil,1883,Lafayette Rodrigues Pereira,R,0
+76,Brazil,1884,Manoel Pinto de Sousa Dantas,R,0
+76,Brazil,1885,João Maurício Wanderley,R,0
+76,Brazil,1886,João Maurício Wanderley,R,0
+76,Brazil,1887,João Maurício Wanderley,R,0
+76,Brazil,1888,João Alfredo Correia de Oliveira,R,0
+76,Brazil,1889,Afonso Celso de Assis Figueiredo,R,0
+76,Brazil,1890,Manuel Deodoro da Fonseca,R,0
+76,Brazil,1891,Manuel Deodoro da Fonseca,R,0
+76,Brazil,1892,Floriano Peixoto,R,0
+76,Brazil,1893,Floriano Peixoto,R,0
+76,Brazil,1894,Floriano Peixoto,R,0
+76,Brazil,1895,Prudente José de Morais Barros,R,0
+76,Brazil,1896,Prudente José de Morais Barros,R,0
+76,Brazil,1897,Prudente José de Morais Barros,R,0
+76,Brazil,1898,Prudente José de Morais Barros,R,0
+76,Brazil,1899,Manuel Ferraz de Campos Salas,R,0
+76,Brazil,1900,Manuel Ferraz de Campos Salas,R,0
+76,Brazil,1901,Manuel Ferraz de Campos Salas,R,0
+76,Brazil,1902,Manuel Ferraz de Campos Salas,R,0
+76,Brazil,1903,Fransisco de Paula Rodrigues Alves,R,0
+76,Brazil,1904,Fransisco de Paula Rodrigues Alves,R,0
+76,Brazil,1905,Fransisco de Paula Rodrigues Alves,R,0
+76,Brazil,1906,Fransisco de Paula Rodrigues Alves,R,0
+76,Brazil,1907,Afonso Augusto Moreira Pena,R,0
+76,Brazil,1908,Afonso Augusto Moreira Pena,R,0
+76,Brazil,1909,Nilo Pecanha,R,0
+76,Brazil,1910,Nilo Pecanha,R,0
+76,Brazil,1911,Hermes Rodrigues da Fonseca,R,0
+76,Brazil,1912,Hermes Rodrigues da Fonseca,R,0
+76,Brazil,1913,Hermes Rodrigues da Fonseca,R,0
+76,Brazil,1914,Hermes Rodrigues da Fonseca,R,0
+76,Brazil,1915,Venceslau Brás Pereira Gomes,R,0
+76,Brazil,1916,Venceslau Brás Pereira Gomes,R,0
+76,Brazil,1917,Venceslau Brás Pereira Gomes,R,0
+76,Brazil,1918,Venceslau Brás Pereira Gomes,R,0
+76,Brazil,1919,Delfim Moreira,R,0
+76,Brazil,1920,Epitacio da Silva Pessoa,R,0
+76,Brazil,1921,Epitacio da Silva Pessoa,R,0
+76,Brazil,1922,Epitacio da Silva Pessoa,R,0
+76,Brazil,1923,Artur da Silva Bernardes,R,0
+76,Brazil,1924,Artur da Silva Bernardes,R,0
+76,Brazil,1925,Artur da Silva Bernardes,R,0
+76,Brazil,1926,Artur da Silva Bernardes,R,0
+76,Brazil,1927,Washington Luís Pereira de Sousa,R,0
+76,Brazil,1928,Washington Luís Pereira de Sousa,R,0
+76,Brazil,1929,Washington Luís Pereira de Sousa,R,0
+76,Brazil,1930,Washington Luís Pereira de Sousa,R,0
+76,Brazil,1931,Getúlio Vargas,L,0
+76,Brazil,1932,Getúlio Vargas,L,0
+76,Brazil,1933,Getúlio Vargas,L,0
+76,Brazil,1934,Getúlio Vargas,L,0
+76,Brazil,1935,Getúlio Vargas,L,0
+76,Brazil,1936,Getúlio Vargas,L,0
+76,Brazil,1937,Getúlio Vargas,L,0
+76,Brazil,1938,Getúlio Vargas,L,0
+76,Brazil,1939,Getúlio Vargas,L,0
+76,Brazil,1940,Getúlio Vargas,L,0
+76,Brazil,1941,Getúlio Vargas,L,0
+76,Brazil,1942,Getúlio Vargas,L,0
+76,Brazil,1943,Getúlio Vargas,L,0
+76,Brazil,1944,Getúlio Vargas,L,0
+76,Brazil,1945,Getúlio Vargas,L,0
+76,Brazil,1946,Eurico Gaspar Dutra,R,0
+76,Brazil,1947,Eurico Gaspar Dutra,R,0
+76,Brazil,1948,Eurico Gaspar Dutra,R,0
+76,Brazil,1949,Eurico Gaspar Dutra,R,0
+76,Brazil,1950,Eurico Gaspar Dutra,R,0
+76,Brazil,1951,Getúlio Vargas,L,0
+76,Brazil,1952,Getúlio Vargas,L,0
+76,Brazil,1953,Getúlio Vargas,L,0
+76,Brazil,1954,Getúlio Vargas,L,0
+76,Brazil,1955,João Café Filho,L,0
+76,Brazil,1956,Juscelino Kubitschek de Oliveira,R,0
+76,Brazil,1957,Juscelino Kubitschek de Oliveira,R,0
+76,Brazil,1958,Juscelino Kubitschek de Oliveira,R,0
+76,Brazil,1959,Juscelino Kubitschek de Oliveira,R,0
+76,Brazil,1960,Juscelino Kubitschek de Oliveira,R,0
+76,Brazil,1961,Janio da Silva Quadros,R,0
+76,Brazil,1962,João Goulart,L,0
+76,Brazil,1963,João Goulart,L,0
+76,Brazil,1964,Humberto de Alencar Castelo Branco,R,0
+76,Brazil,1965,Humberto de Alencar Castelo Branco,R,0
+76,Brazil,1966,Humberto de Alencar Castelo Branco,R,0
+76,Brazil,1967,Artur da Costa e Silva,R,0
+76,Brazil,1968,Artur da Costa e Silva,R,0
+76,Brazil,1969,Artur da Costa e Silva,R,0
+76,Brazil,1970,Emílio Garrastazu Médici,R,0
+76,Brazil,1971,Emílio Garrastazu Médici,R,0
+76,Brazil,1972,Emílio Garrastazu Médici,R,0
+76,Brazil,1973,Emílio Garrastazu Médici,R,0
+76,Brazil,1974,Ernesto Geisel,R,0
+76,Brazil,1975,Ernesto Geisel,R,0
+76,Brazil,1976,Ernesto Geisel,R,0
+76,Brazil,1977,Ernesto Geisel,R,0
+76,Brazil,1978,Ernesto Geisel,R,0
+76,Brazil,1979,João Baptista de Oliveira Figueiredo,R,0
+76,Brazil,1980,João Baptista de Oliveira Figueiredo,R,0
+76,Brazil,1981,João Baptista de Oliveira Figueiredo,R,0
+76,Brazil,1982,João Baptista de Oliveira Figueiredo,R,0
+76,Brazil,1983,João Baptista de Oliveira Figueiredo,R,0
+76,Brazil,1984,João Baptista de Oliveira Figueiredo,R,0
+76,Brazil,1985,José Sarney,R,0
+76,Brazil,1986,José Sarney,R,0
+76,Brazil,1987,José Sarney,R,0
+76,Brazil,1988,José Sarney,R,0
+76,Brazil,1989,José Sarney,R,0
+76,Brazil,1990,Fernando Collor de Mello,R,0
+76,Brazil,1991,Fernando Collor de Mello,R,0
+76,Brazil,1992,Fernando Collor de Mello,R,0
+76,Brazil,1993,Itamar Franco,R,0
+76,Brazil,1994,Itamar Franco,R,0
+76,Brazil,1995,Fernando Henrique Cardoso,L,0
+76,Brazil,1996,Fernando Henrique Cardoso,L,0
+76,Brazil,1997,Fernando Henrique Cardoso,L,0
+76,Brazil,1998,Fernando Henrique Cardoso,L,0
+76,Brazil,1999,Fernando Henrique Cardoso,L,0
+76,Brazil,2000,Fernando Henrique Cardoso,L,0
+76,Brazil,2001,Fernando Henrique Cardoso,L,0
+76,Brazil,2002,Fernando Henrique Cardoso,L,0
+76,Brazil,2003,Luiz Inácio Lula da Silva,L,0
+76,Brazil,2004,Luiz Inácio Lula da Silva,L,0
+76,Brazil,2005,Luiz Inácio Lula da Silva,L,0
+76,Brazil,2006,Luiz Inácio Lula da Silva,L,0
+76,Brazil,2007,Luiz Inácio Lula da Silva,L,0
+76,Brazil,2008,Luiz Inácio Lula da Silva,L,0
+76,Brazil,2009,Luiz Inácio Lula da Silva,L,0
+76,Brazil,2010,Luiz Inácio Lula da Silva,L,0
+76,Brazil,2011,Dilma Rousseff,L,0
+76,Brazil,2012,Dilma Rousseff,L,0
+124,Canada,1870,John A. Macdonald,R,0
+124,Canada,1871,John A. Macdonald,R,0
+124,Canada,1872,John A. Macdonald,R,0
+124,Canada,1873,John A. Macdonald,R,0
+124,Canada,1874,Alexander Mackenzie,C,0
+124,Canada,1875,Alexander Mackenzie,C,0
+124,Canada,1876,Alexander Mackenzie,C,0
+124,Canada,1877,Alexander Mackenzie,C,0
+124,Canada,1878,Alexander Mackenzie,C,0
+124,Canada,1879,John A. Macdonald,R,0
+124,Canada,1880,John A. Macdonald,R,0
+124,Canada,1881,John A. Macdonald,R,0
+124,Canada,1882,John A. Macdonald,R,0
+124,Canada,1883,John A. Macdonald,R,0
+124,Canada,1884,John A. Macdonald,R,0
+124,Canada,1885,John A. Macdonald,R,0
+124,Canada,1886,John A. Macdonald,R,0
+124,Canada,1887,John A. Macdonald,R,0
+124,Canada,1888,John A. Macdonald,R,0
+124,Canada,1889,John A. Macdonald,R,0
+124,Canada,1890,John A. Macdonald,R,0
+124,Canada,1891,John Abbott,R,0
+124,Canada,1892,John Abbott,R,0
+124,Canada,1893,John Thompson,R,0
+124,Canada,1894,John Thompson,R,0
+124,Canada,1895,Mackenzie Bowell,R,0
+124,Canada,1896,Mackenzie Bowell/Charles Tupper,R,0
+124,Canada,1897,Wilfrid Laurier,C,0
+124,Canada,1898,Wilfrid Laurier,C,0
+124,Canada,1899,Wilfrid Laurier,C,0
+124,Canada,1900,Wilfrid Laurier,C,0
+124,Canada,1901,Wilfrid Laurier,C,0
+124,Canada,1902,Wilfrid Laurier,C,0
+124,Canada,1903,Wilfrid Laurier,C,0
+124,Canada,1904,Wilfrid Laurier,C,0
+124,Canada,1905,Wilfrid Laurier,C,0
+124,Canada,1906,Wilfrid Laurier,C,0
+124,Canada,1907,Wilfrid Laurier,C,0
+124,Canada,1908,Wilfrid Laurier,C,0
+124,Canada,1909,Wilfrid Laurier,C,0
+124,Canada,1910,Wilfrid Laurier,C,0
+124,Canada,1911,Wilfrid Laurier,C,0
+124,Canada,1912,Robert Laird Borden,R,0
+124,Canada,1913,Robert Laird Borden,R,0
+124,Canada,1914,Robert Laird Borden,R,0
+124,Canada,1915,Robert Laird Borden,R,0
+124,Canada,1916,Robert Laird Borden,R,0
+124,Canada,1917,Robert Laird Borden,R,0
+124,Canada,1918,Robert Laird Borden,C,0
+124,Canada,1919,Robert Laird Borden,C,0
+124,Canada,1920,Robert Laird Borden,C,0
+124,Canada,1921,Arthur Meighen,R,0
+124,Canada,1922,W.L. Mackenzie King,C,0
+124,Canada,1923,W.L. Mackenzie King,C,0
+124,Canada,1924,W.L. Mackenzie King,C,0
+124,Canada,1925,W.L. Mackenzie King,C,0
+124,Canada,1926,W.L. Mackenzie King,C,0
+124,Canada,1927,W.L. Mackenzie King,C,0
+124,Canada,1928,W.L. Mackenzie King,C,0
+124,Canada,1929,W.L. Mackenzie King,C,0
+124,Canada,1930,W.L. Mackenzie King,C,0
+124,Canada,1931,Richard Bedford Bennett,R,0
+124,Canada,1932,Richard Bedford Bennett,R,0
+124,Canada,1933,Richard Bedford Bennett,R,0
+124,Canada,1934,Richard Bedford Bennett,R,0
+124,Canada,1935,Richard Bedford Bennett,R,0
+124,Canada,1936,W.L. Mackenzie King,C,0
+124,Canada,1937,W.L. Mackenzie King,C,0
+124,Canada,1938,W.L. Mackenzie King,C,0
+124,Canada,1939,W.L. Mackenzie King,C,0
+124,Canada,1940,W.L. Mackenzie King,C,0
+124,Canada,1941,W.L. Mackenzie King,C,0
+124,Canada,1942,W.L. Mackenzie King,C,0
+124,Canada,1943,W.L. Mackenzie King,C,0
+124,Canada,1944,W.L. Mackenzie King,C,0
+124,Canada,1945,W.L. Mackenzie King,C,0
+124,Canada,1946,W.L. Mackenzie King,C,0
+124,Canada,1947,W.L. Mackenzie King,C,0
+124,Canada,1948,W.L. Mackenzie King,C,0
+124,Canada,1949,Louis Saint Laurent,C,0
+124,Canada,1950,Louis Saint Laurent,C,0
+124,Canada,1951,Louis Saint Laurent,C,0
+124,Canada,1952,Louis Saint Laurent,C,0
+124,Canada,1953,Louis Saint Laurent,C,0
+124,Canada,1954,Louis Saint Laurent,C,0
+124,Canada,1955,Louis Saint Laurent,C,0
+124,Canada,1956,Louis Saint Laurent,C,0
+124,Canada,1957,John G. Diefenbaker,C,0
+124,Canada,1958,John G. Diefenbaker,C,0
+124,Canada,1959,John G. Diefenbaker,C,0
+124,Canada,1960,John G. Diefenbaker,C,0
+124,Canada,1961,John G. Diefenbaker,C,0
+124,Canada,1962,John G. Diefenbaker,C,0
+124,Canada,1963,Lester B. Pearson,C,0
+124,Canada,1964,Lester B. Pearson,C,0
+124,Canada,1965,Lester B. Pearson,C,0
+124,Canada,1966,Lester B. Pearson,C,0
+124,Canada,1967,Lester B. Pearson,C,0
+124,Canada,1968,Pierre Elliott Trudeau,C,0
+124,Canada,1969,Pierre Elliott Trudeau,C,0
+124,Canada,1970,Pierre Elliott Trudeau,C,0
+124,Canada,1971,Pierre Elliott Trudeau,C,0
+124,Canada,1972,Pierre Elliott Trudeau,C,0
+124,Canada,1973,Pierre Elliott Trudeau,C,0
+124,Canada,1974,Pierre Elliott Trudeau,C,0
+124,Canada,1975,Pierre Elliott Trudeau,C,0
+124,Canada,1976,Pierre Elliott Trudeau,C,0
+124,Canada,1977,Pierre Elliott Trudeau,C,0
+124,Canada,1978,Pierre Elliott Trudeau,C,0
+124,Canada,1979,Joe Clark,C,0
+124,Canada,1980,Pierre Elliott Trudeau,C,0
+124,Canada,1981,Pierre Elliott Trudeau,C,0
+124,Canada,1982,Pierre Elliott Trudeau,C,0
+124,Canada,1983,Pierre Elliott Trudeau,C,0
+124,Canada,1984,Pierre Elliott Trudeau/John Turner,C,0
+124,Canada,1985,Brian Mulroney,R,0
+124,Canada,1986,Brian Mulroney,R,0
+124,Canada,1987,Brian Mulroney,R,0
+124,Canada,1988,Brian Mulroney,R,0
+124,Canada,1989,Brian Mulroney,R,0
+124,Canada,1990,Brian Mulroney,R,0
+124,Canada,1991,Brian Mulroney,R,0
+124,Canada,1992,Brian Mulroney,R,0
+124,Canada,1993,Brian Mulroney/Kim Campbell,R,0
+124,Canada,1994,Jean Chrétien,R,0
+124,Canada,1995,Jean Chrétien,R,0
+124,Canada,1996,Jean Chrétien,R,0
+124,Canada,1997,Jean Chrétien,R,0
+124,Canada,1998,Jean Chrétien,R,0
+124,Canada,1999,Jean Chrétien,C,0
+124,Canada,2000,Jean Chrétien,C,0
+124,Canada,2001,Jean Chrétien,C,0
+124,Canada,2002,Jean Chrétien,C,0
+124,Canada,2003,Jean Chrétien,C,0
+124,Canada,2004,Paul Martin,C,0
+124,Canada,2005,Paul Martin,C,0
+124,Canada,2006,Stephen Harper,R,0
+124,Canada,2007,Stephen Harper,R,0
+124,Canada,2008,Stephen Harper,R,0
+124,Canada,2009,Stephen Harper,R,0
+124,Canada,2010,Stephen Harper,R,0
+124,Canada,2011,Stephen Harper,R,0
+124,Canada,2012,Stephen Harper,R,0
+152,Chile,1870,José Joaquín Pérez,R,0
+152,Chile,1871,José Joaquín Pérez,R,0
+152,Chile,1872,Federico Errázuriz Zañartu,C,0
+152,Chile,1873,Federico Errázuriz Zañartu,C,0
+152,Chile,1874,Federico Errázuriz Zañartu,C,0
+152,Chile,1875,Federico Errázuriz Zañartu,C,0
+152,Chile,1876,Federico Errázuriz Zañartu,C,0
+152,Chile,1877,Aníbal Pinto,C,0
+152,Chile,1878,Aníbal Pinto,C,0
+152,Chile,1879,Aníbal Pinto,C,0
+152,Chile,1880,Aníbal Pinto,C,0
+152,Chile,1881,Aníbal Pinto,C,0
+152,Chile,1882,Domingo Santa María,C,0
+152,Chile,1883,Domingo Santa María,C,0
+152,Chile,1884,Domingo Santa María,C,0
+152,Chile,1885,Domingo Santa María,C,0
+152,Chile,1886,Domingo Santa María,C,0
+152,Chile,1887,José Manuel Balcameda,C,0
+152,Chile,1888,José Manuel Balcameda,C,0
+152,Chile,1889,José Manuel Balcameda,C,0
+152,Chile,1890,José Manuel Balcameda,C,0
+152,Chile,1891,Jorge Montt,O,0
+152,Chile,1892,Jorge Montt,O,0
+152,Chile,1893,Jorge Montt,O,0
+152,Chile,1894,Jorge Montt,O,0
+152,Chile,1895,Jorge Montt,O,0
+152,Chile,1896,Jorge Montt,O,0
+152,Chile,1897,Federico Errázuriz Echaurren,R,0
+152,Chile,1898,Federico Errázuriz Echaurren,R,0
+152,Chile,1899,Federico Errázuriz Echaurren,R,0
+152,Chile,1900,Federico Errázuriz Echaurren,R,0
+152,Chile,1901,Federico Errázuriz Echaurren,R,0
+152,Chile,1902,Germán Riesco,C,0
+152,Chile,1903,Germán Riesco,C,0
+152,Chile,1904,Germán Riesco,C,0
+152,Chile,1905,Germán Riesco,C,0
+152,Chile,1906,Germán Riesco,C,0
+152,Chile,1907,Pedro Montt,R,
+152,Chile,1908,Pedro Montt,R,
+152,Chile,1909,Pedro Montt,R,
+152,Chile,1910,Pedro Montt,R,
+152,Chile,1911,Ramón Barros Luco,C,0
+152,Chile,1912,Ramón Barros Luco,C,0
+152,Chile,1913,Ramón Barros Luco,C,0
+152,Chile,1914,Ramón Barros Luco,C,0
+152,Chile,1915,Ramón Barros Luco,C,0
+152,Chile,1916,Juan Luis Sanfuentes,R,0
+152,Chile,1917,Juan Luis Sanfuentes,R,0
+152,Chile,1918,Juan Luis Sanfuentes,R,0
+152,Chile,1919,Juan Luis Sanfuentes,R,0
+152,Chile,1920,Juan Luis Sanfuentes,R,0
+152,Chile,1921,Arturo Alessandri Palma,L,0
+152,Chile,1922,Arturo Alessandri Palma,L,0
+152,Chile,1923,Arturo Alessandri Palma,L,0
+152,Chile,1924,Arturo Alessandri Palma,L,0
+152,Chile,1925,Arturo Alessandri Palma,L,0
+152,Chile,1926,Emiliano Figueroa Larraín,C,0
+152,Chile,1927,Carlos Ibañez del Campo,O,0
+152,Chile,1928,Carlos Ibañez del Campo,O,0
+152,Chile,1929,Carlos Ibañez del Campo,O,0
+152,Chile,1930,Carlos Ibañez del Campo,O,0
+152,Chile,1931,Carlos Ibañez del Campo,O,0
+152,Chile,1932,Juan Esteban Montero Rodriguez,C,0
+152,Chile,1933,Arturo Alessandri Palma,R,0
+152,Chile,1934,Arturo Alessandri Palma,R,0
+152,Chile,1935,Arturo Alessandri Palma,R,0
+152,Chile,1936,Arturo Alessandri Palma,R,0
+152,Chile,1937,Arturo Alessandri Palma,R,0
+152,Chile,1938,Arturo Alessandri Palma,R,0
+152,Chile,1939,Pedro Aguirre Cerda,L,0
+152,Chile,1940,Pedro Aguirre Cerda,L,0
+152,Chile,1941,Pedro Aguirre Cerda,L,0
+152,Chile,1942,Juan Antonio Ríos Morales,L,0
+152,Chile,1943,Juan Antonio Ríos Morales,L,0
+152,Chile,1944,Juan Antonio Ríos Morales,L,0
+152,Chile,1945,Juan Antonio Ríos Morales,L,0
+152,Chile,1946,Alfredo Duhalde Vásquez,L,0
+152,Chile,1947,Gabriel González Videla,L,0
+152,Chile,1948,Gabriel González Videla,L,0
+152,Chile,1949,Gabriel González Videla,L,0
+152,Chile,1950,Gabriel González Videla,L,0
+152,Chile,1951,Gabriel González Videla,L,0
+152,Chile,1952,Gabriel González Videla,L,0
+152,Chile,1953,Carlos Ibañez del Campo,L,0
+152,Chile,1954,Carlos Ibañez del Campo,L,0
+152,Chile,1955,Carlos Ibañez del Campo,L,0
+152,Chile,1956,Carlos Ibañez del Campo,L,0
+152,Chile,1957,Carlos Ibañez del Campo,L,0
+152,Chile,1958,Carlos Ibañez del Campo,L,0
+152,Chile,1959,Jorge Alessandri Rodríguez,R,1
+152,Chile,1960,Jorge Alessandri Rodríguez,R,1
+152,Chile,1961,Jorge Alessandri Rodríguez,R,1
+152,Chile,1962,Jorge Alessandri Rodríguez,R,1
+152,Chile,1963,Jorge Alessandri Rodríguez,R,1
+152,Chile,1964,Jorge Alessandri Rodríguez,R,1
+152,Chile,1965,Eduardo Frei Montalva,C,1
+152,Chile,1966,Eduardo Frei Montalva,C,1
+152,Chile,1967,Eduardo Frei Montalva,C,1
+152,Chile,1968,Eduardo Frei Montalva,C,1
+152,Chile,1969,Eduardo Frei Montalva,C,1
+152,Chile,1970,Eduardo Frei Montalva,C,1
+152,Chile,1971,Salvador Allende,L,0
+152,Chile,1972,Salvador Allende,L,0
+152,Chile,1973,Salvador Allende,L,0
+152,Chile,1974,Augusto Pinochet Ugarte,R,0
+152,Chile,1975,Augusto Pinochet Ugarte,R,0
+152,Chile,1976,Augusto Pinochet Ugarte,R,0
+152,Chile,1977,Augusto Pinochet Ugarte,R,0
+152,Chile,1978,Augusto Pinochet Ugarte,R,0
+152,Chile,1979,Augusto Pinochet Ugarte,R,0
+152,Chile,1980,Augusto Pinochet Ugarte,R,0
+152,Chile,1981,Augusto Pinochet Ugarte,R,0
+152,Chile,1982,Augusto Pinochet Ugarte,R,0
+152,Chile,1983,Augusto Pinochet Ugarte,R,0
+152,Chile,1984,Augusto Pinochet Ugarte,R,0
+152,Chile,1985,Augusto Pinochet Ugarte,R,0
+152,Chile,1986,Augusto Pinochet Ugarte,R,0
+152,Chile,1987,Augusto Pinochet Ugarte,R,0
+152,Chile,1988,Augusto Pinochet Ugarte,R,0
+152,Chile,1989,Augusto Pinochet Ugarte,R,0
+152,Chile,1990,Patricio Aylwin Azócar,C,0
+152,Chile,1991,Patricio Aylwin Azócar,C,0
+152,Chile,1992,Patricio Aylwin Azócar,C,0
+152,Chile,1993,Patricio Aylwin Azócar,C,0
+152,Chile,1994,Eduardo Frei Ruiz-Tagle,L,0
+152,Chile,1995,Eduardo Frei Ruiz-Tagle,L,0
+152,Chile,1996,Eduardo Frei Ruiz-Tagle,L,0
+152,Chile,1997,Eduardo Frei Ruiz-Tagle,L,0
+152,Chile,1998,Eduardo Frei Ruiz-Tagle,L,0
+152,Chile,1999,Eduardo Frei Ruiz-Tagle,L,0
+152,Chile,2000,Ricardo Lagos Escobar,L,0
+152,Chile,2001,Ricardo Lagos Escobar,L,0
+152,Chile,2002,Ricardo Lagos Escobar,L,0
+152,Chile,2003,Ricardo Lagos Escobar,L,0
+152,Chile,2004,Ricardo Lagos Escobar,L,0
+152,Chile,2005,Ricardo Lagos Escobar,L,0
+152,Chile,2006,Michelle Bachelet,L,0
+152,Chile,2007,Michelle Bachelet,L,0
+152,Chile,2008,Michelle Bachelet,L,0
+152,Chile,2009,Michelle Bachelet,L,0
+152,Chile,2010,Sebastián Piñera,C,0
+152,Chile,2011,Sebastián Piñera,C,0
+152,Chile,2012,Sebastián Piñera,C,0
+170,Colombia,1870,Eustorgio Salgar,C,0
+170,Colombia,1871,Eustorgio Salgar,C,0
+170,Colombia,1872,Manuel Murillo Toro,C,0
+170,Colombia,1873,Manuel Murillo Toro,C,0
+170,Colombia,1874,Santiago Pérez,C,0
+170,Colombia,1875,Santiago Pérez,C,0
+170,Colombia,1876,Aguileo Parra,C,0
+170,Colombia,1877,Aguileo Parra,C,0
+170,Colombia,1878,Julián Trujillo Largacha,C,0
+170,Colombia,1879,Julián Trujillo Largacha,C,0
+170,Colombia,1880,Rafael Nuñez,R,1
+170,Colombia,1881,Rafael Nuñez,R,1
+170,Colombia,1882,Francisco Javier Zaldúa,C,0
+170,Colombia,1883,José Eusebio Otálora,R,1
+170,Colombia,1884,Rafael Nuñez,R,1
+170,Colombia,1885,Rafael Nuñez,R,1
+170,Colombia,1886,Eliseo Payán,R,1
+170,Colombia,1887,Rafael Nuñez,R,1
+170,Colombia,1888,Rafael Nuñez,R,1
+170,Colombia,1889,Rafael Nuñez,R,1
+170,Colombia,1890,Rafael Nuñez,R,1
+170,Colombia,1891,Rafael Nuñez,R,1
+170,Colombia,1892,Rafael Nuñez,R,1
+170,Colombia,1893,Rafael Nuñez,R,1
+170,Colombia,1894,Rafael Nuñez,R,1
+170,Colombia,1895,Miguel Antonio Caro,R,1
+170,Colombia,1896,Miguel Antonio Caro,R,1
+170,Colombia,1897,Miguel Antonio Caro,R,1
+170,Colombia,1898,Miguel Antonio Caro,R,1
+170,Colombia,1899,Manuel Antonio Sanclemente,R,1
+170,Colombia,1900,Manuel Antonio Sanclemente,R,1
+170,Colombia,1901,José Manuel Marroquín,R,1
+170,Colombia,1902,José Manuel Marroquín,R,1
+170,Colombia,1903,José Manuel Marroquín,R,1
+170,Colombia,1904,José Manuel Marroquín,R,1
+170,Colombia,1905,Rafael Reyes,R,1
+170,Colombia,1906,Rafael Reyes,R,1
+170,Colombia,1907,Rafael Reyes,R,1
+170,Colombia,1908,Rafael Reyes,R,1
+170,Colombia,1909,Rafael Reyes,R,1
+170,Colombia,1910,Ramón González Valencia,R,1
+170,Colombia,1911,Carlos E. Restrepo,R,1
+170,Colombia,1912,Carlos E. Restrepo,R,1
+170,Colombia,1913,Carlos E. Restrepo,R,1
+170,Colombia,1914,Carlos E. Restrepo,R,1
+170,Colombia,1915,José Vicente Concha,R,1
+170,Colombia,1916,José Vicente Concha,R,1
+170,Colombia,1917,José Vicente Concha,R,1
+170,Colombia,1918,José Vicente Concha,R,1
+170,Colombia,1919,Marco Fidel Suárez,R,1
+170,Colombia,1920,Marco Fidel Suárez,R,1
+170,Colombia,1921,Marco Fidel Suárez,R,1
+170,Colombia,1922,Jorge Holguín,R,1
+170,Colombia,1923,Pedro Nel Ospina,R,1
+170,Colombia,1924,Pedro Nel Ospina,R,1
+170,Colombia,1925,Pedro Nel Ospina,R,1
+170,Colombia,1926,Pedro Nel Ospina,R,1
+170,Colombia,1927,Miguel Abadía Mendez,R,1
+170,Colombia,1928,Miguel Abadía Mendez,R,1
+170,Colombia,1929,Miguel Abadía Mendez,R,1
+170,Colombia,1930,Miguel Abadía Mendez,R,1
+170,Colombia,1931,Enrique Olaya Herrera,C,0
+170,Colombia,1932,Enrique Olaya Herrera,C,0
+170,Colombia,1933,Enrique Olaya Herrera,C,0
+170,Colombia,1934,Enrique Olaya Herrera,C,0
+170,Colombia,1935,Alfonso López Pumarejo,C,0
+170,Colombia,1936,Alfonso López Pumarejo,C,0
+170,Colombia,1937,Alfonso López Pumarejo,C,0
+170,Colombia,1938,Alfonso López Pumarejo,C,0
+170,Colombia,1939,Eduardo Santos Montejo,C,0
+170,Colombia,1940,Eduardo Santos Montejo,C,0
+170,Colombia,1941,Eduardo Santos Montejo,C,0
+170,Colombia,1942,Eduardo Santos Montejo,C,0
+170,Colombia,1943,Alfonso López Pumarejo,C,0
+170,Colombia,1944,Alfonso López Pumarejo,C,0
+170,Colombia,1945,Alfonso López Pumarejo,C,0
+170,Colombia,1946,Alberto Lleras Camargo,C,0
+170,Colombia,1947,Mariano Ospina Pérez,R,1
+170,Colombia,1948,Mariano Ospina Pérez,R,1
+170,Colombia,1949,Mariano Ospina Pérez,R,1
+170,Colombia,1950,Mariano Ospina Pérez,R,1
+170,Colombia,1951,Laureano Gómez Castro,R,1
+170,Colombia,1952,Roberto Urdaneta Arbeláez,R,1
+170,Colombia,1953,Gustavo Rojas Pinilla,O,1
+170,Colombia,1954,Gustavo Rojas Pinilla,O,1
+170,Colombia,1955,Gustavo Rojas Pinilla,O,1
+170,Colombia,1956,Gustavo Rojas Pinilla,O,1
+170,Colombia,1957,Gabriel París Gordillo,O,0
+170,Colombia,1958,Gabriel París Gordillo,O,0
+170,Colombia,1959,Alberto Lleras Camargo,C,0
+170,Colombia,1960,Alberto Lleras Camargo,C,0
+170,Colombia,1961,Alberto Lleras Camargo,C,0
+170,Colombia,1962,Alberto Lleras Camargo,C,0
+170,Colombia,1963,Guillermo León Valencia,R,1
+170,Colombia,1964,Guillermo León Valencia,R,1
+170,Colombia,1965,Guillermo León Valencia,R,1
+170,Colombia,1966,Guillermo León Valencia,R,1
+170,Colombia,1967,Carlos Lleras Restreppo,C,0
+170,Colombia,1968,Carlos Lleras Restreppo,C,0
+170,Colombia,1969,Carlos Lleras Restreppo,C,0
+170,Colombia,1970,Carlos Lleras Restreppo,C,0
+170,Colombia,1971,Misael Pastrana Borrero,R,1
+170,Colombia,1972,Misael Pastrana Borrero,R,1
+170,Colombia,1973,Misael Pastrana Borrero,R,1
+170,Colombia,1974,Misael Pastrana Borrero,R,1
+170,Colombia,1975,Alfonso López Michelsen,C,0
+170,Colombia,1976,Alfonso López Michelsen,C,0
+170,Colombia,1977,Alfonso López Michelsen,C,0
+170,Colombia,1978,Alfonso López Michelsen,C,0
+170,Colombia,1979,Julio César Turbay Ayala,C,0
+170,Colombia,1980,Julio César Turbay Ayala,C,0
+170,Colombia,1981,Julio César Turbay Ayala,C,0
+170,Colombia,1982,Julio César Turbay Ayala,C,0
+170,Colombia,1983,Belisario Betancur Cuartas,R,0
+170,Colombia,1984,Belisario Betancur Cuartas,R,0
+170,Colombia,1985,Belisario Betancur Cuartas,R,0
+170,Colombia,1986,Belisario Betancur Cuartas,R,0
+170,Colombia,1987,Virgilio Barco Vargas,C,0
+170,Colombia,1988,Virgilio Barco Vargas,C,0
+170,Colombia,1989,Virgilio Barco Vargas,C,0
+170,Colombia,1990,Virgilio Barco Vargas,C,0
+170,Colombia,1991,César Gaviria Trujillo,C,0
+170,Colombia,1992,César Gaviria Trujillo,C,0
+170,Colombia,1993,César Gaviria Trujillo,C,0
+170,Colombia,1994,César Gaviria Trujillo,C,0
+170,Colombia,1995,Ernesto Samper Pizano,C,0
+170,Colombia,1996,Ernesto Samper Pizano,C,0
+170,Colombia,1997,Ernesto Samper Pizano,C,0
+170,Colombia,1998,Ernesto Samper Pizano,C,0
+170,Colombia,1999,Andrés Pastrana Arango,R,0
+170,Colombia,2000,Andrés Pastrana Arango,R,0
+170,Colombia,2001,Andrés Pastrana Arango,R,0
+170,Colombia,2002,Andrés Pastrana Arango,R,0
+170,Colombia,2003,Àlvaro Uribe Vélez,R,0
+170,Colombia,2004,Àlvaro Uribe Vélez,R,0
+170,Colombia,2005,Àlvaro Uribe Vélez,R,0
+170,Colombia,2006,Àlvaro Uribe Vélez,R,0
+170,Colombia,2007,Àlvaro Uribe Vélez,R,0
+170,Colombia,2008,Àlvaro Uribe Vélez,R,0
+170,Colombia,2009,Àlvaro Uribe Vélez,R,0
+170,Colombia,2010,Àlvaro Uribe Vélez,R,0
+170,Colombia,2011,Juan Manuel Santos,C,0
+170,Colombia,2012,Juan Manuel Santos,C,0
+188,Costa Rica,1870,Jesús Jiméne Zamora/Bruno Carranza/Tomás Guardia,C,0
+188,Costa Rica,1871,Tomás Guardia,C,0
+188,Costa Rica,1872,Tomás Guardia,C,0
+188,Costa Rica,1873,Tomás Guardia,C,0
+188,Costa Rica,1874,Tomás Guardia,C,0
+188,Costa Rica,1875,Tomás Guardia,C,0
+188,Costa Rica,1876,Tomás Guardia/Aniceto Esquivel/Vicente Herrera,C,0
+188,Costa Rica,1877,Vicente Herrera,C,0
+188,Costa Rica,1878,Tomás Guardia,C,0
+188,Costa Rica,1879,Tomás Guardia,C,0
+188,Costa Rica,1880,Tomás Guardia,C,0
+188,Costa Rica,1881,Tomás Guardia,C,0
+188,Costa Rica,1882,Tomás Guardia,C,0
+188,Costa Rica,1883,Próspero Fernández Oreamuno,C,0
+188,Costa Rica,1884,Próspero Fernández Oreamuno,C,0
+188,Costa Rica,1885,Bernardo Soto Alfaro,C,0
+188,Costa Rica,1886,Bernardo Soto Alfaro,C,0
+188,Costa Rica,1887,Bernardo Soto Alfaro,C,0
+188,Costa Rica,1888,Bernardo Soto Alfaro,C,0
+188,Costa Rica,1889,Bernardo Soto Alfaro,C,0
+188,Costa Rica,1890,José Joaquín Rodríguez,C,0
+188,Costa Rica,1891,José Joaquín Rodríguez,C,0
+188,Costa Rica,1892,José Joaquín Rodríguez,C,0
+188,Costa Rica,1893,José Joaquín Rodríguez,C,0
+188,Costa Rica,1894,Rafael Yglesias Castro,C,0
+188,Costa Rica,1895,Rafael Yglesias Castro,C,0
+188,Costa Rica,1896,Rafael Yglesias Castro,C,0
+188,Costa Rica,1897,Rafael Yglesias Castro,C,0
+188,Costa Rica,1898,Rafael Yglesias Castro,C,0
+188,Costa Rica,1899,Rafael Yglesias Castro,C,0
+188,Costa Rica,1900,Rafael Yglesias Castro,C,0
+188,Costa Rica,1901,Rafael Yglesias Castro,C,0
+188,Costa Rica,1902,Ascensión Esquivel Ibarra,C,0
+188,Costa Rica,1903,Ascensión Esquivel Ibarra,C,0
+188,Costa Rica,1904,Ascensión Esquivel Ibarra,C,0
+188,Costa Rica,1905,Ascensión Esquivel Ibarra,C,0
+188,Costa Rica,1906,Cleto González Víquez,C,0
+188,Costa Rica,1907,Cleto González Víquez,C,0
+188,Costa Rica,1908,Cleto González Víquez,C,0
+188,Costa Rica,1909,Cleto González Víquez,C,0
+188,Costa Rica,1910,Ricardo Jiménez Oreamuno,C,0
+188,Costa Rica,1911,Ricardo Jiménez Oreamuno,C,0
+188,Costa Rica,1912,Ricardo Jiménez Oreamuno,C,0
+188,Costa Rica,1913,Ricardo Jiménez Oreamuno,C,0
+188,Costa Rica,1914,Alfredo González Flores,L,0
+188,Costa Rica,1915,Alfredo González Flores,L,0
+188,Costa Rica,1916,Alfredo González Flores,L,0
+188,Costa Rica,1917,Federico Tinoco Granados,R,0
+188,Costa Rica,1918,Federico Tinoco Granados,R,0
+188,Costa Rica,1919,Federico Tinoco Granados,R,0
+188,Costa Rica,1920,Julio Acosta García,O,0
+188,Costa Rica,1921,Julio Acosta García,O,0
+188,Costa Rica,1922,Julio Acosta García,O,0
+188,Costa Rica,1923,Julio Acosta García,O,0
+188,Costa Rica,1924,Ricardo Jiménez Oreamuno,C,0
+188,Costa Rica,1925,Ricardo Jiménez Oreamuno,C,0
+188,Costa Rica,1926,Ricardo Jiménez Oreamuno,C,0
+188,Costa Rica,1927,Ricardo Jiménez Oreamuno,C,0
+188,Costa Rica,1928,Cleto Gonzalez Viquez,C,0
+188,Costa Rica,1929,Cleto Gonzalez Viquez,C,0
+188,Costa Rica,1930,Cleto Gonzalez Viquez,C,0
+188,Costa Rica,1931,Cleto Gonzalez Viquez,C,0
+188,Costa Rica,1932,Ricardo Jiménez Oreamuno,C,0
+188,Costa Rica,1933,Ricardo Jiménez Oreamuno,C,0
+188,Costa Rica,1934,Ricardo Jiménez Oreamuno,C,0
+188,Costa Rica,1935,Ricardo Jiménez Oreamuno,C,0
+188,Costa Rica,1936,Leon Cortes Castro,C,0
+188,Costa Rica,1937,Leon Cortes Castro,C,0
+188,Costa Rica,1938,Leon Cortes Castro,C,0
+188,Costa Rica,1939,Leon Cortes Castro,C,0
+188,Costa Rica,1940,Dr. Rafael Angel Calderon Guardia,L,1
+188,Costa Rica,1941,Dr. Rafael Angel Calderon Guardia,L,1
+188,Costa Rica,1942,Dr. Rafael Angel Calderon Guardia,L,1
+188,Costa Rica,1943,Dr. Rafael Angel Calderon Guardia,L,1
+188,Costa Rica,1944,Teodoro Picado Michalski,L,1
+188,Costa Rica,1945,Teodoro Picado Michalski,L,1
+188,Costa Rica,1946,Teodoro Picado Michalski,L,1
+188,Costa Rica,1947,Teodoro Picado Michalski,L,1
+188,Costa Rica,1948,Jose Figueres Ferrer,L,0
+188,Costa Rica,1949,Jose Figueres Ferrer,L,0
+188,Costa Rica,1950,Otilio Ulate,R,0
+188,Costa Rica,1951,Otilio Ulate,R,0
+188,Costa Rica,1952,Otilio Ulate,R,0
+188,Costa Rica,1953,Otilio Ulate,R,0
+188,Costa Rica,1954,Jose Figueres Ferrer,L,0
+188,Costa Rica,1955,Jose Figueres Ferrer,L,0
+188,Costa Rica,1956,Jose Figueres Ferrer,L,0
+188,Costa Rica,1957,Jose Figueres Ferrer,L,0
+188,Costa Rica,1958,Mario Echandi Jimenez,R,0
+188,Costa Rica,1959,Mario Echandi Jimenez,R,0
+188,Costa Rica,1960,Mario Echandi Jimenez,R,0
+188,Costa Rica,1961,Mario Echandi Jimenez,R,0
+188,Costa Rica,1962,J. Orlich Bolmarich,L,0
+188,Costa Rica,1963,J. Orlich Bolmarich,L,0
+188,Costa Rica,1964,J. Orlich Bolmarich,L,0
+188,Costa Rica,1965,J. Orlich Bolmarich,L,0
+188,Costa Rica,1966,Jose Joaquin Trejos,R,0
+188,Costa Rica,1967,Jose Joaquin Trejos,R,0
+188,Costa Rica,1968,Jose Joaquin Trejos,R,0
+188,Costa Rica,1969,Jose Joaquin Trejos,R,0
+188,Costa Rica,1970,Jose Figueres Ferrer,L,0
+188,Costa Rica,1971,Jose Figueres Ferrer,L,0
+188,Costa Rica,1972,Jose Figueres Ferrer,L,0
+188,Costa Rica,1973,Jose Figueres Ferrer,L,0
+188,Costa Rica,1974,Daniel Oduber Quiros,L,0
+188,Costa Rica,1975,Daniel Oduber Quiros,L,0
+188,Costa Rica,1976,Daniel Oduber Quiros,L,0
+188,Costa Rica,1977,Daniel Oduber Quiros,L,0
+188,Costa Rica,1978,Rodrigo Carazo,R,1
+188,Costa Rica,1979,Rodrigo Carazo,R,1
+188,Costa Rica,1980,Rodrigo Carazo,R,1
+188,Costa Rica,1981,Rodrigo Carazo,R,1
+188,Costa Rica,1982,Luis Alberto Monge Alvarez,L,0
+188,Costa Rica,1983,Luis Alberto Monge Alvarez,L,0
+188,Costa Rica,1984,Luis Alberto Monge Alvarez,L,0
+188,Costa Rica,1985,Luis Alberto Monge Alvarez,L,0
+188,Costa Rica,1986,Oscar Arias Sanchez,L,0
+188,Costa Rica,1987,Oscar Arias Sanchez,L,0
+188,Costa Rica,1988,Oscar Arias Sanchez,L,0
+188,Costa Rica,1989,Oscar Arias Sanchez,L,0
+188,Costa Rica,1990,Rafael Angel Calderon,R,1
+188,Costa Rica,1991,Rafael Angel Calderon,R,1
+188,Costa Rica,1992,Rafael Angel Calderon,R,1
+188,Costa Rica,1993,Rafael Angel Calderon,R,1
+188,Costa Rica,1994,Jose Maria Figueres Olsen,L,0
+188,Costa Rica,1995,Jose Maria Figueres Olsen,L,0
+188,Costa Rica,1996,Jose Maria Figueres Olsen,L,0
+188,Costa Rica,1997,Jose Maria Figueres Olsen,L,0
+188,Costa Rica,1998,Miguel Ángel Rodríguez Echeverría,R,1
+188,Costa Rica,1999,Miguel Ángel Rodríguez Echeverría,R,1
+188,Costa Rica,2000,Miguel Ángel Rodríguez Echeverría,R,1
+188,Costa Rica,2001,Miguel Ángel Rodríguez Echeverría,R,1
+188,Costa Rica,2002,Abel Pacheco de la Espriella,R,1
+188,Costa Rica,2003,Abel Pacheco de la Espriella,R,1
+188,Costa Rica,2004,Abel Pacheco de la Espriella,R,1
+188,Costa Rica,2005,Abel Pacheco de la Espriella,R,1
+188,Costa Rica,2006,Oscar Arias Sanchez,L,0
+188,Costa Rica,2007,Oscar Arias Sanchez,L,0
+188,Costa Rica,2008,Oscar Arias Sanchez,L,0
+188,Costa Rica,2009,Oscar Arias Sanchez,L,0
+188,Costa Rica,2010,Laura Chinchilla,L,0
+188,Costa Rica,2011,Laura Chinchilla,L,0
+188,Costa Rica,2012,Laura Chinchilla,L,0
+208,Denmark,1870,Ludvig Holstein-Holsteinborg,R,0
+208,Denmark,1871,Ludvig Holstein-Holsteinborg,R,0
+208,Denmark,1872,Ludvig Holstein-Holsteinborg,R,0
+208,Denmark,1873,Ludvig Holstein-Holsteinborg,R,0
+208,Denmark,1874,Ludvig Holstein-Holsteinborg,R,0
+208,Denmark,1875,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1876,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1877,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1878,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1879,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1880,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1881,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1882,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1883,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1884,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1885,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1886,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1887,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1888,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1889,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1890,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1891,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1892,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1893,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1894,Jacob Brønnum Scavenius Estrup ,R,0
+208,Denmark,1895,Tage Reedtz-Thott,R,0
+208,Denmark,1896,Tage Reedtz-Thott,R,0
+208,Denmark,1897,Hugo Egmont Hørring,R,0
+208,Denmark,1898,Hugo Egmont Hørring,R,0
+208,Denmark,1899,Hugo Egmont Hørring,R,0
+208,Denmark,1900,Hannibal Sehested ,R,0
+208,Denmark,1901,Hannibal Sehested ,R,0
+208,Denmark,1902,Johan Henrik Deuntzer ,R,0
+208,Denmark,1903,Johan Henrik Deuntzer ,R,0
+208,Denmark,1904,Johan Henrik Deuntzer ,R,0
+208,Denmark,1905,Jens Christian Christensen  ,R,0
+208,Denmark,1906,Jens Christian Christensen  ,R,0
+208,Denmark,1907,Jens Christian Christensen  ,R,0
+208,Denmark,1908,Jens Christian Christensen  ,R,0
+208,Denmark,1909,Niels Neergaard,R,0
+208,Denmark,1910,Carl Theodor Zahle,C,0
+208,Denmark,1911,Klaus Berntsen ,R,0
+208,Denmark,1912,Klaus Berntsen ,R,0
+208,Denmark,1913,Klaus Berntsen ,R,0
+208,Denmark,1914,Carl Theodor Zahle,C,0
+208,Denmark,1915,Carl Theodor Zahle,C,0
+208,Denmark,1916,Carl Theodor Zahle,C,0
+208,Denmark,1917,Carl Theodor Zahle,C,0
+208,Denmark,1918,Carl Theodor Zahle,C,0
+208,Denmark,1919,Carl Theodor Zahle,C,0
+208,Denmark,1920,Niels Neergaard,R,0
+208,Denmark,1921,Niels Neergaard,R,0
+208,Denmark,1922,Niels Neergaard,R,0
+208,Denmark,1923,Niels Neergaard,R,0
+208,Denmark,1924,Thorvald Stauning,L,0
+208,Denmark,1925,Thorvald Stauning,L,0
+208,Denmark,1926,Thorvald Stauning,L,0
+208,Denmark,1927,Thomas Madsen-Mygdal,R,0
+208,Denmark,1928,Thomas Madsen-Mygdal,R,0
+208,Denmark,1929,Thorvald Stauning,L,0
+208,Denmark,1930,Thorvald Stauning,L,0
+208,Denmark,1931,Thorvald Stauning,L,0
+208,Denmark,1932,Thorvald Stauning,L,0
+208,Denmark,1933,Thorvald Stauning,L,0
+208,Denmark,1934,Thorvald Stauning,L,0
+208,Denmark,1935,Thorvald Stauning,L,0
+208,Denmark,1936,Thorvald Stauning,L,0
+208,Denmark,1937,Thorvald Stauning,L,0
+208,Denmark,1938,Thorvald Stauning,L,0
+208,Denmark,1939,Thorvald Stauning,L,0
+208,Denmark,1940,Thorvald Stauning,,
+208,Denmark,1941,Thorvald Stauning,,
+208,Denmark,1942,Thorvald Stauning,,
+208,Denmark,1943,Vilhelm Buhl,,
+208,Denmark,1944,Eric Scavenius,,
+208,Denmark,1945,Vilhelm Buhl,L,0
+208,Denmark,1946,Knud Kristensen,R,0
+208,Denmark,1947,Knud Kristensen,R,0
+208,Denmark,1948,Hans Hedtoft,L,0
+208,Denmark,1949,Hans Hedtoft,L,0
+208,Denmark,1950,Hans Hedtoft,L,0
+208,Denmark,1951,Erik Eriksen,R,0
+208,Denmark,1952,Erik Eriksen,R,0
+208,Denmark,1953,Erik Eriksen,R,0
+208,Denmark,1954,Hans Hedtoft,L,0
+208,Denmark,1955,Hans Christian Hansen,L,0
+208,Denmark,1956,Hans Christian Hansen,L,0
+208,Denmark,1957,Hans Christian Hansen,L,0
+208,Denmark,1958,Hans Christian Hansen,L,0
+208,Denmark,1959,Hans Christian Hansen,L,0
+208,Denmark,1960,Viggo Kampmann,L,0
+208,Denmark,1961,Viggo Kampmann,L,0
+208,Denmark,1962,Viggo Kampmann,L,0
+208,Denmark,1963,Jens Otto Krag,L,0
+208,Denmark,1964,Jens Otto Krag,L,0
+208,Denmark,1965,Jens Otto Krag,L,0
+208,Denmark,1966,Jens Otto Krag,L,0
+208,Denmark,1967,Jens Otto Krag,L,0
+208,Denmark,1968,Hilmar Baunsgaard ,C,0
+208,Denmark,1969,Hilmar Baunsgaard ,C,0
+208,Denmark,1970,Hilmar Baunsgaard ,C,0
+208,Denmark,1971,Hilmar Baunsgaard ,C,0
+208,Denmark,1972,Jens Otto Krag ,L,0
+208,Denmark,1973,Anker Jørgensen,L,0
+208,Denmark,1974,Poul Hartling ,R,0
+208,Denmark,1975,Anker Jørgensen,L,0
+208,Denmark,1976,Anker Jørgensen,L,0
+208,Denmark,1977,Anker Jørgensen,L,0
+208,Denmark,1978,Anker Jørgensen,L,0
+208,Denmark,1979,Anker Jørgensen,L,0
+208,Denmark,1980,Anker Jørgensen,L,0
+208,Denmark,1981,Anker Jørgensen,L,0
+208,Denmark,1982,Anker Jørgensen,L,0
+208,Denmark,1983,Poul Schlüter,R,0
+208,Denmark,1984,Poul Schlüter,R,0
+208,Denmark,1985,Poul Schlüter,R,0
+208,Denmark,1986,Poul Schlüter,R,0
+208,Denmark,1987,Poul Schlüter,R,0
+208,Denmark,1988,Poul Schlüter,R,0
+208,Denmark,1989,Poul Schlüter,R,0
+208,Denmark,1990,Poul Schlüter,R,0
+208,Denmark,1991,Poul Schlüter,R,0
+208,Denmark,1992,Poul Schlüter,R,0
+208,Denmark,1993,Poul Nyrup Rasmussen,L,0
+208,Denmark,1994,Poul Nyrup Rasmussen,L,0
+208,Denmark,1995,Poul Nyrup Rasmussen,L,0
+208,Denmark,1996,Poul Nyrup Rasmussen,L,0
+208,Denmark,1997,Poul Nyrup Rasmussen,L,0
+208,Denmark,1998,Poul Nyrup Rasmussen,L,0
+208,Denmark,1999,Poul Nyrup Rasmussen,L,0
+208,Denmark,2000,Poul Nyrup Rasmussen,L,0
+208,Denmark,2001,Poul Nyrup Rasmussen,L,0
+208,Denmark,2002,Anders Fogh Rasmussen,R,0
+208,Denmark,2003,Anders Fogh Rasmussen,R,0
+208,Denmark,2004,Anders Fogh Rasmussen,R,0
+208,Denmark,2005,Anders Fogh Rasmussen,R,0
+208,Denmark,2006,Anders Fogh Rasmussen,R,0
+208,Denmark,2007,Anders Fogh Rasmussen,R,0
+208,Denmark,2008,Anders Fogh Rasmussen,R,0
+208,Denmark,2009,Lars Løkke Rasmussen,R,0
+208,Denmark,2010,Lars Løkke Rasmussen,R,0
+208,Denmark,2011,Lars Løkke Rasmussen,R,0
+208,Denmark,2012,Helle Thorning-Schmidt,L,0
+218,Ecuador,1870,Gabriel García Moreno,R,1
+218,Ecuador,1871,Gabriel García Moreno,R,1
+218,Ecuador,1872,Gabriel García Moreno,R,1
+218,Ecuador,1873,Gabriel García Moreno,R,1
+218,Ecuador,1874,Gabriel García Moreno,R,1
+218,Ecuador,1875,Gabriel García Moreno,R,1
+218,Ecuador,1876,Antonio Borrero y Cortázar,C,
+218,Ecuador,1877,Ignacio de Veintemilla,,
+218,Ecuador,1878,Ignacio de Veintemilla,,
+218,Ecuador,1879,Ignacio de Veintemilla,,
+218,Ecuador,1880,Ignacio de Veintemilla,,
+218,Ecuador,1881,Ignacio de Veintemilla,,
+218,Ecuador,1882,Ignacio de Veintemilla,,
+218,Ecuador,1883,Ignacio de Veintemilla,,
+218,Ecuador,1884,José María Plácido Caamaño,R,1
+218,Ecuador,1885,José María Plácido Caamaño,R,1
+218,Ecuador,1886,José María Plácido Caamaño,R,1
+218,Ecuador,1887,José María Plácido Caamaño,R,1
+218,Ecuador,1888,José María Plácido Caamaño,R,1
+218,Ecuador,1889,Antonio Flores Jijón,R,1
+218,Ecuador,1890,Antonio Flores Jijón,R,1
+218,Ecuador,1891,Antonio Flores Jijón,R,1
+218,Ecuador,1892,Antonio Flores Jijón,R,1
+218,Ecuador,1893,Luis Cordero Crespo,R,1
+218,Ecuador,1894,Luis Cordero Crespo,R,1
+218,Ecuador,1895,Luis Cordero Crespo/Vicente Lucio Salazar,R,1
+218,Ecuador,1896,Eloy Alfaro,C,0
+218,Ecuador,1897,Eloy Alfaro,C,0
+218,Ecuador,1898,Eloy Alfaro,C,0
+218,Ecuador,1899,Eloy Alfaro,C,0
+218,Ecuador,1900,Eloy Alfaro,C,0
+218,Ecuador,1901,Eloy Alfaro,C,0
+218,Ecuador,1902,Leonidas Plaza Gutiérrez,C,0
+218,Ecuador,1903,Leonidas Plaza Gutiérrez,C,0
+218,Ecuador,1904,Leonidas Plaza Gutiérrez,C,0
+218,Ecuador,1905,Leonidas Plaza Gutiérrez,C,0
+218,Ecuador,1906,Eloy Alfaro,C,0
+218,Ecuador,1907,Eloy Alfaro,C,0
+218,Ecuador,1908,Eloy Alfaro,C,0
+218,Ecuador,1909,Eloy Alfaro,C,0
+218,Ecuador,1910,Eloy Alfaro,C,0
+218,Ecuador,1911,Eloy Alfaro,C,0
+218,Ecuador,1912,Fransisco Andrade Marín/Alfredo Baquerizo Moreno/Leonidas Plaza Gutierrez,C,0
+218,Ecuador,1913,Leonidas Plaza Gutiérrez,C,0
+218,Ecuador,1914,Leonidas Plaza Gutiérrez,C,0
+218,Ecuador,1915,Leonidas Plaza Gutiérrez,C,0
+218,Ecuador,1916,Leonidas Plaza Gutiérrez,C,0
+218,Ecuador,1917,Alfredo Baquerizo Moreno,C,0
+218,Ecuador,1918,Alfredo Baquerizo Moreno,C,0
+218,Ecuador,1919,Alfredo Baquerizo Moreno,C,0
+218,Ecuador,1920,Alfredo Baquerizo Moreno,C,0
+218,Ecuador,1921,José Luis Tamayo,C,0
+218,Ecuador,1922,José Luis Tamayo,C,0
+218,Ecuador,1923,José Luis Tamayo,C,0
+218,Ecuador,1924,José Luis Tamayo,C,0
+218,Ecuador,1925,Gonzalo S. Córdova,C,0
+218,Ecuador,1926,Isidro Ayora,L,0
+218,Ecuador,1927,Isidro Ayora,L,0
+218,Ecuador,1928,Isidro Ayora,L,0
+218,Ecuador,1929,Isidro Ayora,L,0
+218,Ecuador,1930,Isidro Ayora,L,0
+218,Ecuador,1931,Isidro Ayora,L,0
+218,Ecuador,1932,Alfredo Baquerizo Moreno,C,0
+218,Ecuador,1933,Juan de Dios Martínez Mera,C,0
+218,Ecuador,1934,Abelardo Montalvo,C,0
+218,Ecuador,1935,José Maria Velasco Ibarra,R,1
+218,Ecuador,1936,Federico Páez Chiriboga,O,0
+218,Ecuador,1937,Federico Páez Chiriboga,O,0
+218,Ecuador,1938,Gil Alberto Enríquez Gallo,L,0
+218,Ecuador,1939,Aurelio Mosquera Narváez,C,0
+218,Ecuador,1940,Andrés F. Córdova Nieto,C,0
+218,Ecuador,1941,Carlos Alberto Arroyo del Río,C,0
+218,Ecuador,1942,Carlos Alberto Arroyo del Río,C,0
+218,Ecuador,1943,Carlos Alberto Arroyo del Río,C,0
+218,Ecuador,1944,José Maria Velasco Ibarra,L,0
+218,Ecuador,1945,José Maria Velasco Ibarra,L,0
+218,Ecuador,1946,José Maria Velasco Ibarra,L,0
+218,Ecuador,1947,José Maria Velasco Ibarra,L,0
+218,Ecuador,1948,Carlos Julio Arosemena Tola,R,0
+218,Ecuador,1949,Galo Plaza Lasso,R,0
+218,Ecuador,1950,Galo Plaza Lasso,R,0
+218,Ecuador,1951,Galo Plaza Lasso,R,0
+218,Ecuador,1952,Galo Plaza Lasso,R,0
+218,Ecuador,1953,José Maria Velasco Ibarra,O,0
+218,Ecuador,1954,José Maria Velasco Ibarra,O,0
+218,Ecuador,1955,José Maria Velasco Ibarra,O,0
+218,Ecuador,1956,José Maria Velasco Ibarra,O,0
+218,Ecuador,1957,Camilo Ponce Enríquez,R,1
+218,Ecuador,1958,Camilo Ponce Enríquez,R,1
+218,Ecuador,1959,Camilo Ponce Enríquez,R,1
+218,Ecuador,1960,Camilo Ponce Enríquez,R,1
+218,Ecuador,1961,José Maria Velasco Ibarra,O,0
+218,Ecuador,1962,Carlos Julio Arosemena Monroy,O,0
+218,Ecuador,1963,Carlos Julio Arosemena Monroy,O,0
+218,Ecuador,1964,Ramón Castro Jijón,R,
+218,Ecuador,1965,Ramón Castro Jijón,R,
+218,Ecuador,1966,Clemente Yerovi Indaburu,R,
+218,Ecuador,1967,Otto Arosemena Gómez,R,
+218,Ecuador,1968,Otto Arosemena Gómez,R,
+218,Ecuador,1969,José Maria Velasco Ibarra,O,0
+218,Ecuador,1970,José Maria Velasco Ibarra,O,0
+218,Ecuador,1971,José Maria Velasco Ibarra,O,0
+218,Ecuador,1972,Guillermo Rodríguez Lara,O,0
+218,Ecuador,1973,Guillermo Rodríguez Lara,O,0
+218,Ecuador,1974,Guillermo Rodríguez Lara,O,0
+218,Ecuador,1975,Guillermo Rodríguez Lara,O,0
+218,Ecuador,1976,Alfredo Poveda Burbano,O,0
+218,Ecuador,1977,Alfredo Poveda Burbano,O,0
+218,Ecuador,1978,Alfredo Poveda Burbano,O,0
+218,Ecuador,1979,Alfredo Poveda Burbano,O,0
+218,Ecuador,1980,Jaime Roldós Aguilera,C,0
+218,Ecuador,1981,Jaime Roldós Aguilera,C,0
+218,Ecuador,1982,Osvaldo Hurtado Larrea,L,0
+218,Ecuador,1983,Osvaldo Hurtado Larrea,L,0
+218,Ecuador,1984,Osvaldo Hurtado Larrea,L,0
+218,Ecuador,1985,León Febres Cordero,R,1
+218,Ecuador,1986,León Febres Cordero,R,1
+218,Ecuador,1987,León Febres Cordero,R,1
+218,Ecuador,1988,León Febres Cordero,R,1
+218,Ecuador,1989,Rodrigo Borja Cevallos,L,0
+218,Ecuador,1990,Rodrigo Borja Cevallos,L,0
+218,Ecuador,1991,Rodrigo Borja Cevallos,L,0
+218,Ecuador,1992,Rodrigo Borja Cevallos,L,0
+218,Ecuador,1993,Sixto Durán Ballén,L,0
+218,Ecuador,1994,Sixto Durán Ballén,L,0
+218,Ecuador,1995,Sixto Durán Ballén,L,0
+218,Ecuador,1996,Sixto Durán Ballén,L,0
+218,Ecuador,1997,Fabián Alarcón,O,0
+218,Ecuador,1998,Fabián Alarcón,L,0
+218,Ecuador,1999,Jamil Mahuad,L,0
+218,Ecuador,2000,Gustavo Noboa,L,0
+218,Ecuador,2001,Gustavo Noboa,L,0
+218,Ecuador,2002,Gustavo Noboa,L,0
+218,Ecuador,2003,Lucio Gutiérrez,O,0
+218,Ecuador,2004,Lucio Gutiérrez,O,0
+218,Ecuador,2005,Alfredo Palacio,O,0
+218,Ecuador,2006,Alfredo Palacio,O,0
+218,Ecuador,2007,Rafael Correa,L,0
+218,Ecuador,2008,Rafael Correa,L,0
+218,Ecuador,2009,Rafael Correa,L,0
+218,Ecuador,2010,Rafael Correa,L,0
+218,Ecuador,2011,Rafael Correa,L,0
+218,Ecuador,2012,Rafael Correa,L,0
+246,Finland,1917,Pehr Evind Svinhufvud,R,0
+246,Finland,1918,Juho Kusti Paasikivi,R,0
+246,Finland,1919,Kaarlo Castrén,C,0
+246,Finland,1920,Rafael Waldemar Erich ,R,0
+246,Finland,1921,Juho Heikki Vennola ,C,0
+246,Finland,1922,Juho Heikki Vennola ,C,0
+246,Finland,1923,Kyösti Kallio,C,0
+246,Finland,1924,Lauri Johannes Ingman,R,0
+246,Finland,1925,Antti Agaton Tulenheimo,R,0
+246,Finland,1926,Kyösti Kallio,C,0
+246,Finland,1927,Väinö Tanner ,L,0
+246,Finland,1928,Juho Emil Sunila,C,0
+246,Finland,1929,Oskari Mantere,C,0
+246,Finland,1930,Kyösti Kallio,C,0
+246,Finland,1931,Juho Emil Sunila,C,0
+246,Finland,1932,Juho Emil Sunila,C,0
+246,Finland,1933,Toivo Mikael Kivimäki,C,0
+246,Finland,1934,Toivo Mikael Kivimäki,C,0
+246,Finland,1935,Toivo Mikael Kivimäki,C,0
+246,Finland,1936,Toivo Mikael Kivimäki,C,0
+246,Finland,1937,Aimo Kaarlo Cajander,C,0
+246,Finland,1938,Aimo Kaarlo Cajander,C,0
+246,Finland,1939,Aimo Kaarlo Cajander,C,0
+246,Finland,1940,Risto Heikki Ryti ,C,0
+246,Finland,1941,Johan Wilhelm Rangell,C,0
+246,Finland,1942,Johan Wilhelm Rangell,C,0
+246,Finland,1943,Edwin Johan Hildegard Linkomies,R,0
+246,Finland,1944,Edwin Johan Hildegard Linkomies,R,0
+246,Finland,1945,Juho Kusti Paasikivi,R,0
+246,Finland,1946,Mauno Pekkala,L,0
+246,Finland,1947,Mauno Pekkala,L,0
+246,Finland,1948,Mauno Pekkala,L,0
+246,Finland,1949,Karl August Fagerholm,L,0
+246,Finland,1950,Urho Kekkonen,C,0
+246,Finland,1951,Urho Kekkonen,C,0
+246,Finland,1952,Urho Kekkonen,C,0
+246,Finland,1953,Urho Kekkonen,C,0
+246,Finland,1954,Ralf Törngren,C,0
+246,Finland,1955,Urho Kekkonen,C,0
+246,Finland,1956,Karl August Fagerholm,L,0
+246,Finland,1957,Vieno Johannes Sukselainen,C,0
+246,Finland,1958,Reino Kuuskoski,O,0
+246,Finland,1959,Vieno Johannes Sukselainen,C,0
+246,Finland,1960,Vieno Johannes Sukselainen,C,0
+246,Finland,1961,Vieno Johannes Sukselainen,C,0
+246,Finland,1962,Ahti Karjalainen ,C,0
+246,Finland,1963,Ahti Karjalainen ,C,0
+246,Finland,1964,Reino Lehto,O,0
+246,Finland,1965,Johannes Virolainen,C,0
+246,Finland,1966,Rafael Paasio,L,0
+246,Finland,1967,Rafael Paasio,L,0
+246,Finland,1968,Mauno Koivisto ,L,0
+246,Finland,1969,Mauno Koivisto ,L,0
+246,Finland,1970,Ahti Karjalainen,C,0
+246,Finland,1971,Ahti Karjalainen,C,0
+246,Finland,1972,Rafael Paasio,L,0
+246,Finland,1973,Kalevi Sorsa,L,0
+246,Finland,1974,Kalevi Sorsa,L,0
+246,Finland,1975,Kalevi Sorsa,L,0
+246,Finland,1976,Martti Miettunen,C,0
+246,Finland,1977,Kalevi Sorsa,L,0
+246,Finland,1978,Kalevi Sorsa,L,0
+246,Finland,1979,Mauno Koivisto ,L,0
+246,Finland,1980,Mauno Koivisto ,L,0
+246,Finland,1981,Mauno Koivisto ,L,0
+246,Finland,1982,Kalevi Sorsa,L,0
+246,Finland,1983,Kalevi Sorsa,L,0
+246,Finland,1984,Kalevi Sorsa,L,0
+246,Finland,1985,Kalevi Sorsa,L,0
+246,Finland,1986,Kalevi Sorsa,L,0
+246,Finland,1987,Harri Holkeri,R,0
+246,Finland,1988,Harri Holkeri,R,0
+246,Finland,1989,Harri Holkeri,R,0
+246,Finland,1990,Harri Holkeri,R,0
+246,Finland,1991,Esko Aho,C,0
+246,Finland,1992,Esko Aho,C,0
+246,Finland,1993,Esko Aho,C,0
+246,Finland,1994,Esko Aho,C,0
+246,Finland,1995,Paavo Lipponen,L,0
+246,Finland,1996,Paavo Lipponen,L,0
+246,Finland,1997,Paavo Lipponen,L,0
+246,Finland,1998,Paavo Lipponen,L,0
+246,Finland,1999,Paavo Lipponen,L,0
+246,Finland,2000,Paavo Lipponen,L,0
+246,Finland,2001,Paavo Lipponen,L,0
+246,Finland,2002,Paavo Lipponen,L,0
+246,Finland,2003,Matti Vanhanen,C,0
+246,Finland,2004,Matti Vanhanen,C,0
+246,Finland,2005,Matti Vanhanen,C,0
+246,Finland,2006,Matti Vanhanen,C,0
+246,Finland,2007,Matti Vanhanen,C,0
+246,Finland,2008,Matti Vanhanen,C,0
+246,Finland,2009,Matti Vanhanen,C,0
+246,Finland,2010,Mari Kiviniemi,C,0
+246,Finland,2011,Jyrki Kaitanen,R,0
+246,Finland,2012,Jyrki Kaitanen,R,0
+250,France,1870,Émile Ollivier,R,0
+250,France,1871,Jules Armand Dufaure,R,0
+250,France,1872,Jules Armand Dufaure,R,0
+250,France,1873,"Albert, duc de Broglie",R,0
+250,France,1874,Ernest Courtot de Cissey,R,0
+250,France,1875,Louis Buffet,R,0
+250,France,1876,Jules Armand Dufaure,R,0
+250,France,1877,"Albert, duc de Broglie",R,0
+250,France,1878,Jules Armand Dufaure,R,0
+250,France,1879,William Henry Waddington,R,0
+250,France,1880,Charles de Freycinet,C,0
+250,France,1881,Jules Ferry,C,0
+250,France,1882,Charles de Freycinet,C,0
+250,France,1883,Jules Ferry,C,0
+250,France,1884,Jules Ferry,C,0
+250,France,1885,Henri Brisson,C,0
+250,France,1886,Charles de Freycinet,C,0
+250,France,1887,Maurice Rouvier,C,0
+250,France,1888,Charles Floquet   ,C,0
+250,France,1889,Pierre Tirard,C,0
+250,France,1890,Charles de Freycinet,C,0
+250,France,1891,Charles de Freycinet,C,0
+250,France,1892,Émile Loubet,C,0
+250,France,1893,Charles Dupuy,C,0
+250,France,1894,Charles Dupuy,C,0
+250,France,1895,Alexandre Ribot,C,0
+250,France,1896,Jules Méline ,R,0
+250,France,1897,Jules Méline ,R,0
+250,France,1898,Jules Méline ,R,0
+250,France,1899,Pierre Waldeck-Rousseau,C,0
+250,France,1900,Pierre Waldeck-Rousseau,C,0
+250,France,1901,Pierre Waldeck-Rousseau,C,0
+250,France,1902,Émile Combes,C,0
+250,France,1903,Émile Combes,C,0
+250,France,1904,Émile Combes,C,0
+250,France,1905,Maurice Rouvier,C,0
+250,France,1906,Jean Marie Ferdinand Sarrien,C,0
+250,France,1907,Georges Clemenceau ,C,0
+250,France,1908,Georges Clemenceau ,C,0
+250,France,1909,Georges Clemenceau ,C,0
+250,France,1910,Aristide Briand,L,0
+250,France,1911,Joseph Caillaux,C,0
+250,France,1912,Raymond Poincaré,C,0
+250,France,1913,Louis Barthou,C,0
+250,France,1914,René Viviani,L,0
+250,France,1915,René Viviani,L,0
+250,France,1916,Aristide Briand,L,0
+250,France,1917,Alexandre Ribot,C,0
+250,France,1918,Georges Clemenceau,C,0
+250,France,1919,Georges Clemenceau,C,0
+250,France,1920,Alexandre Millerand,R,0
+250,France,1921,Aristide Briand,L,0
+250,France,1922,Raymond Poincaré,R,0
+250,France,1923,Raymond Poincaré,R,0
+250,France,1924,Édouard Herriot,C,0
+250,France,1925,Paul Painlevé,L,0
+250,France,1926,Aristide Briand,L,0
+250,France,1927,Raymond Poincaré,C,0
+250,France,1928,Raymond Poincaré,C,0
+250,France,1929,Raymond Poincaré,C,0
+250,France,1930,André Tardieu,R,0
+250,France,1931,Pierre Laval,O,0
+250,France,1932,Édouard Herriot,C,0
+250,France,1933,Édouard Daladier,C,0
+250,France,1934,Gaston Doumergue,C,0
+250,France,1935,Pierre Laval,R,0
+250,France,1936,Léon Blum,L,0
+250,France,1937,Camille Chautemps,C,0
+250,France,1938,Édouard Daladier,C,0
+250,France,1939,Édouard Daladier,C,0
+250,France,1940,Philippe Pétain,R,0
+250,France,1941,Philippe Pétain,R,0
+250,France,1942,Pierre Laval,R,0
+250,France,1943,Pierre Laval,R,0
+250,France,1944,Pierre Laval,,
+250,France,1945,Charles de Gaulle,,
+250,France,1946,Félix Gouin,L,0
+250,France,1947,Paul Ramadier ,L,0
+250,France,1948,Robert Schuman,R,1
+250,France,1949,Henri Queuille,C,0
+250,France,1950,Georges Bidault,R,1
+250,France,1951,René Pleven,L,0
+250,France,1952,Antoine Pinay ,R,0
+250,France,1953, Joseph Laniel ,R,0
+250,France,1954,Pierre Mendès-France,C,0
+250,France,1955,Edgar Faure,C,0
+250,France,1956,Guy Mollet ,L,0
+250,France,1957,Guy Mollet ,L,0
+250,France,1958,Charles de Gaulle,R,0
+250,France,1959,Michel Debré,R,0
+250,France,1960,Michel Debré,R,0
+250,France,1961,Michel Debré,R,0
+250,France,1962,Georges Pompidou,R,0
+250,France,1963,Georges Pompidou,R,0
+250,France,1964,Georges Pompidou,R,0
+250,France,1965,Georges Pompidou,R,0
+250,France,1966,Georges Pompidou,R,0
+250,France,1967,Georges Pompidou,R,0
+250,France,1968,Georges Pompidou,R,0
+250,France,1969,Jacques Chaban-Delmas,C,0
+250,France,1970,Jacques Chaban-Delmas,C,0
+250,France,1971,Jacques Chaban-Delmas,C,0
+250,France,1972,Jacques Chaban-Delmas,C,0
+250,France,1973,Pierre Messmer,R,0
+250,France,1974,Jacques Chirac,R,0
+250,France,1975,Jacques Chirac,R,0
+250,France,1976,Jacques Chirac,R,0
+250,France,1977,Raymond Barre,R,0
+250,France,1978,Raymond Barre,R,0
+250,France,1979,Raymond Barre,R,0
+250,France,1980,Raymond Barre,R,0
+250,France,1981,Pierre Mauroy,R,0
+250,France,1982,Pierre Mauroy,L,0
+250,France,1983,Pierre Mauroy,L,0
+250,France,1984,Pierre Mauroy,L,0
+250,France,1985,Laurent Fabius,L,0
+250,France,1986,Jacques Chirac,R,0
+250,France,1987,Jacques Chirac,R,0
+250,France,1988,Michel Rocard,L,0
+250,France,1989,Michel Rocard,L,0
+250,France,1990,Michel Rocard,L,0
+250,France,1991,Edith Cresson,L,0
+250,France,1992,Pierre Bérégovoy,L,0
+250,France,1993,Edouard Balladur,R,0
+250,France,1994,Edouard Balladur,R,0
+250,France,1995,Alain Juppé,R,0
+250,France,1996,Alain Juppé,R,0
+250,France,1997,Lionel Jospin,L,0
+250,France,1998,Lionel Jospin,L,0
+250,France,1999,Lionel Jospin,L,0
+250,France,2000,Lionel Jospin,L,0
+250,France,2001,Lionel Jospin,L,0
+250,France,2002,Jean-Pierre Raffarin,R,0
+250,France,2003,Jean-Pierre Raffarin,R,0
+250,France,2004,Jean-Pierre Raffarin,R,0
+250,France,2005,Dominique de Villepin,R,0
+250,France,2006,Dominique de Villepin,R,0
+250,France,2007,Francois Fillon,R,0
+250,France,2008,Francois Fillon,R,0
+250,France,2009,Francois Fillon,R,0
+250,France,2010,Francois Fillon,R,0
+250,France,2011,Francois Fillon,R,0
+250,France,2012,Jean-Marc Ayrult,L,0
+276,Germany,1870,Otto von Bismarck,R,0
+276,Germany,1871,Otto von Bismarck,R,0
+276,Germany,1872,Otto von Bismarck,R,0
+276,Germany,1873,Otto von Bismarck,R,0
+276,Germany,1874,Otto von Bismarck,R,0
+276,Germany,1875,Otto von Bismarck,R,0
+276,Germany,1876,Otto von Bismarck,R,0
+276,Germany,1877,Otto von Bismarck,R,0
+276,Germany,1878,Otto von Bismarck,R,0
+276,Germany,1879,Otto von Bismarck,R,0
+276,Germany,1880,Otto von Bismarck,R,0
+276,Germany,1881,Otto von Bismarck,R,0
+276,Germany,1882,Otto von Bismarck,R,0
+276,Germany,1883,Otto von Bismarck,R,0
+276,Germany,1884,Otto von Bismarck,R,0
+276,Germany,1885,Otto von Bismarck,R,0
+276,Germany,1886,Otto von Bismarck,R,0
+276,Germany,1887,Otto von Bismarck,R,0
+276,Germany,1888,Otto von Bismarck,R,0
+276,Germany,1889,Otto von Bismarck,R,0
+276,Germany,1890,Leo von Caprivi,R,0
+276,Germany,1891,Leo von Caprivi,R,0
+276,Germany,1892,Leo von Caprivi,R,0
+276,Germany,1893,Leo von Caprivi,R,0
+276,Germany,1894,Leo von Caprivi,R,0
+276,Germany,1895,Chlodwig Fürst zu Hohenlohe-Schillingsfürst,R,0
+276,Germany,1896,Chlodwig Fürst zu Hohenlohe-Schillingsfürst,R,0
+276,Germany,1897,Chlodwig Fürst zu Hohenlohe-Schillingsfürst,R,0
+276,Germany,1898,Chlodwig Fürst zu Hohenlohe-Schillingsfürst,R,0
+276,Germany,1899,Chlodwig Fürst zu Hohenlohe-Schillingsfürst,R,0
+276,Germany,1900,Chlodwig Fürst zu Hohenlohe-Schillingsfürst,R,0
+276,Germany,1901,Bernhard von Bülow,R,0
+276,Germany,1902,Bernhard von Bülow,R,0
+276,Germany,1903,Bernhard von Bülow,R,0
+276,Germany,1904,Bernhard von Bülow,R,0
+276,Germany,1905,Bernhard von Bülow,R,0
+276,Germany,1906,Bernhard von Bülow,R,0
+276,Germany,1907,Bernhard von Bülow,R,0
+276,Germany,1908,Bernhard von Bülow,R,0
+276,Germany,1909,Bernhard von Bülow,R,0
+276,Germany,1910,Theobald von Bethmann Hollweg,R,0
+276,Germany,1911,Theobald von Bethmann Hollweg,R,0
+276,Germany,1912,Theobald von Bethmann Hollweg,R,0
+276,Germany,1913,Theobald von Bethmann Hollweg,R,0
+276,Germany,1914,Theobald von Bethmann Hollweg,R,0
+276,Germany,1915,Theobald von Bethmann Hollweg,R,0
+276,Germany,1916,Theobald von Bethmann Hollweg,R,0
+276,Germany,1917,Theobald von Bethmann Hollweg,R,0
+276,Germany,1918,Georg Graf von Hertling,,
+276,Germany,1919,Gustav Bauer,L,0
+276,Germany,1920,Konstantin Fehrenbach,C,1
+276,Germany,1921,Joseph Wirth,C,1
+276,Germany,1922,Joseph Wirth,C,1
+276,Germany,1923,Wilhelm Cuno,C,0
+276,Germany,1924,Wilhelm Marx,C,1
+276,Germany,1925,Hans Luther,R,0
+276,Germany,1926,Wilhelm Marx,C,1
+276,Germany,1927,Wilhelm Marx,C,1
+276,Germany,1928,Hermann Mueller,L,0
+276,Germany,1929,Hermann Mueller,L,0
+276,Germany,1930,Heinrich Bruening ,C,1
+276,Germany,1931,Heinrich Bruening ,C,1
+276,Germany,1932,Franz von Papen,R,0
+276,Germany,1933,Adolf Hitler,R,0
+276,Germany,1934,Adolf Hitler,R,0
+276,Germany,1935,Adolf Hitler,R,0
+276,Germany,1936,Adolf Hitler,R,0
+276,Germany,1937,Adolf Hitler,R,0
+276,Germany,1938,Adolf Hitler,R,0
+276,Germany,1939,Adolf Hitler,R,0
+276,Germany,1940,Adolf Hitler,R,0
+276,Germany,1941,Adolf Hitler,R,0
+276,Germany,1942,Adolf Hitler,R,0
+276,Germany,1943,Adolf Hitler,R,0
+276,Germany,1944,Adolf Hitler,R,0
+276,Germany,1945,,,
+276,Germany,1946,,,
+276,Germany,1947,,,
+276,Germany,1948,,,
+276,Germany,1949,Konrad Adenauer,R,1
+276,Germany,1950,Konrad Adenauer,R,1
+276,Germany,1951,Konrad Adenauer,R,1
+276,Germany,1952,Konrad Adenauer,R,1
+276,Germany,1953,Konrad Adenauer,R,1
+276,Germany,1954,Konrad Adenauer,R,1
+276,Germany,1955,Konrad Adenauer,R,1
+276,Germany,1956,Konrad Adenauer,R,1
+276,Germany,1957,Konrad Adenauer,R,1
+276,Germany,1958,Konrad Adenauer,R,1
+276,Germany,1959,Konrad Adenauer,R,1
+276,Germany,1960,Konrad Adenauer,R,1
+276,Germany,1961,Konrad Adenauer,R,1
+276,Germany,1962,Konrad Adenauer,R,1
+276,Germany,1963,Konrad Adenauer,R,1
+276,Germany,1964,Ludwig Erhard,R,1
+276,Germany,1965,Ludwig Erhard,R,1
+276,Germany,1966,Ludwig Erhard,R,1
+276,Germany,1967,Kurt Kiesinger,R,1
+276,Germany,1968,Kurt Kiesinger,R,1
+276,Germany,1969,Kurt Kiesinger,R,1
+276,Germany,1970,Willy Brandt,L,0
+276,Germany,1971,Willy Brandt,L,0
+276,Germany,1972,Willy Brandt,L,0
+276,Germany,1973,Willy Brandt,L,0
+276,Germany,1974,Helmut Schmidt,L,0
+276,Germany,1975,Helmut Schmidt,L,0
+276,Germany,1976,Helmut Schmidt,L,0
+276,Germany,1977,Helmut Schmidt,L,0
+276,Germany,1978,Helmut Schmidt,L,0
+276,Germany,1979,Helmut Schmidt,L,0
+276,Germany,1980,Helmut Schmidt,L,0
+276,Germany,1981,Helmut Schmidt,L,0
+276,Germany,1982,Helmut Schmidt,L,0
+276,Germany,1983,Helmut Kohl,R,1
+276,Germany,1984,Helmut Kohl,R,1
+276,Germany,1985,Helmut Kohl,R,1
+276,Germany,1986,Helmut Kohl,R,1
+276,Germany,1987,Helmut Kohl,R,1
+276,Germany,1988,Helmut Kohl,R,1
+276,Germany,1989,Helmut Kohl,R,1
+276,Germany,1990,Helmut Kohl,R,1
+276,Germany,1991,Helmut Kohl,R,1
+276,Germany,1992,Helmut Kohl,R,1
+276,Germany,1993,Helmut Kohl,R,1
+276,Germany,1994,Helmut Kohl,R,1
+276,Germany,1995,Helmut Kohl,R,1
+276,Germany,1996,Helmut Kohl,R,1
+276,Germany,1997,Helmut Kohl,R,1
+276,Germany,1998,Helmut Kohl,R,1
+276,Germany,1999,Gerhard Schröder,L,0
+276,Germany,2000,Gerhard Schröder,L,0
+276,Germany,2001,Gerhard Schröder,L,0
+276,Germany,2002,Gerhard Schröder,L,0
+276,Germany,2003,Gerhard Schröder,L,0
+276,Germany,2004,Gerhard Schröder,L,0
+276,Germany,2005,Gerhard Schröder,L,0
+276,Germany,2006,Angela Merkel,R,1
+276,Germany,2007,Angela Merkel,R,1
+276,Germany,2008,Angela Merkel,R,1
+276,Germany,2009,Angela Merkel,R,1
+276,Germany,2010,Angela Merkel,R,1
+276,Germany,2011,Angela Merkel,R,1
+276,Germany,2012,Angela Merkel,R,1
+300,Greece,1870,Thrasyvoulos Zaimis,R,0
+300,Greece,1871,Alexandros Koumoundouros,R,0
+300,Greece,1872,Dimitrios Voulgaris,R,0
+300,Greece,1873,Epameinondas Deligiorgis,C,0
+300,Greece,1874,Dimitrios Voulgaris,R,0
+300,Greece,1875,Charilaos Trikoupis,C,0
+300,Greece,1876,Alexandros Koumoundouros,R,0
+300,Greece,1877,Alexandros Koumoundouros,R,0
+300,Greece,1878,Alexandros Koumoundouros,R,0
+300,Greece,1879,Alexandros Koumoundouros,R,0
+300,Greece,1880,Charilaos Trikoupis,C,0
+300,Greece,1881,Alexandros Koumoundouros,R,0
+300,Greece,1882,Charilaos Trikoupis,C,0
+300,Greece,1883,Charilaos Trikoupis,C,0
+300,Greece,1884,Charilaos Trikoupis,C,0
+300,Greece,1885,Theodoros Deligiannis,R,0
+300,Greece,1886,Charilaos Trikoupis,C,0
+300,Greece,1887,Charilaos Trikoupis,C,0
+300,Greece,1888,Charilaos Trikoupis,C,0
+300,Greece,1889,Charilaos Trikoupis,C,0
+300,Greece,1890,Charilaos Trikoupis,C,0
+300,Greece,1891,Theodoros Deligiannis,R,0
+300,Greece,1892,Charilaos Trikoupis,C,0
+300,Greece,1893,Charilaos Trikoupis,C,0
+300,Greece,1894,Charilaos Trikoupis,C,0
+300,Greece,1895,Theodoros Deligiannis,R,0
+300,Greece,1896,Theodoros Deligiannis,R,0
+300,Greece,1897,Dimitrios Rallis,R,0
+300,Greece,1898,Alexandros Zaimis,R,0
+300,Greece,1899,Georgios Theotokis,C,0
+300,Greece,1900,Georgios Theotokis,C,0
+300,Greece,1901,Georgios Theotokis,C,0
+300,Greece,1902,Alexandros Zaimis,R,0
+300,Greece,1903,Theodoros Deligiannis,R,0
+300,Greece,1904,Georgios Theotokis,C,0
+300,Greece,1905,Dimitrios Rallis,R,0
+300,Greece,1906,Georgios Theotokis,C,0
+300,Greece,1907,Georgios Theotokis,C,0
+300,Greece,1908,Georgios Theotokis,C,0
+300,Greece,1909,Georgios Theotokis,C,0
+300,Greece,1910,Stephanos Dragoumis,C,0
+300,Greece,1911,Eleftherios Venizelos,C,0
+300,Greece,1912,Eleftherios Venizelos,C,0
+300,Greece,1913,Eleftherios Venizelos,C,0
+300,Greece,1914,Eleftherios Venizelos,C,0
+300,Greece,1915,Dimitrios Gounaris,R,0
+300,Greece,1916,Stephanos Skouloudis,R,0
+300,Greece,1917,Eleftherios Venizelos,C,0
+300,Greece,1918,Eleftherios Venizelos,C,0
+300,Greece,1919,Eleftherios Venizelos,C,0
+300,Greece,1920,Eleftherios Venizelos,C,0
+300,Greece,1921,Dimitrios Gounaris,R,0
+300,Greece,1922,Dimitrios Gounaris,R,0
+300,Greece,1923,Stylianos Gonatas,R,0
+300,Greece,1924,Alexandros Papanastasiou,C,0
+300,Greece,1925,Theodoros Pangalos,R,0
+300,Greece,1926,Theodoros Pangalos,R,0
+300,Greece,1927,Alexandros Zaimis,C,0
+300,Greece,1928,Alexandros Zaimis,C,0
+300,Greece,1929,Eleftherios Venizelos,C,0
+300,Greece,1930,Eleftherios Venizelos,C,0
+300,Greece,1931,Eleftherios Venizelos,C,0
+300,Greece,1932,Eleftherios Venizelos,C,0
+300,Greece,1933,Panagis Tsaldaris,R,0
+300,Greece,1934,Panagis Tsaldaris,R,0
+300,Greece,1935,Panagis Tsaldaris,R,0
+300,Greece,1936,Ioannis Metaxas,R,0
+300,Greece,1937,Ioannis Metaxas,R,0
+300,Greece,1938,Ioannis Metaxas,R,0
+300,Greece,1939,Ioannis Metaxas,R,0
+300,Greece,1940,Ioannis Metaxas,R,0
+300,Greece,1941,Georgios Tsolakoglou,R,0
+300,Greece,1942,Georgios Tsolakoglou,R,0
+300,Greece,1943,Ioannis Rallis,R,0
+300,Greece,1944,Ioannis Rallis,R,0
+300,Greece,1945,Petros Voulgaris,R,0
+300,Greece,1946,Konstantinos Tsaldaris,R,0
+300,Greece,1947,Dimitrios Maximos,R,0
+300,Greece,1948,Themistoklis Sofoulis,C,0
+300,Greece,1949,Alexandros Diomidis,C,0
+300,Greece,1950,Sophoklis Venizelos,C,0
+300,Greece,1951,Sophoklis Venizelos,C,0
+300,Greece,1952,Nikolaos Plastiras,C,0
+300,Greece,1953,Alexander Papagos,R,0
+300,Greece,1954,Alexander Papagos,R,0
+300,Greece,1955,Alexander Papagos,R,0
+300,Greece,1956,Konstantinos Karamanlis,R,0
+300,Greece,1957,Konstantinos Karamanlis,R,0
+300,Greece,1958,Konstantinos Karamanlis,R,0
+300,Greece,1959,Konstantinos Karamanlis,R,0
+300,Greece,1960,Konstantinos Karamanlis,R,0
+300,Greece,1961,Konstantinos Karamanlis,R,0
+300,Greece,1962,Konstantinos Karamanlis,R,0
+300,Greece,1963,Konstantinos Karamanlis,R,0
+300,Greece,1964,Georgios Papandreou,C,0
+300,Greece,1965,Georgios Papandreou,C,0
+300,Greece,1966,Stephanos Stephanopoulos,R,0
+300,Greece,1967,Konstantinos Kollias,R,0
+300,Greece,1968,Georgios Papadopoulos ,R,0
+300,Greece,1969,Georgios Papadopoulos ,R,0
+300,Greece,1970,Georgios Papadopoulos ,R,0
+300,Greece,1971,Georgios Papadopoulos ,R,0
+300,Greece,1972,Georgios Papadopoulos ,R,0
+300,Greece,1973,Georgios Papadopoulos ,R,0
+300,Greece,1974,Adamantios Androutsopoulos,R,0
+300,Greece,1975,Konstantinos Karamanlis,R,0
+300,Greece,1976,Konstantinos Karamanlis,R,0
+300,Greece,1977,Konstantinos Karamanlis,R,0
+300,Greece,1978,Konstantinos Karamanlis,R,0
+300,Greece,1979,Konstantinos Karamanlis,R,0
+300,Greece,1980,Georgios Rallis,R,0
+300,Greece,1981,Georgios Rallis,R,0
+300,Greece,1982,Andreas Papandreou,L,0
+300,Greece,1983,Andreas Papandreou,L,0
+300,Greece,1984,Andreas Papandreou,L,0
+300,Greece,1985,Andreas Papandreou,L,0
+300,Greece,1986,Andreas Papandreou,L,0
+300,Greece,1987,Andreas Papandreou,L,0
+300,Greece,1988,Andreas Papandreou,L,0
+300,Greece,1989,Andreas Papandreou,L,0
+300,Greece,1990,Konstantinos Mitsotakis,R,0
+300,Greece,1991,Konstantinos Mitsotakis,R,0
+300,Greece,1992,Konstantinos Mitsotakis,R,0
+300,Greece,1993,Konstantinos Mitsotakis,R,0
+300,Greece,1994,Andreas Papandreou,L,0
+300,Greece,1995,Andreas Papandreou,L,0
+300,Greece,1996,Kostas Simitis,L,0
+300,Greece,1997,Kostas Simitis,L,0
+300,Greece,1998,Kostas Simitis,L,0
+300,Greece,1999,Kostas Simitis,L,0
+300,Greece,2000,Kostas Simitis,L,0
+300,Greece,2001,Kostas Simitis,L,0
+300,Greece,2002,Kostas Simitis,L,0
+300,Greece,2003,Kostas Simitis,L,0
+300,Greece,2004,Kostas Karamanlis,R,0
+300,Greece,2005,Kostas Karamanlis,R,0
+300,Greece,2006,Kostas Karamanlis,R,0
+300,Greece,2007,Kostas Karamanlis,R,0
+300,Greece,2008,Kostas Karamanlis,R,0
+300,Greece,2009,Kostas Karamanlis,R,0
+300,Greece,2010,Georgios Papandreou,L,0
+300,Greece,2011,Georgios Papandreou,L,0
+300,Greece,2012,Antonis Samaras,R,0
+372,Ireland,1921,Eamon de Valera,R,0
+372,Ireland,1922,Arthur Griffith/Michael Collins,R,0
+372,Ireland,1923,W. T. Cosgrave,R,0
+372,Ireland,1924,W. T. Cosgrave,R,0
+372,Ireland,1925,W. T. Cosgrave,R,0
+372,Ireland,1926,W. T. Cosgrave,R,0
+372,Ireland,1927,W. T. Cosgrave,R,0
+372,Ireland,1928,W. T. Cosgrave,R,0
+372,Ireland,1929,W. T. Cosgrave,R,0
+372,Ireland,1930,W. T. Cosgrave,R,0
+372,Ireland,1931,W. T. Cosgrave,R,0
+372,Ireland,1932,Eamon de Valera,C,0
+372,Ireland,1933,Eamon de Valera,C,0
+372,Ireland,1934,Eamon de Valera,C,0
+372,Ireland,1935,Eamon de Valera,C,0
+372,Ireland,1936,Eamon de Valera,C,0
+372,Ireland,1937,Eamon de Valera,C,0
+372,Ireland,1938,Eamon de Valera,C,0
+372,Ireland,1939,Eamon de Valera,C,0
+372,Ireland,1940,Eamon de Valera,C,0
+372,Ireland,1941,Eamon de Valera,C,0
+372,Ireland,1942,Eamon de Valera,C,0
+372,Ireland,1943,Eamon de Valera,C,0
+372,Ireland,1944,Eamon de Valera,C,0
+372,Ireland,1945,Eamon de Valera,C,0
+372,Ireland,1946,Eamon de Valera,C,0
+372,Ireland,1947,Eamon de Valera,C,0
+372,Ireland,1948,John A. Costello,R,1
+372,Ireland,1949,John A. Costello,R,1
+372,Ireland,1950,John A. Costello,R,1
+372,Ireland,1951,Eamon de Valera,C,0
+372,Ireland,1952,Eamon de Valera,C,0
+372,Ireland,1953,Eamon de Valera,C,0
+372,Ireland,1954,John A. Costello,R,1
+372,Ireland,1955,John A. Costello,R,1
+372,Ireland,1956,John A. Costello,R,1
+372,Ireland,1957,Eamon de Valera,C,0
+372,Ireland,1958,Eamon de Valera,C,0
+372,Ireland,1959,Sean Lemass,C,0
+372,Ireland,1960,Sean Lemass,C,0
+372,Ireland,1961,Sean Lemass,C,0
+372,Ireland,1962,Sean Lemass,C,0
+372,Ireland,1963,Sean Lemass,C,0
+372,Ireland,1964,Sean Lemass,C,0
+372,Ireland,1965,Sean Lemass,C,0
+372,Ireland,1966,Sean Lemass,C,0
+372,Ireland,1967,John Lynch,C,0
+372,Ireland,1968,John Lynch,C,0
+372,Ireland,1969,John Lynch,C,0
+372,Ireland,1970,John Lynch,C,0
+372,Ireland,1971,John Lynch,C,0
+372,Ireland,1972,John Lynch,C,0
+372,Ireland,1973,Liam Cosgrave,R,1
+372,Ireland,1974,Liam Cosgrave,R,1
+372,Ireland,1975,Liam Cosgrave,R,1
+372,Ireland,1976,Liam Cosgrave,R,1
+372,Ireland,1977,Liam Cosgrave,R,1
+372,Ireland,1978,John Lynch,C,0
+372,Ireland,1979,John Lynch,C,0
+372,Ireland,1980,Charles Haughey,C,0
+372,Ireland,1981,Garret FitzGerald,R,1
+372,Ireland,1982,Charles Haughey,C,0
+372,Ireland,1983,Garret FitzGerald,R,1
+372,Ireland,1984,Garret FitzGerald,R,1
+372,Ireland,1985,Garret FitzGerald,R,1
+372,Ireland,1986,Garret FitzGerald,R,1
+372,Ireland,1987,Charles Haughey,C,0
+372,Ireland,1988,Charles Haughey,C,0
+372,Ireland,1989,Charles Haughey,C,0
+372,Ireland,1990,Charles Haughey,C,0
+372,Ireland,1991,Charles Haughey,C,0
+372,Ireland,1992,Albert Reynolds,C,0
+372,Ireland,1993,Albert Reynolds,C,0
+372,Ireland,1994,Albert Reynolds,C,0
+372,Ireland,1995,John Bruton,R,1
+372,Ireland,1996,John Bruton,R,1
+372,Ireland,1997,Bertie Ahern,C,0
+372,Ireland,1998,Bertie Ahern,C,0
+372,Ireland,1999,Bertie Ahern,C,0
+372,Ireland,2000,Bertie Ahern,C,0
+372,Ireland,2001,Bertie Ahern,C,0
+372,Ireland,2002,Bertie Ahern,C,0
+372,Ireland,2003,Bertie Ahern,C,0
+372,Ireland,2004,Bertie Ahern,C,0
+372,Ireland,2005,Bertie Ahern,C,0
+372,Ireland,2006,Bertie Ahern,C,0
+372,Ireland,2007,Bertie Ahern,C,0
+372,Ireland,2008,Brian Cowen,C,0
+372,Ireland,2009,Brian Cowen,C,0
+372,Ireland,2010,Brian Cowen,C,0
+372,Ireland,2011,Enda Kenny,R,1
+372,Ireland,2012,Enda Kenny,R,1
+380,Italy,1870,Giovanni Lanza,R,0
+380,Italy,1871,Giovanni Lanza,R,0
+380,Italy,1872,Giovanni Lanza,R,0
+380,Italy,1873,Giovanni Lanza,R,0
+380,Italy,1874,Marco Minghetti,R,0
+380,Italy,1875,Marco Minghetti,R,0
+380,Italy,1876,Agostino Depretis,C,0
+380,Italy,1877,Agostino Depretis,C,0
+380,Italy,1878,Benedetto Cairoli,C,0
+380,Italy,1879,Agostino Depretis,C,0
+380,Italy,1880,Benedetto Cairoli,C,0
+380,Italy,1881,Agostino Depretis,C,0
+380,Italy,1882,Agostino Depretis,C,0
+380,Italy,1883,Agostino Depretis,C,0
+380,Italy,1884,Agostino Depretis,C,0
+380,Italy,1885,Agostino Depretis,C,0
+380,Italy,1886,Agostino Depretis,C,0
+380,Italy,1887,Agostino Depretis,C,0
+380,Italy,1888,Francesco Crispi,C,0
+380,Italy,1889,Francesco Crispi,C,0
+380,Italy,1890,Francesco Crispi,C,0
+380,Italy,1891,Antonio Starabba,R,0
+380,Italy,1892,Giovanni Giolitti,C,0
+380,Italy,1893,Giovanni Giolitti,C,0
+380,Italy,1894,Francesco Crispi,C,0
+380,Italy,1895,Francesco Crispi,C,0
+380,Italy,1896,Antonio Starabba,R,0
+380,Italy,1897,Antonio Starabba,R,0
+380,Italy,1898,Luigi Pelloux,R,0
+380,Italy,1899,Luigi Pelloux,R,0
+380,Italy,1900,Giuseppe Saracco,C,0
+380,Italy,1901,Giuseppe Zanardelli,C,0
+380,Italy,1902,Giuseppe Zanardelli,C,0
+380,Italy,1903,Giuseppe Zanardelli,C,0
+380,Italy,1904,Giovanni Giolitti,C,0
+380,Italy,1905,Alessandro Fortis,C,0
+380,Italy,1906,Giovanni Giolitti,C,0
+380,Italy,1907,Giovanni Giolitti,C,0
+380,Italy,1908,Giovanni Giolitti,C,0
+380,Italy,1909,Giovanni Giolitti,C,0
+380,Italy,1910,Luigi Luzzatti,R,0
+380,Italy,1911,Giovanni Giolitti,C,0
+380,Italy,1912,Giovanni Giolitti,C,0
+380,Italy,1913,Giovanni Giolitti,C,0
+380,Italy,1914,Antonio Salandra,R,0
+380,Italy,1915,Antonio Salandra,R,0
+380,Italy,1916,Paolo Boselli,R,0
+380,Italy,1917,Paolo Boselli,R,0
+380,Italy,1918,Vittorio Emanuele Orlando,C,0
+380,Italy,1919,Francesco Saverio Nitti,C,0
+380,Italy,1920,Giovanni Giolitti,C,0
+380,Italy,1921,Giovanni Giolitti,C,0
+380,Italy,1922,Luigi Facta,R,0
+380,Italy,1923,Benito Mussolini,R,0
+380,Italy,1924,Benito Mussolini,R,0
+380,Italy,1925,Benito Mussolini,R,0
+380,Italy,1926,Benito Mussolini,R,0
+380,Italy,1927,Benito Mussolini,R,0
+380,Italy,1928,Benito Mussolini,R,0
+380,Italy,1929,Benito Mussolini,R,0
+380,Italy,1930,Benito Mussolini,R,0
+380,Italy,1931,Benito Mussolini,R,0
+380,Italy,1932,Benito Mussolini,R,0
+380,Italy,1933,Benito Mussolini,R,0
+380,Italy,1934,Benito Mussolini,R,0
+380,Italy,1935,Benito Mussolini,R,0
+380,Italy,1936,Benito Mussolini,R,0
+380,Italy,1937,Benito Mussolini,R,0
+380,Italy,1938,Benito Mussolini,R,0
+380,Italy,1939,Benito Mussolini,R,0
+380,Italy,1940,Benito Mussolini,R,0
+380,Italy,1941,Benito Mussolini,R,0
+380,Italy,1942,Benito Mussolini,R,0
+380,Italy,1943,Benito Mussolini,R,0
+380,Italy,1944,Ivanoe Bonomi,L,0
+380,Italy,1945,Ivanoe Bonomi,L,0
+380,Italy,1946,Alcide De Gasperi,C,1
+380,Italy,1947,Alcide De Gasperi,C,1
+380,Italy,1948,Alcide De Gasperi,C,1
+380,Italy,1949,Alcide De Gasperi,C,1
+380,Italy,1950,Alcide De Gasperi,C,1
+380,Italy,1951,Alcide De Gasperi,C,1
+380,Italy,1952,Alcide De Gasperi,C,1
+380,Italy,1953,Alcide De Gasperi,C,1
+380,Italy,1954,Mario Scelba,C,1
+380,Italy,1955,Mario Scelba,C,1
+380,Italy,1956,Antonio Segni,C,1
+380,Italy,1957,Adone Zoli,C,1
+380,Italy,1958,Amintore Fanfani,C,1
+380,Italy,1959,Antonio Segni,C,1
+380,Italy,1960,Amintore Fanfani,C,1
+380,Italy,1961,Amintore Fanfani,C,1
+380,Italy,1962,Amintore Fanfani,C,1
+380,Italy,1963,Amintore Fanfani,C,1
+380,Italy,1964,Aldo Moro,C,1
+380,Italy,1965,Aldo Moro,C,1
+380,Italy,1966,Aldo Moro,C,1
+380,Italy,1967,Aldo Moro,C,1
+380,Italy,1968,Aldo Moro,C,1
+380,Italy,1969,Mariano Rumor,C,1
+380,Italy,1970,Mariano Rumor,C,1
+380,Italy,1971,Emilio Colombo,C,1
+380,Italy,1972,Giulio Andreotti,C,1
+380,Italy,1973,Giulio Andreotti,C,1
+380,Italy,1974,Mariano Rumor,C,1
+380,Italy,1975,Aldo Moro,C,1
+380,Italy,1976,Aldo Moro,C,1
+380,Italy,1977,Giulio Andreotti,C,1
+380,Italy,1978,Giulio Andreotti,C,1
+380,Italy,1979,Giulio Andreotti,C,1
+380,Italy,1980,Francesco Cossiga,C,1
+380,Italy,1981,Giovanni Spadolini,C,1
+380,Italy,1982,Giovanni Spadolini,C,1
+380,Italy,1983,Amintore Fanfani,C,1
+380,Italy,1984,Bettino Craxi,L,0
+380,Italy,1985,Bettino Craxi,L,0
+380,Italy,1986,Bettino Craxi,L,0
+380,Italy,1987,Giovanni Goria,C,1
+380,Italy,1988,Ciriaco De Mita,C,1
+380,Italy,1989,Ciriaco De Mita,C,1
+380,Italy,1990,Giulio Andreotti,C,1
+380,Italy,1991,Giulio Andreotti,C,1
+380,Italy,1992,Giuliano Amato,L,0
+380,Italy,1993,Carlo Azeglio Ciampi,L,0
+380,Italy,1994,Silvio Berlusconi,R,0
+380,Italy,1995,Lamberto Dini,R,0
+380,Italy,1996,Romano Prodi,C,0
+380,Italy,1997,Romano Prodi,C,0
+380,Italy,1998,Romano Prodi,C,0
+380,Italy,1999,Massimo D'Alema,L,0
+380,Italy,2000,Giuliano Amato,C,0
+380,Italy,2001,Silvio Berlusconi,R,0
+380,Italy,2002,Silvio Berlusconi,R,0
+380,Italy,2003,Silvio Berlusconi,R,0
+380,Italy,2004,Silvio Berlusconi,R,0
+380,Italy,2005,Silvio Berlusconi,R,0
+380,Italy,2006,Romano Prodi,C,0
+380,Italy,2007,Romano Prodi,C,0
+380,Italy,2008,Silvio Berlusconi,R,0
+380,Italy,2009,Silvio Berlusconi,R,0
+380,Italy,2010,Silvio Berlusconi,R,0
+380,Italy,2011,Silvio Berlusconi,R,0
+380,Italy,2012,Mario Monti,R,0
+392,Japan,1870,Mutsuhito,R,0
+392,Japan,1871,Mutsuhito,R,0
+392,Japan,1872,Mutsuhito,R,0
+392,Japan,1873,Mutsuhito,R,0
+392,Japan,1874,Mutsuhito,R,0
+392,Japan,1875,Mutsuhito,R,0
+392,Japan,1876,Mutsuhito,R,0
+392,Japan,1877,Mutsuhito,R,0
+392,Japan,1878,Mutsuhito,R,0
+392,Japan,1879,Mutsuhito,R,0
+392,Japan,1880,Mutsuhito,R,0
+392,Japan,1881,Mutsuhito,R,0
+392,Japan,1882,Mutsuhito,R,0
+392,Japan,1883,Mutsuhito,R,0
+392,Japan,1884,Mutsuhito,R,0
+392,Japan,1885,Mutsuhito,R,0
+392,Japan,1886,Hirobumi Ito,R,0
+392,Japan,1887,Hirobumi Ito,R,0
+392,Japan,1888,Kiyotaka Kuroda,R,0
+392,Japan,1889,Kiyotaka Kuroda,R,0
+392,Japan,1890,Aritoma Yamagata,R,0
+392,Japan,1891,Masayoshi Matsukata,R,0
+392,Japan,1892,Masayoshi Matsukata,R,0
+392,Japan,1893,Hirobumi Ito,R,0
+392,Japan,1894,Hirobumi Ito,R,0
+392,Japan,1895,Hirobumi Ito,R,0
+392,Japan,1896,Hirobumi Ito,R,0
+392,Japan,1897,Masayoshi Matsukata,R,0
+392,Japan,1898,Masayoshi Matsukata/Hirbumi Ito/Shigenobu Okuma/Aritoma Yamagata,R,0
+392,Japan,1899,Aritoma Yamagata,R,0
+392,Japan,1900,Aritoma Yamagata,R,0
+392,Japan,1901,Taro Katsura,R,0
+392,Japan,1902,Taro Katsura,R,0
+392,Japan,1903,Taro Katsura,R,0
+392,Japan,1904,Taro Katsura,R,0
+392,Japan,1905,Taro Katsura,R,0
+392,Japan,1906,Kimmochi Saionji,R,0
+392,Japan,1907,Kimmochi Saionji,R,0
+392,Japan,1908,Kimmochi Saionji,R,0
+392,Japan,1909,Taro Katsura,R,0
+392,Japan,1910,Taro Katsura,R,0
+392,Japan,1911,Taro Katsura,R,0
+392,Japan,1912,Kimmochi Saionji,R,0
+392,Japan,1913,Gonnohyoe Yamamoto,O,0
+392,Japan,1914,Shigenobu Okuma,R,0
+392,Japan,1915,Shigenobu Okuma,R,0
+392,Japan,1916,Shigenobu Okuma,R,0
+392,Japan,1917,Masatake Terauchi,O,0
+392,Japan,1918,Masatake Terauchi,O,0
+392,Japan,1919,Takashi Hara,R,0
+392,Japan,1920,Takashi Hara,R,0
+392,Japan,1921,Takashi Hara,R,0
+392,Japan,1922,Tomosaburo Kato,O,0
+392,Japan,1923,Tomosaburo Kato,O,0
+392,Japan,1924,Takkaki Kato,R,0
+392,Japan,1925,Takkaki Kato,R,0
+392,Japan,1926,Reijiro Wakatsuki,R,0
+392,Japan,1927,Giichi Tanaka,R,0
+392,Japan,1928,Giichi Tanaka,R,0
+392,Japan,1929,Giichi Tanaka,R,0
+392,Japan,1930,Osachi Hamaguchi,R,0
+392,Japan,1931,Reijiro Wakatsuki,R,0
+392,Japan,1932,Makoto Saito,O,0
+392,Japan,1933,Makoto Saito,O,0
+392,Japan,1934,Makoto Saito,O,0
+392,Japan,1935,Keisuke Okada,O,0
+392,Japan,1936,Koki Hirota,O,0
+392,Japan,1937,Fumimaro Konoe,R,0
+392,Japan,1938,Fumimaro Konoe,R,0
+392,Japan,1939,Kiichiro Hiranuma,O,0
+392,Japan,1940,Mitsumasa Yonai,O,0
+392,Japan,1941,Fumimaro Konoe,O,0
+392,Japan,1942,Hideki Tojo,O,0
+392,Japan,1943,Hideki Tojo,O,0
+392,Japan,1944,Hideki Tojo,O,0
+392,Japan,1945,Kuniaki Koiso/Kantaro Suzuki/Naruhiko Higashikuni/Kijuro Shidehara,O,0
+392,Japan,1946,Shigeru Yoshida,R,0
+392,Japan,1947,Tetsu Katayama,L,0
+392,Japan,1948,Hitoshi Ashida,C,0
+392,Japan,1949,Shigeru Yoshida,R,0
+392,Japan,1950,Shigeru Yoshida,R,0
+392,Japan,1951,Shigeru Yoshida,R,0
+392,Japan,1952,Shigeru Yoshida,R,0
+392,Japan,1953,Shigeru Yoshida,R,0
+392,Japan,1954,Shigeru Yoshida,R,0
+392,Japan,1955,Ichiro Hatoyama,R,0
+392,Japan,1956,Ichiro Hatoyama,R,0
+392,Japan,1957,Nobusuke Kishi,R,0
+392,Japan,1958,Nobusuke Kishi,R,0
+392,Japan,1959,Nobusuke Kishi,R,0
+392,Japan,1960,Nobusuke Kishi,R,0
+392,Japan,1961,Hayato Ikeda,R,0
+392,Japan,1962,Hayato Ikeda,R,0
+392,Japan,1963,Hayato Ikeda,R,0
+392,Japan,1964,Hayato Ikeda,R,0
+392,Japan,1965,Eisaku Sato,R,0
+392,Japan,1966,Eisaku Sato,R,0
+392,Japan,1967,Eisaku Sato,R,0
+392,Japan,1968,Eisaku Sato,R,0
+392,Japan,1969,Eisaku Sato,R,0
+392,Japan,1970,Eisaku Sato,R,0
+392,Japan,1971,Eisaku Sato,R,0
+392,Japan,1972,Eisaku Sato,R,0
+392,Japan,1973,Kakuei Tanaka,R,0
+392,Japan,1974,Kakuei Tanaka,R,0
+392,Japan,1975,Takeo Miki,R,0
+392,Japan,1976,Takeo Miki,R,0
+392,Japan,1977,Takeo Fukuda,R,0
+392,Japan,1978,Takeo Fukuda,R,0
+392,Japan,1979,Masayoshi Ohira,R,0
+392,Japan,1980,Masayoshi Ohira/Zenko Suzuki,R,0
+392,Japan,1981,Zenko Suzuki,R,0
+392,Japan,1982,Zenko Suzuki,R,0
+392,Japan,1983,Yasuhiro Nakasone,R,0
+392,Japan,1984,Yasuhiro Nakasone,R,0
+392,Japan,1985,Yasuhiro Nakasone,R,0
+392,Japan,1986,Yasuhiro Nakasone,R,0
+392,Japan,1987,Yasuhiro Nakasone,R,0
+392,Japan,1988,Noboru Takeshita,R,0
+392,Japan,1989,Noboru Takeshita/Toshiki Kaifu,R,0
+392,Japan,1990,Toshiki Kaifu,R,0
+392,Japan,1991,Toshiki Kaifu,R,0
+392,Japan,1992,Kiichi Miyazawa,R,0
+392,Japan,1993,Kiichi Miyazawa,R,0
+392,Japan,1994,Tomiichi Murayama,L,0
+392,Japan,1995,Tomiichi Murayama,L,0
+392,Japan,1996,Ryutaro Hashimoto,R,0
+392,Japan,1997,Ryutaro Hashimoto,R,0
+392,Japan,1998,Ryutaro Hashimoto,R,0
+392,Japan,1999,Keizo Obuchi,R,0
+392,Japan,2000,Yoshiro Mori,R,0
+392,Japan,2001,Junichiro Koizumi,R,0
+392,Japan,2002,Junichiro Koizumi,R,0
+392,Japan,2003,Junichiro Koizumi,R,0
+392,Japan,2004,Junichiro Koizumi,R,0
+392,Japan,2005,Junichiro Koizumi,R,0
+392,Japan,2006,Junichiro Koizumi,R,0
+392,Japan,2007,Shinzo Abe,R,0
+392,Japan,2008,Yasuo Fukuda,R,0
+392,Japan,2009,Taro Aso,R,0
+392,Japan,2010,Naoto Kan,O,0
+392,Japan,2011,Naoto Kan,O,0
+392,Japan,2012,Yoshihiko Noda,O,0
+484,Mexico,1870,Benito Juárez,C,0
+484,Mexico,1871,Benito Juárez,C,0
+484,Mexico,1872,Benito Juárez,C,0
+484,Mexico,1873,Sebastián Lerdo de Tejada,C,0
+484,Mexico,1874,Sebastián Lerdo de Tejada,C,0
+484,Mexico,1875,Sebastián Lerdo de Tejada,C,0
+484,Mexico,1876,Sebastián Lerdo de Tejada,C,0
+484,Mexico,1877,Porfirio Díaz,C,0
+484,Mexico,1878,Porfirio Díaz,C,0
+484,Mexico,1879,Porfirio Díaz,C,0
+484,Mexico,1880,Porfirio Díaz,C,0
+484,Mexico,1881,Manuel González,C,0
+484,Mexico,1882,Manuel González,C,0
+484,Mexico,1883,Manuel González,C,0
+484,Mexico,1884,Manuel González,C,0
+484,Mexico,1885,Porfirio Díaz,C,0
+484,Mexico,1886,Porfirio Díaz,C,0
+484,Mexico,1887,Porfirio Díaz,C,0
+484,Mexico,1888,Porfirio Díaz,C,0
+484,Mexico,1889,Porfirio Díaz,C,0
+484,Mexico,1890,Porfirio Díaz,C,0
+484,Mexico,1891,Porfirio Díaz,C,0
+484,Mexico,1892,Porfirio Díaz,C,0
+484,Mexico,1893,Porfirio Díaz,C,0
+484,Mexico,1894,Porfirio Díaz,C,0
+484,Mexico,1895,Porfirio Díaz,C,0
+484,Mexico,1896,Porfirio Díaz,C,0
+484,Mexico,1897,Porfirio Díaz,C,0
+484,Mexico,1898,Porfirio Díaz,C,0
+484,Mexico,1899,Porfirio Díaz,C,0
+484,Mexico,1900,Porfirio Díaz,C,0
+484,Mexico,1901,Porfirio Díaz,C,0
+484,Mexico,1902,Porfirio Díaz,C,0
+484,Mexico,1903,Porfirio Díaz,C,0
+484,Mexico,1904,Porfirio Díaz,C,0
+484,Mexico,1905,Porfirio Díaz,C,0
+484,Mexico,1906,Porfirio Díaz,C,0
+484,Mexico,1907,Porfirio Díaz,C,0
+484,Mexico,1908,Porfirio Díaz,C,0
+484,Mexico,1909,Porfirio Díaz,C,0
+484,Mexico,1910,Porfirio Díaz,C,0
+484,Mexico,1911,Porfirio Díaz,C,0
+484,Mexico,1912,Francisco I. Madero,C,0
+484,Mexico,1913,Victoriano Huerta,O,0
+484,Mexico,1914,Victoriano Huerta,O,0
+484,Mexico,1915,Roque González Garza,L,0
+484,Mexico,1916,Venustiano Carranza,R,0
+484,Mexico,1917,Venustiano Carranza,R,0
+484,Mexico,1918,Venustiano Carranza,R,0
+484,Mexico,1919,Venustiano Carranza,R,0
+484,Mexico,1920,Adolfo de la Huerta,O,0
+484,Mexico,1921,Álvaro Obregón,L,0
+484,Mexico,1922,Álvaro Obregón,L,0
+484,Mexico,1923,Álvaro Obregón,L,0
+484,Mexico,1924,Álvaro Obregón,L,0
+484,Mexico,1925,Plutarco Elías Calles,R,0
+484,Mexico,1926,Plutarco Elías Calles,R,0
+484,Mexico,1927,Plutarco Elías Calles,R,0
+484,Mexico,1928,Plutarco Elías Calles,R,0
+484,Mexico,1929,Emilio Portes Gil,R,0
+484,Mexico,1930,Pascual Ortiz Rubio,R,0
+484,Mexico,1931,Pascual Ortiz Rubio,R,0
+484,Mexico,1932,Pascual Ortiz Rubio,R,0
+484,Mexico,1933,Abelardo L. Rodríguez,R,0
+484,Mexico,1934,Abelardo L. Rodríguez,R,0
+484,Mexico,1935,Lázaro Cárdenas,L,0
+484,Mexico,1936,Lázaro Cárdenas,L,0
+484,Mexico,1937,Lázaro Cárdenas,L,0
+484,Mexico,1938,Lázaro Cárdenas,L,0
+484,Mexico,1939,Lázaro Cárdenas,L,0
+484,Mexico,1940,Lázaro Cárdenas,L,0
+484,Mexico,1941,Manuel Ávila Camacho,R,0
+484,Mexico,1942,Manuel Ávila Camacho,R,0
+484,Mexico,1943,Manuel Ávila Camacho,R,0
+484,Mexico,1944,Manuel Ávila Camacho,R,0
+484,Mexico,1945,Manuel Ávila Camacho,R,0
+484,Mexico,1946,Manuel Ávila Camacho,R,0
+484,Mexico,1947,Miguel Alemán,C,0
+484,Mexico,1948,Miguel Alemán,C,0
+484,Mexico,1949,Miguel Alemán,C,0
+484,Mexico,1950,Miguel Alemán,C,0
+484,Mexico,1951,Miguel Alemán,C,0
+484,Mexico,1952,Miguel Alemán,C,0
+484,Mexico,1953,Adolfo Ruiz Cortines,C,0
+484,Mexico,1954,Adolfo Ruiz Cortines,C,0
+484,Mexico,1955,Adolfo Ruiz Cortines,C,0
+484,Mexico,1956,Adolfo Ruiz Cortines,C,0
+484,Mexico,1957,Adolfo Ruiz Cortines,C,0
+484,Mexico,1958,Adolfo Ruiz Cortines,C,0
+484,Mexico,1959,Adolfo López Mateos,R,0
+484,Mexico,1960,Adolfo López Mateos,R,0
+484,Mexico,1961,Adolfo López Mateos,R,0
+484,Mexico,1962,Adolfo López Mateos,R,0
+484,Mexico,1963,Adolfo López Mateos,R,0
+484,Mexico,1964,Adolfo López Mateos,R,0
+484,Mexico,1965,Gustavo Díaz Ordaz,R,0
+484,Mexico,1966,Gustavo Díaz Ordaz,R,0
+484,Mexico,1967,Gustavo Díaz Ordaz,R,0
+484,Mexico,1968,Gustavo Díaz Ordaz,R,0
+484,Mexico,1969,Gustavo Díaz Ordaz,R,0
+484,Mexico,1970,Gustavo Díaz Ordaz,R,0
+484,Mexico,1971,Luis Echeverría Álvarez,L,0
+484,Mexico,1972,Luis Echeverría Álvarez,L,0
+484,Mexico,1973,Luis Echeverría Álvarez,L,0
+484,Mexico,1974,Luis Echeverría Álvarez,L,0
+484,Mexico,1975,Luis Echeverría Álvarez,L,0
+484,Mexico,1976,Luis Echeverría Álvarez,L,0
+484,Mexico,1977,José López Portillo,L,0
+484,Mexico,1978,José López Portillo,L,0
+484,Mexico,1979,José López Portillo,L,0
+484,Mexico,1980,José López Portillo,L,0
+484,Mexico,1981,José López Portillo,L,0
+484,Mexico,1982,José López Portillo,L,0
+484,Mexico,1983,Miguel de la Madrid,R,0
+484,Mexico,1984,Miguel de la Madrid,R,0
+484,Mexico,1985,Miguel de la Madrid,R,0
+484,Mexico,1986,Miguel de la Madrid,R,0
+484,Mexico,1987,Miguel de la Madrid,R,0
+484,Mexico,1988,Miguel de la Madrid,R,0
+484,Mexico,1989,Carlos Salinas de Gortari,R,0
+484,Mexico,1990,Carlos Salinas de Gortari,R,0
+484,Mexico,1991,Carlos Salinas de Gortari,R,0
+484,Mexico,1992,Carlos Salinas de Gortari,R,0
+484,Mexico,1993,Carlos Salinas de Gortari,R,0
+484,Mexico,1994,Carlos Salinas de Gortari,R,0
+484,Mexico,1995,Ernesto Zedillo,R,0
+484,Mexico,1996,Ernesto Zedillo,R,0
+484,Mexico,1997,Ernesto Zedillo,R,0
+484,Mexico,1998,Ernesto Zedillo,R,0
+484,Mexico,1999,Ernesto Zedillo,R,0
+484,Mexico,2000,Ernesto Zedillo,R,0
+484,Mexico,2001,Vicente Fox Quesada,R,1
+484,Mexico,2002,Vicente Fox Quesada,R,1
+484,Mexico,2003,Vicente Fox Quesada,R,1
+484,Mexico,2004,Vicente Fox Quesada,R,1
+484,Mexico,2005,Vicente Fox Quesada,R,1
+484,Mexico,2006,Vicente Fox Quesada,R,1
+484,Mexico,2007,Felipe Calderón,R,1
+484,Mexico,2008,Felipe Calderón,R,1
+484,Mexico,2009,Felipe Calderón,R,1
+484,Mexico,2010,Felipe Calderón,R,1
+484,Mexico,2011,Felipe Calderón,R,1
+484,Mexico,2012,Felipe Calderón,R,1
+528,Netherlands,1870,Pieter Philip van Bosse,R,0
+528,Netherlands,1871,Johan Rudolph Thorbecke,R,0
+528,Netherlands,1872,Gerrit de Vries,R,0
+528,Netherlands,1873,Gerrit de Vries,R,0
+528,Netherlands,1874,Gerrit de Vries,R,0
+528,Netherlands,1875,Jan Heemskerk,R,0
+528,Netherlands,1876,Jan Heemskerk,R,0
+528,Netherlands,1877,Jan Heemskerk,R,0
+528,Netherlands,1878,Jan Kappeyne van de Coppello  ,R,0
+528,Netherlands,1879,Jan Kappeyne van de Coppello  ,R,0
+528,Netherlands,1880,Theo van Sandenburg,R,0
+528,Netherlands,1881,Theo van Sandenburg,R,0
+528,Netherlands,1882,Theo van Sandenburg,R,0
+528,Netherlands,1883,Jan Heemskerk Abrahamzoon,R,0
+528,Netherlands,1884,Jan Heemskerk Abrahamzoon,R,0
+528,Netherlands,1885,Jan Heemskerk Abrahamzoon,R,0
+528,Netherlands,1886,Jan Heemskerk Abrahamzoon,R,0
+528,Netherlands,1887,Jan Heemskerk Abrahamzoon,R,0
+528,Netherlands,1888,Æneas baron Mackay,R,1
+528,Netherlands,1889,Æneas baron Mackay,R,1
+528,Netherlands,1890,Æneas baron Mackay,R,1
+528,Netherlands,1891,Æneas baron Mackay,R,1
+528,Netherlands,1892,Gijsbert van Tienhoven ,R,0
+528,Netherlands,1893,Gijsbert van Tienhoven ,R,0
+528,Netherlands,1894,Joan Röell ,R,0
+528,Netherlands,1895,Joan Röell ,R,0
+528,Netherlands,1896,Joan Röell ,R,0
+528,Netherlands,1897,Joan Röell ,R,0
+528,Netherlands,1898,Nicolaas Gerard Pierson,R,0
+528,Netherlands,1899,Nicolaas Gerard Pierson,R,0
+528,Netherlands,1900,Nicolaas Gerard Pierson,R,0
+528,Netherlands,1901,Nicolaas Gerard Pierson,R,0
+528,Netherlands,1902,Abraham Kuyper,R,1
+528,Netherlands,1903,Abraham Kuyper,R,1
+528,Netherlands,1904,Abraham Kuyper,R,1
+528,Netherlands,1905,Abraham Kuyper,R,1
+528,Netherlands,1906,Theodoor Herman de Meester,R,0
+528,Netherlands,1907,Theodoor Herman de Meester,R,0
+528,Netherlands,1908,Theo Heemskerk,R,1
+528,Netherlands,1909,Theo Heemskerk,R,1
+528,Netherlands,1910,Theo Heemskerk,R,1
+528,Netherlands,1911,Theo Heemskerk,R,1
+528,Netherlands,1912,Theo Heemskerk,R,1
+528,Netherlands,1913,Theo Heemskerk,R,1
+528,Netherlands,1914,Pieter van der Linden,R,0
+528,Netherlands,1915,Pieter van der Linden,R,0
+528,Netherlands,1916,Pieter van der Linden,R,0
+528,Netherlands,1917,Pieter van der Linden,R,0
+528,Netherlands,1918,Pieter van der Linden,R,0
+528,Netherlands,1919,Charles Ruijs de Beerenbrouck,R,1
+528,Netherlands,1920,Charles Ruijs de Beerenbrouck,R,1
+528,Netherlands,1921,Charles Ruijs de Beerenbrouck,R,1
+528,Netherlands,1922,Charles Ruijs de Beerenbrouck,R,1
+528,Netherlands,1923,Charles Ruijs de Beerenbrouck,R,1
+528,Netherlands,1924,Charles Ruijs de Beerenbrouck,R,1
+528,Netherlands,1925,Charles Ruijs de Beerenbrouck,R,1
+528,Netherlands,1926,Dirk Jan de Geer,R,1
+528,Netherlands,1927,Dirk Jan de Geer,R,1
+528,Netherlands,1928,Dirk Jan de Geer,R,1
+528,Netherlands,1929,Dirk Jan de Geer,R,1
+528,Netherlands,1930,Charles Ruijs de Beerenbrouck,R,1
+528,Netherlands,1931,Charles Ruijs de Beerenbrouck,R,1
+528,Netherlands,1932,Charles Ruijs de Beerenbrouck,R,1
+528,Netherlands,1933,Hendrikus Colijn,R,1
+528,Netherlands,1934,Hendrikus Colijn,R,1
+528,Netherlands,1935,Hendrikus Colijn,R,1
+528,Netherlands,1936,Hendrikus Colijn,R,1
+528,Netherlands,1937,Hendrikus Colijn,R,1
+528,Netherlands,1938,Hendrikus Colijn,R,1
+528,Netherlands,1939,Hendrikus Colijn,R,1
+528,Netherlands,1940,Dirk Jan de Geer,,
+528,Netherlands,1941,Pieter Sjoerds Gerbrandy,,
+528,Netherlands,1942,Pieter Sjoerds Gerbrandy,,
+528,Netherlands,1943,Pieter Sjoerds Gerbrandy,,
+528,Netherlands,1944,Pieter Sjoerds Gerbrandy,,
+528,Netherlands,1945,Willem Schermerhorn,L,0
+528,Netherlands,1946,Willem Schermerhorn,L,0
+528,Netherlands,1947,Louis Beel,C,1
+528,Netherlands,1948,Louis Beel,C,1
+528,Netherlands,1949,Willem Drees,L,0
+528,Netherlands,1950,Willem Drees,L,0
+528,Netherlands,1951,Willem Drees,L,0
+528,Netherlands,1952,Willem Drees,L,0
+528,Netherlands,1953,Willem Drees,L,0
+528,Netherlands,1954,Willem Drees,L,0
+528,Netherlands,1955,Willem Drees,L,0
+528,Netherlands,1956,Willem Drees,L,0
+528,Netherlands,1957,Willem Drees,L,0
+528,Netherlands,1958,Willem Drees,L,0
+528,Netherlands,1959,Jan Eduard de Quay,R,1
+528,Netherlands,1960,Jan Eduard de Quay,R,1
+528,Netherlands,1961,Jan Eduard de Quay,R,1
+528,Netherlands,1962,Jan Eduard de Quay,R,1
+528,Netherlands,1963,Jan Eduard de Quay,R,1
+528,Netherlands,1964,Victor Marijnen,R,1
+528,Netherlands,1965,Jo Cals,R,1
+528,Netherlands,1966,Jo Cals,R,1
+528,Netherlands,1967,Piet de Jong ,R,1
+528,Netherlands,1968,Piet de Jong ,R,1
+528,Netherlands,1969,Piet de Jong ,R,1
+528,Netherlands,1970,Piet de Jong ,R,1
+528,Netherlands,1971,Piet de Jong ,R,1
+528,Netherlands,1972,Barend Biesheuvel,R,1
+528,Netherlands,1973,Joop den Uyl,L,0
+528,Netherlands,1974,Joop den Uyl,L,0
+528,Netherlands,1975,Joop den Uyl,L,0
+528,Netherlands,1976,Joop den Uyl,L,0
+528,Netherlands,1977,Joop den Uyl,L,0
+528,Netherlands,1978,Andreas van Agt,R,1
+528,Netherlands,1979,Andreas van Agt,R,1
+528,Netherlands,1980,Andreas van Agt,R,1
+528,Netherlands,1981,Andreas van Agt,R,1
+528,Netherlands,1982,Andreas van Agt,R,1
+528,Netherlands,1983,Ruud Lubbers,R,1
+528,Netherlands,1984,Ruud Lubbers,R,1
+528,Netherlands,1985,Ruud Lubbers,R,1
+528,Netherlands,1986,Ruud Lubbers,R,1
+528,Netherlands,1987,Ruud Lubbers,R,1
+528,Netherlands,1988,Ruud Lubbers,R,1
+528,Netherlands,1989,Ruud Lubbers,R,1
+528,Netherlands,1990,Ruud Lubbers,R,1
+528,Netherlands,1991,Ruud Lubbers,R,1
+528,Netherlands,1992,Ruud Lubbers,R,1
+528,Netherlands,1993,Ruud Lubbers,R,1
+528,Netherlands,1994,Ruud Lubbers,R,1
+528,Netherlands,1995,Wim Kok,L,0
+528,Netherlands,1996,Wim Kok,L,0
+528,Netherlands,1997,Wim Kok,L,0
+528,Netherlands,1998,Wim Kok,L,0
+528,Netherlands,1999,Wim Kok,L,0
+528,Netherlands,2000,Wim Kok,L,0
+528,Netherlands,2001,Wim Kok,L,0
+528,Netherlands,2002,Wim Kok,L,0
+528,Netherlands,2003,Jan Peter Balkenende,R,1
+528,Netherlands,2004,Jan Peter Balkenende,R,1
+528,Netherlands,2005,Jan Peter Balkenende,R,1
+528,Netherlands,2006,Jan Peter Balkenende,R,1
+528,Netherlands,2007,Jan Peter Balkenende,R,1
+528,Netherlands,2008,Jan Peter Balkenende,R,1
+528,Netherlands,2009,Jan Peter Balkenende,R,1
+528,Netherlands,2010,Jan Peter Balkenende,R,1
+528,Netherlands,2011,Mark Rutte,R,0
+528,Netherlands,2012,Mark Rutte,R,0
+554,New Zealand,1870,William Fox,C,0
+554,New Zealand,1871,William Fox,C,0
+554,New Zealand,1872,William Fox,C,0
+554,New Zealand,1873,Julius Vogel,C,0
+554,New Zealand,1874,Julius Vogel,C,0
+554,New Zealand,1875,Julius Vogel,C,0
+554,New Zealand,1876,Julius Vogel,C,0
+554,New Zealand,1877,Harry Atkinson,R,0
+554,New Zealand,1878,George Grey,C,0
+554,New Zealand,1879,George Grey,C,0
+554,New Zealand,1880,John Hall,R,0
+554,New Zealand,1881,John Hall,R,0
+554,New Zealand,1882,Frederick Whitaker,R,0
+554,New Zealand,1883,Frederick Whitaker,R,0
+554,New Zealand,1884,Harry Atkinson,R,0
+554,New Zealand,1885,Robert Stout,C,0
+554,New Zealand,1886,Robert Stout,C,0
+554,New Zealand,1887,Robert Stout,C,0
+554,New Zealand,1888,Harry Atkinson,R,0
+554,New Zealand,1889,Harry Atkinson,R,0
+554,New Zealand,1890,Harry Atkinson,R,0
+554,New Zealand,1891,John Ballance,C,0
+554,New Zealand,1892,John Ballance,C,0
+554,New Zealand,1893,Richard John Seddon,C,0
+554,New Zealand,1894,Richard John Seddon,C,0
+554,New Zealand,1895,Richard John Seddon,C,0
+554,New Zealand,1896,Richard John Seddon,C,0
+554,New Zealand,1897,Richard John Seddon,C,0
+554,New Zealand,1898,Richard John Seddon,C,0
+554,New Zealand,1899,Richard John Seddon,C,0
+554,New Zealand,1900,Richard John Seddon,C,0
+554,New Zealand,1901,Richard John Seddon,C,0
+554,New Zealand,1902,Richard John Seddon,C,0
+554,New Zealand,1903,Richard John Seddon,C,0
+554,New Zealand,1904,Richard John Seddon,C,0
+554,New Zealand,1905,Richard John Seddon,C,0
+554,New Zealand,1906,Richard John Seddon,C,0
+554,New Zealand,1907,Joseph Ward,C,0
+554,New Zealand,1908,Joseph Ward,C,0
+554,New Zealand,1909,Joseph Ward,C,0
+554,New Zealand,1910,Joseph Ward,C,0
+554,New Zealand,1911,Joseph Ward,C,0
+554,New Zealand,1912,Joseph Ward/Thomas Mackenzie,C,0
+554,New Zealand,1913,William Ferguson Massey,R,0
+554,New Zealand,1914,William Ferguson Massey,R,0
+554,New Zealand,1915,William Ferguson Massey,R,0
+554,New Zealand,1916,William Ferguson Massey,R,0
+554,New Zealand,1917,William Ferguson Massey,R,0
+554,New Zealand,1918,William Ferguson Massey,R,0
+554,New Zealand,1919,William Ferguson Massey,R,0
+554,New Zealand,1920,William Ferguson Massey,R,0
+554,New Zealand,1921,William Ferguson Massey,R,0
+554,New Zealand,1922,William Ferguson Massey,R,0
+554,New Zealand,1923,William Ferguson Massey,R,0
+554,New Zealand,1924,William Ferguson Massey,R,0
+554,New Zealand,1925,Joseph Gordon Coates,R,0
+554,New Zealand,1926,Joseph Gordon Coates,R,0
+554,New Zealand,1927,Joseph Gordon Coates,R,0
+554,New Zealand,1928,Joseph Gordon Coates,R,0
+554,New Zealand,1929,Joseph Ward,R,0
+554,New Zealand,1930,George William Forbes,R,0
+554,New Zealand,1931,George William Forbes,R,0
+554,New Zealand,1932,George William Forbes,R,0
+554,New Zealand,1933,George William Forbes,R,0
+554,New Zealand,1934,George William Forbes,R,0
+554,New Zealand,1935,George William Forbes,R,0
+554,New Zealand,1936,Michael Joseph Savage,L,0
+554,New Zealand,1937,Michael Joseph Savage,L,0
+554,New Zealand,1938,Michael Joseph Savage,L,0
+554,New Zealand,1939,Michael Joseph Savage,L,0
+554,New Zealand,1940,Peter Fraser,L,0
+554,New Zealand,1941,Peter Fraser,L,0
+554,New Zealand,1942,Peter Fraser,L,0
+554,New Zealand,1943,Peter Fraser,L,0
+554,New Zealand,1944,Peter Fraser,L,0
+554,New Zealand,1945,Peter Fraser,L,0
+554,New Zealand,1946,Peter Fraser,L,0
+554,New Zealand,1947,Peter Fraser,L,0
+554,New Zealand,1948,Peter Fraser,L,0
+554,New Zealand,1949,Peter Fraser,L,0
+554,New Zealand,1950,Sidney Holland,R,0
+554,New Zealand,1951,Sidney Holland,R,0
+554,New Zealand,1952,Sidney Holland,R,0
+554,New Zealand,1953,Sidney Holland,R,0
+554,New Zealand,1954,Sidney Holland,R,0
+554,New Zealand,1955,Sidney Holland,R,0
+554,New Zealand,1956,Sidney Holland,R,0
+554,New Zealand,1957,Sidney Holland,R,0
+554,New Zealand,1958,Walter Nash,L,0
+554,New Zealand,1959,Walter Nash,L,0
+554,New Zealand,1960,Walter Nash,L,0
+554,New Zealand,1961,Keith Jacka Holyoake,R,0
+554,New Zealand,1962,Keith Jacka Holyoake,R,0
+554,New Zealand,1963,Keith Jacka Holyoake,R,0
+554,New Zealand,1964,Keith Jacka Holyoake,R,0
+554,New Zealand,1965,Keith Jacka Holyoake,R,0
+554,New Zealand,1966,Keith Jacka Holyoake,R,0
+554,New Zealand,1967,Keith Jacka Holyoake,R,0
+554,New Zealand,1968,Keith Jacka Holyoake,R,0
+554,New Zealand,1969,Keith Jacka Holyoake,R,0
+554,New Zealand,1970,Keith Jacka Holyoake,R,0
+554,New Zealand,1971,Keith Jacka Holyoake,R,0
+554,New Zealand,1972,John Ross Marshall,R,0
+554,New Zealand,1973,Norman Eric Kirk,L,0
+554,New Zealand,1974,Norman Eric Kirk,L,0
+554,New Zealand,1975,Wallace Edward Rowling,L,0
+554,New Zealand,1976,Robert David Muldoon,R,0
+554,New Zealand,1977,Robert David Muldoon,R,0
+554,New Zealand,1978,Robert David Muldoon,R,0
+554,New Zealand,1979,Robert David Muldoon,R,0
+554,New Zealand,1980,Robert David Muldoon,R,0
+554,New Zealand,1981,Robert David Muldoon,R,0
+554,New Zealand,1982,Robert David Muldoon,R,0
+554,New Zealand,1983,Robert David Muldoon,R,0
+554,New Zealand,1984,Robert David Muldoon,R,0
+554,New Zealand,1985,David Lange,L,0
+554,New Zealand,1986,David Lange,L,0
+554,New Zealand,1987,David Lange,L,0
+554,New Zealand,1988,David Lange,L,0
+554,New Zealand,1989,David Lange,L,0
+554,New Zealand,1990,Geoffrey Palmer,L,0
+554,New Zealand,1991,Jim Bolger,R,0
+554,New Zealand,1992,Jim Bolger,R,0
+554,New Zealand,1993,Jim Bolger,R,0
+554,New Zealand,1994,Jim Bolger,R,0
+554,New Zealand,1995,Jim Bolger,R,0
+554,New Zealand,1996,Jim Bolger,R,0
+554,New Zealand,1997,Jim Bolger,R,0
+554,New Zealand,1998,Jenny Shipley,R,0
+554,New Zealand,1999,Jenny Shipley,R,0
+554,New Zealand,2000,Helen Clark,L,0
+554,New Zealand,2001,Helen Clark,L,0
+554,New Zealand,2002,Helen Clark,L,0
+554,New Zealand,2003,Helen Clark,L,0
+554,New Zealand,2004,Helen Clark,L,0
+554,New Zealand,2005,Helen Clark,L,0
+554,New Zealand,2006,Helen Clark,L,0
+554,New Zealand,2007,Helen Clark,L,0
+554,New Zealand,2008,Helen Clark,L,0
+554,New Zealand,2009,John Key,R,0
+554,New Zealand,2010,John Key,R,0
+554,New Zealand,2011,John Key,R,0
+554,New Zealand,2012,John Key,R,0
+578,Norway,1900,Johannes Wilhelm Christian Steen,C,0
+578,Norway,1901,Johannes Wilhelm Christian Steen,C,0
+578,Norway,1902,Otto Albert Blehr,C,0
+578,Norway,1903,Otto Albert Blehr,C,0
+578,Norway,1904,Georg Francis Hagerup,R,0
+578,Norway,1905,Christian Michelsen ,C,0
+578,Norway,1906,Christian Michelsen ,C,0
+578,Norway,1907,Christian Michelsen ,C,0
+578,Norway,1908,Gunnar Knudsen,C,0
+578,Norway,1909,Gunnar Knudsen,C,0
+578,Norway,1910,Wollert Konow,R,0
+578,Norway,1911,Wollert Konow,R,0
+578,Norway,1912,Jens Kristian Meinich Bratlie,R,0
+578,Norway,1913,Gunnar Knudsen,C,0
+578,Norway,1914,Gunnar Knudsen,C,0
+578,Norway,1915,Gunnar Knudsen,C,0
+578,Norway,1916,Gunnar Knudsen,C,0
+578,Norway,1917,Gunnar Knudsen,C,0
+578,Norway,1918,Gunnar Knudsen,C,0
+578,Norway,1919,Gunnar Knudsen,C,0
+578,Norway,1920,Otto Bahr Halvorsen,R,0
+578,Norway,1921,Otto Albert Blehr,C,0
+578,Norway,1922,Otto Albert Blehr,C,0
+578,Norway,1923,Abraham Theodor Berge,R,0
+578,Norway,1924,Abraham Theodor Berge,R,0
+578,Norway,1925,Johan Ludwig Mowinckel,R,0
+578,Norway,1926,Ivar Lykke,R,0
+578,Norway,1927,Ivar Lykke,R,0
+578,Norway,1928,Johan Ludwig Mowinckel,C,0
+578,Norway,1929,Johan Ludwig Mowinckel,C,0
+578,Norway,1930,Johan Ludwig Mowinckel,C,0
+578,Norway,1931,Peder Ludvik Kolstad ,C,0
+578,Norway,1932,Jens Hundseid ,C,0
+578,Norway,1933,Johan Ludwig Mowinckel,C,0
+578,Norway,1934,Johan Ludwig Mowinckel,C,0
+578,Norway,1935,Johan Nygaardsvold,L,0
+578,Norway,1936,Johan Nygaardsvold,L,0
+578,Norway,1937,Johan Nygaardsvold,L,0
+578,Norway,1938,Johan Nygaardsvold,L,0
+578,Norway,1939,Johan Nygaardsvold,L,0
+578,Norway,1940,Johan Nygaardsvold,,
+578,Norway,1941,Johan Nygaardsvold,,
+578,Norway,1942,Johan Nygaardsvold,,
+578,Norway,1943,Johan Nygaardsvold,,
+578,Norway,1944,Johan Nygaardsvold,,
+578,Norway,1945,Einar Henry Gerhardsen,L,0
+578,Norway,1946,Einar Henry Gerhardsen,L,0
+578,Norway,1947,Einar Henry Gerhardsen,L,0
+578,Norway,1948,Einar Henry Gerhardsen,L,0
+578,Norway,1949,Einar Henry Gerhardsen,L,0
+578,Norway,1950,Einar Henry Gerhardsen,L,0
+578,Norway,1951,Einar Henry Gerhardsen,L,0
+578,Norway,1952,Oscar Fredrik Torp,L,0
+578,Norway,1953,Oscar Fredrik Torp,L,0
+578,Norway,1954,Oscar Fredrik Torp,L,0
+578,Norway,1955,Einar Henry Gerhardsen,L,0
+578,Norway,1956,Einar Henry Gerhardsen,L,0
+578,Norway,1957,Einar Henry Gerhardsen,L,0
+578,Norway,1958,Einar Henry Gerhardsen,L,0
+578,Norway,1959,Einar Henry Gerhardsen,L,0
+578,Norway,1960,Einar Henry Gerhardsen,L,0
+578,Norway,1961,Einar Henry Gerhardsen,L,0
+578,Norway,1962,Einar Henry Gerhardsen,L,0
+578,Norway,1963,Einar Henry Gerhardsen,L,0
+578,Norway,1964,Einar Henry Gerhardsen,L,0
+578,Norway,1965,Einar Henry Gerhardsen,L,0
+578,Norway,1966, Per Borten,C,0
+578,Norway,1967, Per Borten,C,0
+578,Norway,1968, Per Borten,C,0
+578,Norway,1969, Per Borten,C,0
+578,Norway,1970, Per Borten,C,0
+578,Norway,1971,Trygve Bratteli,L,0
+578,Norway,1972,Trygve Bratteli,L,0
+578,Norway,1973,Lars Korvald,C,1
+578,Norway,1974,Trygve Bratteli,L,0
+578,Norway,1975,Trygve Bratteli,L,0
+578,Norway,1976,Odvar Nordli,L,0
+578,Norway,1977,Odvar Nordli,L,0
+578,Norway,1978,Odvar Nordli,L,0
+578,Norway,1979,Odvar Nordli,L,0
+578,Norway,1980,Odvar Nordli,L,0
+578,Norway,1981,Gro Harlem Brundtland,L,0
+578,Norway,1982,Kåre Willoch,R,0
+578,Norway,1983,Kåre Willoch,R,0
+578,Norway,1984,Kåre Willoch,R,0
+578,Norway,1985,Kåre Willoch,R,0
+578,Norway,1986,Gro Harlem Brundtland,R,0
+578,Norway,1987,Gro Harlem Brundtland,L,0
+578,Norway,1988,Gro Harlem Brundtland,L,0
+578,Norway,1989,Gro Harlem Brundtland,L,0
+578,Norway,1990,Jan Peder Syse,R,0
+578,Norway,1991,Gro Harlem Brundtland,L,0
+578,Norway,1992,Gro Harlem Brundtland,L,0
+578,Norway,1993,Gro Harlem Brundtland,L,0
+578,Norway,1994,Gro Harlem Brundtland,L,0
+578,Norway,1995,Gro Harlem Brundtland,L,0
+578,Norway,1996,Gro Harlem Brundtland,L,0
+578,Norway,1997,Thorbjørn Jagland,L,0
+578,Norway,1998,Kjell Magne Bondevik,R,1
+578,Norway,1999,Kjell Magne Bondevik,R,1
+578,Norway,2000,Jens Stoltenberg,L,0
+578,Norway,2001,Jens Stoltenberg,L,0
+578,Norway,2002,Kjell Magne Bondevik,R,1
+578,Norway,2003,Kjell Magne Bondevik,R,1
+578,Norway,2004,Kjell Magne Bondevik,R,1
+578,Norway,2005,Kjell Magne Bondevik,R,1
+578,Norway,2006,Jens Stoltenberg,L,0
+578,Norway,2007,Jens Stoltenberg,L,0
+578,Norway,2008,Jens Stoltenberg,L,0
+578,Norway,2009,Jens Stoltenberg,L,0
+578,Norway,2010,Jens Stoltenberg,L,0
+578,Norway,2011,Jens Stoltenberg,L,0
+578,Norway,2012,Jens Stoltenberg,L,0
+600,Paraguay,1870,Cirilo Antonio Rivarola,O,0
+600,Paraguay,1871,Cirilo Antonio Rivarola,O,0
+600,Paraguay,1872,Salvador Jovellanos,O,0
+600,Paraguay,1873,Salvador Jovellanos,O,0
+600,Paraguay,1874,Salvador Jovellanos,O,0
+600,Paraguay,1875,Juan Bautista Gill,O,0
+600,Paraguay,1876,Juan Bautista Gill,O,0
+600,Paraguay,1877,Higinio Uriarte,O,0
+600,Paraguay,1878,Higinio Uriarte,O,0
+600,Paraguay,1879,Cándido Bareiro,O,0
+600,Paraguay,1880,Cándido Bareiro,O,0
+600,Paraguay,1881,Berardino Caballero,R,0
+600,Paraguay,1882,Berardino Caballero,R,0
+600,Paraguay,1883,Berardino Caballero,R,0
+600,Paraguay,1884,Berardino Caballero,R,0
+600,Paraguay,1885,Berardino Caballero,R,0
+600,Paraguay,1886,Berardino Caballero,R,0
+600,Paraguay,1887,Patricio Escobar,R,0
+600,Paraguay,1888,Patricio Escobar,R,0
+600,Paraguay,1889,Patricio Escobar,R,0
+600,Paraguay,1890,Patricio Escobar,R,0
+600,Paraguay,1891,Juan Gualberto González,R,0
+600,Paraguay,1892,Juan Gualberto González,R,0
+600,Paraguay,1893,Juan Gualberto González,R,0
+600,Paraguay,1894,Juan Gualberto González/Marcos A. Morínigo/Juan Bautista Egusquiza,R,0
+600,Paraguay,1895,Juan Bautista Egusquiza,R,0
+600,Paraguay,1896,Juan Bautista Egusquiza,R,0
+600,Paraguay,1897,Juan Bautista Egusquiza,R,0
+600,Paraguay,1898,Juan Bautista Egusquiza,R,0
+600,Paraguay,1899,Emilio Aceval,R,0
+600,Paraguay,1900,Emilio Aceval,R,0
+600,Paraguay,1901,Emilio Aceval,R,0
+600,Paraguay,1902,Andrés Héctor Carvallo,R,0
+600,Paraguay,1903,Juan Antonio Escurra,R,0
+600,Paraguay,1904,Juan Antonio Escurra,R,0
+600,Paraguay,1905,Juan Bautista Gaona,C,0
+600,Paraguay,1906,Cecilio Báez,C,0
+600,Paraguay,1907,Benigno Ferreira,C,0
+600,Paraguay,1908,Benigno Ferreira,C,0
+600,Paraguay,1909,Emiliano González Navero,C,0
+600,Paraguay,1910,Emiliano González Navero,C,0
+600,Paraguay,1911,Albino Jara/Liberato Marcial Rojas,C,0
+600,Paraguay,1912,Liberato Marcial Rojas/Emiliano González Navero/Eduardo Schaere,C,0
+600,Paraguay,1913,Eduarod Schaerer,C,0
+600,Paraguay,1914,Eduarod Schaerer,C,0
+600,Paraguay,1915,Eduarod Schaerer,C,0
+600,Paraguay,1916,Eduarod Schaerer,C,0
+600,Paraguay,1917,Manuel Franco,C,0
+600,Paraguay,1918,Manuel Franco,C,0
+600,Paraguay,1919,José Pedro Montero,C,0
+600,Paraguay,1920,José Pedro Montero,C,0
+600,Paraguay,1921,Manuel Gondra,C,0
+600,Paraguay,1922,Eusebio Ayala,C,0
+600,Paraguay,1923,Eligio Ayala,C,0
+600,Paraguay,1924,Eligio Ayala,C,0
+600,Paraguay,1925,Eligio Ayala/Luis Alberto Riart,C,0
+600,Paraguay,1926,Eligio Ayala,C,0
+600,Paraguay,1927,Eligio Ayala,C,0
+600,Paraguay,1928,Eligio Ayala,C,0
+600,Paraguay,1929,José Patricio Guggiari,C,0
+600,Paraguay,1930,José Patricio Guggiari,C,0
+600,Paraguay,1931,José Patricio Guggiari,C,0
+600,Paraguay,1932,José Patricio Guggiari,C,0
+600,Paraguay,1933,Eusebio Ayala,C,0
+600,Paraguay,1934,Eusebio Ayala,C,0
+600,Paraguay,1935,Eusebio Ayala,C,0
+600,Paraguay,1936,Rafael Franco,L,0
+600,Paraguay,1937,Rafael Franco,L,0
+600,Paraguay,1938,Félix Paiva,C,0
+600,Paraguay,1939,Félix Paiva,C,0
+600,Paraguay,1940,José Félix Estigarribia,C,0
+600,Paraguay,1941,Higinio Morínigo,O,0
+600,Paraguay,1942,Higinio Morínigo,O,0
+600,Paraguay,1943,Higinio Morínigo,O,0
+600,Paraguay,1944,Higinio Morínigo,O,0
+600,Paraguay,1945,Higinio Morínigo,O,0
+600,Paraguay,1946,Higinio Morínigo,O,0
+600,Paraguay,1947,Higinio Morínigo,O,0
+600,Paraguay,1948,Higinio Morínigo/Juan Natalicio González,R,0
+600,Paraguay,1949,Felipe Molas López,R,0
+600,Paraguay,1950,Federico Chaves,R,0
+600,Paraguay,1951,Federico Chaves,R,0
+600,Paraguay,1952,Federico Chaves,R,0
+600,Paraguay,1953,Federico Chaves,R,0
+600,Paraguay,1954,Federic Chaves/Stroessner,R,0
+600,Paraguay,1955,Alfredo Stroessner,R,0
+600,Paraguay,1956,Alfredo Stroessner,R,0
+600,Paraguay,1957,Alfredo Stroessner,R,0
+600,Paraguay,1958,Alfredo Stroessner,R,0
+600,Paraguay,1959,Alfredo Stroessner,R,0
+600,Paraguay,1960,Alfredo Stroessner,R,0
+600,Paraguay,1961,Alfredo Stroessner,R,0
+600,Paraguay,1962,Alfredo Stroessner,R,0
+600,Paraguay,1963,Alfredo Stroessner,R,0
+600,Paraguay,1964,Alfredo Stroessner,R,0
+600,Paraguay,1965,Alfredo Stroessner,R,0
+600,Paraguay,1966,Alfredo Stroessner,R,0
+600,Paraguay,1967,Alfredo Stroessner,R,0
+600,Paraguay,1968,Alfredo Stroessner,R,0
+600,Paraguay,1969,Alfredo Stroessner,R,0
+600,Paraguay,1970,Alfredo Stroessner,R,0
+600,Paraguay,1971,Alfredo Stroessner,R,0
+600,Paraguay,1972,Alfredo Stroessner,R,0
+600,Paraguay,1973,Alfredo Stroessner,R,0
+600,Paraguay,1974,Alfredo Stroessner,R,0
+600,Paraguay,1975,Alfredo Stroessner,R,0
+600,Paraguay,1976,Alfredo Stroessner,R,0
+600,Paraguay,1977,Alfredo Stroessner,R,0
+600,Paraguay,1978,Alfredo Stroessner,R,0
+600,Paraguay,1979,Alfredo Stroessner,R,0
+600,Paraguay,1980,Alfredo Stroessner,R,0
+600,Paraguay,1981,Alfredo Stroessner,R,0
+600,Paraguay,1982,Alfredo Stroessner,R,0
+600,Paraguay,1983,Alfredo Stroessner,R,0
+600,Paraguay,1984,Alfredo Stroessner,R,0
+600,Paraguay,1985,Alfredo Stroessner,R,0
+600,Paraguay,1986,Alfredo Stroessner,R,0
+600,Paraguay,1987,Alfredo Stroessner,R,0
+600,Paraguay,1988,Alfredo Stroessner,R,0
+600,Paraguay,1989,Andrés Rodríguez,R,0
+600,Paraguay,1990,Andrés Rodríguez,R,0
+600,Paraguay,1991,Andrés Rodríguez,R,0
+600,Paraguay,1992,Andrés Rodríguez,R,0
+600,Paraguay,1993,Andrés Rodríguez,R,0
+600,Paraguay,1994,Juan Carlos Wasmosy,R,0
+600,Paraguay,1995,Juan Carlos Wasmosy,R,0
+600,Paraguay,1996,Juan Carlos Wasmosy,R,0
+600,Paraguay,1997,Juan Carlos Wasmosy,R,0
+600,Paraguay,1998,Juan Carlos Wasmosy,R,0
+600,Paraguay,1999,Luis Ángel González Macchi,R,0
+600,Paraguay,2000,Luis Ángel González Macchi,R,0
+600,Paraguay,2001,Luis Ángel González Macchi,R,0
+600,Paraguay,2002,Luis Ángel González Macchi,R,0
+600,Paraguay,2003,Luis Ángel González Macchi,R,0
+600,Paraguay,2004,Nicanor Duarte Frutos,R,0
+600,Paraguay,2005,Nicanor Duarte Frutos,R,0
+600,Paraguay,2006,Nicanor Duarte Frutos,R,0
+600,Paraguay,2007,Nicanor Duarte Frutos,R,0
+600,Paraguay,2008,Nicanor Duarte Frutos,R,0
+600,Paraguay,2009,Fernanco Lugo,L,0
+600,Paraguay,2010,Fernanco Lugo,L,0
+600,Paraguay,2011,Fernanco Lugo,L,0
+600,Paraguay,2012,Federico Franco,C,0
+604,Peru,1870,José Balta,R,0
+604,Peru,1871,José Balta,R,0
+604,Peru,1872,José Balta,R,0
+604,Peru,1873,Manuel Pardo,C,0
+604,Peru,1874,Manuel Pardo,C,0
+604,Peru,1875,Manuel Pardo,C,0
+604,Peru,1876,Manuel Pardo,C,0
+604,Peru,1877,Mariano Ignacio Prado,C,0
+604,Peru,1878,Mariano Ignacio Prado,C,0
+604,Peru,1879,Mariano Ignacio Prado,C,0
+604,Peru,1880,Nicolás de Piérola,R,0
+604,Peru,1881,Patricio Lynch Solo de Zaldívar,O,0
+604,Peru,1882,Patricio Lynch Solo de Zaldívar,O,0
+604,Peru,1883,Patricio Lynch Solo de Zaldívar,O,0
+604,Peru,1884,Andrés Avelino Cáceres/Miguel Iglesias,O,0
+604,Peru,1885,Andrés Avelino Cáceres/Miguel Iglesias,O,0
+604,Peru,1886,Andrés Avelino Cáceres ,O,0
+604,Peru,1887,Andrés Avelino Cáceres ,O,0
+604,Peru,1888,Andrés Avelino Cáceres ,O,0
+604,Peru,1889,Andrés Avelino Cáceres ,O,0
+604,Peru,1890,Andrés Avelino Cáceres ,O,0
+604,Peru,1891,Remigio Morales Bermúdez,O,0
+604,Peru,1892,Remigio Morales Bermúdez,O,0
+604,Peru,1893,Remigio Morales Bermúdez,O,0
+604,Peru,1894,Remigio Morales Bermúdez/Justiniano Borgoño/Andrés Avelino Cáceres,O,0
+604,Peru,1895,Andrés Avelino Cáceres/Manuel Candamo/Nicolás de Piérola,O,0
+604,Peru,1896,Nicolás de Piérola,R,0
+604,Peru,1897,Nicolás de Piérola,R,0
+604,Peru,1898,Nicolás de Piérola,R,0
+604,Peru,1899,Nicolás de Piérola,R,0
+604,Peru,1900,Eduardo López de Romaña,C,0
+604,Peru,1901,Eduardo López de Romaña,C,0
+604,Peru,1902,Eduardo López de Romaña,C,0
+604,Peru,1903,Eduardo López de Romaña,C,0
+604,Peru,1904,Manuel Candamo/Serapio Calderón/José Pardo y Barreda,C,0
+604,Peru,1905,José Pardo y Barreda,C,0
+604,Peru,1906,José Pardo y Barreda,C,0
+604,Peru,1907,José Pardo y Barreda,C,0
+604,Peru,1908,José Pardo y Barreda,C,0
+604,Peru,1909,Augusto B. Leguía y Salcedo,C,0
+604,Peru,1910,Augusto B. Leguía y Salcedo,C,0
+604,Peru,1911,Augusto B. Leguía y Salcedo,C,0
+604,Peru,1912,Augusto B. Leguía y Salcedo,C,0
+604,Peru,1913,Guillermo E. Billinghurst,L,0
+604,Peru,1914,Óscar Raymundo Benavides Larrea,O,0
+604,Peru,1915,Óscar Raymundo Benavides Larrea,O,0
+604,Peru,1916,José Pardo y Barreda,C,0
+604,Peru,1917,José Pardo y Barreda,C,0
+604,Peru,1918,José Pardo y Barreda,C,0
+604,Peru,1919,José Pardo y Barreda,C,0
+604,Peru,1920,Augusto B. Leguía y Salcedo,L,0
+604,Peru,1921,Augusto B. Leguía y Salcedo,L,0
+604,Peru,1922,Augusto B. Leguía y Salcedo,L,0
+604,Peru,1923,Augusto B. Leguía y Salcedo,L,0
+604,Peru,1924,Augusto B. Leguía y Salcedo,L,0
+604,Peru,1925,Augusto B. Leguía y Salcedo,L,0
+604,Peru,1926,Augusto B. Leguía y Salcedo,L,0
+604,Peru,1927,Augusto B. Leguía y Salcedo,L,0
+604,Peru,1928,Augusto B. Leguía y Salcedo,L,0
+604,Peru,1929,Augusto B. Leguía y Salcedo,L,0
+604,Peru,1930,Augusto B. Leguía y Salcedo,L,0
+604,Peru,1931,David Samanez Ocampo,O,0
+604,Peru,1932,Luis M. Sánchez Cerro,R,0
+604,Peru,1933,Óscar Raymundo Benavides Larrea,R,0
+604,Peru,1934,Óscar Raymundo Benavides Larrea,R,0
+604,Peru,1935,Óscar Raymundo Benavides Larrea,R,0
+604,Peru,1936,Óscar Raymundo Benavides Larrea,R,0
+604,Peru,1937,Óscar Raymundo Benavides Larrea,R,0
+604,Peru,1938,Óscar Raymundo Benavides Larrea,R,0
+604,Peru,1939,Óscar Raymundo Benavides Larrea,R,0
+604,Peru,1940,Manuel Prado y Ugarteche,R,0
+604,Peru,1941,Manuel Prado y Ugarteche,R,0
+604,Peru,1942,Manuel Prado y Ugarteche,R,0
+604,Peru,1943,Manuel Prado y Ugarteche,R,0
+604,Peru,1944,Manuel Prado y Ugarteche,R,0
+604,Peru,1945,Manuel Prado y Ugarteche,R,0
+604,Peru,1946,José Luis Bustamente y Rivero,L,0
+604,Peru,1947,José Luis Bustamente y Rivero,L,0
+604,Peru,1948,José Luis Bustamente y Rivero,L,0
+604,Peru,1949,Manuel A. Odría,R,0
+604,Peru,1950,Manuel A. Odría,R,0
+604,Peru,1951,Manuel A. Odría,R,0
+604,Peru,1952,Manuel A. Odría,R,0
+604,Peru,1953,Manuel A. Odría,R,0
+604,Peru,1954,Manuel A. Odría,R,0
+604,Peru,1955,Manuel A. Odría,R,0
+604,Peru,1956,Manuel A. Odría,R,0
+604,Peru,1957,Manuel Prado y Ugarteche,O,0
+604,Peru,1958,Manuel Prado y Ugarteche,O,0
+604,Peru,1959,Manuel Prado y Ugarteche,O,0
+604,Peru,1960,Manuel Prado y Ugarteche,O,0
+604,Peru,1961,Manuel Prado y Ugarteche,O,0
+604,Peru,1962,Manuel Prado y Ugarteche,O,0
+604,Peru,1963,Ricardo Pío Pérez Godoy/Nicolás Lindley López,O,0
+604,Peru,1964,Fernando Belaúnde Terry,L,0
+604,Peru,1965,Fernando Belaúnde Terry,L,0
+604,Peru,1966,Fernando Belaúnde Terry,L,0
+604,Peru,1967,Fernando Belaúnde Terry,L,0
+604,Peru,1968,Fernando Belaúnde Terry,L,0
+604,Peru,1969,Juan Velasco Alvarado,L,0
+604,Peru,1970,Juan Velasco Alvarado,L,0
+604,Peru,1971,Juan Velasco Alvarado,L,0
+604,Peru,1972,Juan Velasco Alvarado,L,0
+604,Peru,1973,Juan Velasco Alvarado,L,0
+604,Peru,1974,Juan Velasco Alvarado,L,0
+604,Peru,1975,Juan Velasco Alvarado,L,0
+604,Peru,1976,Francisco Morales Bermúdez,O,0
+604,Peru,1977,Francisco Morales Bermúdez,O,0
+604,Peru,1978,Francisco Morales Bermúdez,O,0
+604,Peru,1979,Francisco Morales Bermúdez,O,0
+604,Peru,1980,Francisco Morales Bermúdez,O,0
+604,Peru,1981,Fernando Belaúnde Terry,R,0
+604,Peru,1982,Fernando Belaúnde Terry,R,0
+604,Peru,1983,Fernando Belaúnde Terry,R,0
+604,Peru,1984,Fernando Belaúnde Terry,R,0
+604,Peru,1985,Fernando Belaúnde Terry,R,0
+604,Peru,1986,Alan García,L,0
+604,Peru,1987,Alan García,L,0
+604,Peru,1988,Alan García,L,0
+604,Peru,1989,Alan García,L,0
+604,Peru,1990,Alan García,L,0
+604,Peru,1991,Alberto Fujimori,R,0
+604,Peru,1992,Alberto Fujimori,R,0
+604,Peru,1993,Alberto Fujimori,R,0
+604,Peru,1994,Alberto Fujimori,R,0
+604,Peru,1995,Alberto Fujimori,R,0
+604,Peru,1996,Alberto Fujimori,R,0
+604,Peru,1997,Alberto Fujimori,R,0
+604,Peru,1998,Alberto Fujimori,R,0
+604,Peru,1999,Alberto Fujimori,R,0
+604,Peru,2000,Alberto Fujimori,R,0
+604,Peru,2001,Valentín Paniagua,R,0
+604,Peru,2002,Alejandro Toledo,C,0
+604,Peru,2003,Alejandro Toledo,C,0
+604,Peru,2004,Alejandro Toledo,C,0
+604,Peru,2005,Alejandro Toledo,C,0
+604,Peru,2006,Alejandro Toledo,C,0
+604,Peru,2007,Alan García,L,0
+604,Peru,2008,Alan García,L,0
+604,Peru,2009,Alan García,L,0
+604,Peru,2010,Alan García,L,0
+604,Peru,2011,Alan García,L,0
+604,Peru,2012,Ollanta Humala,L,0
+620,Portugal,1870,Nuno José Severo de Mendonça Rolim de Moura Barreto,L,0
+620,Portugal,1871,António José de Ávila,C,0
+620,Portugal,1872,António Maria de Fontes Pereira de Melo,R,0
+620,Portugal,1873,António Maria de Fontes Pereira de Melo,R,0
+620,Portugal,1874,António Maria de Fontes Pereira de Melo,R,0
+620,Portugal,1875,António Maria de Fontes Pereira de Melo,R,0
+620,Portugal,1876,António Maria de Fontes Pereira de Melo,R,0
+620,Portugal,1877,António José de Ávila,C,0
+620,Portugal,1878,António Maria de Fontes Pereira de Melo,R,0
+620,Portugal,1879,Anselmo José Braamcamp ,L,0
+620,Portugal,1880,Anselmo José Braamcamp ,L,0
+620,Portugal,1881,António Rodrigues Sampaio,R,0
+620,Portugal,1882,António Maria de Fontes Pereira de Melo,R,0
+620,Portugal,1883,António Maria de Fontes Pereira de Melo,R,0
+620,Portugal,1884,António Maria de Fontes Pereira de Melo,R,0
+620,Portugal,1885,António Maria de Fontes Pereira de Melo,R,0
+620,Portugal,1886,José Luciano de Castro Pereira Côrte-Real,L,0
+620,Portugal,1887,José Luciano de Castro Pereira Côrte-Real,L,0
+620,Portugal,1888,José Luciano de Castro Pereira Côrte-Real,L,0
+620,Portugal,1889,José Luciano de Castro Pereira Côrte-Real,L,0
+620,Portugal,1890,António de Serpa Pimentel,R,0
+620,Portugal,1891,João Crisóstomo de Abreu e Sousa,C,0
+620,Portugal,1892,José Dias Ferreira,C,0
+620,Portugal,1893,Ernesto Rudolfo Hintze Ribeiro,R,0
+620,Portugal,1894,Ernesto Rudolfo Hintze Ribeiro,R,0
+620,Portugal,1895,Ernesto Rudolfo Hintze Ribeiro,R,0
+620,Portugal,1896,Ernesto Rudolfo Hintze Ribeiro,R,0
+620,Portugal,1897,José Luciano de Castro Pereira Côrte-Real,L,0
+620,Portugal,1898,José Luciano de Castro Pereira Côrte-Real,L,0
+620,Portugal,1899,José Luciano de Castro Pereira Côrte-Real,L,0
+620,Portugal,1900,José Luciano de Castro Pereira Côrte-Real,L,0
+620,Portugal,1901,Ernesto Rudolfo Hintze Ribeiro,R,0
+620,Portugal,1902,Ernesto Rudolfo Hintze Ribeiro,R,0
+620,Portugal,1903,Ernesto Rudolfo Hintze Ribeiro,R,0
+620,Portugal,1904,Ernesto Rudolfo Hintze Ribeiro,R,0
+620,Portugal,1905,José Luciano de Castro Pereira Côrte-Real,L,0
+620,Portugal,1906,João Ferreira Franco Pinto Castelo-Branco,R,0
+620,Portugal,1907,João Ferreira Franco Pinto Castelo-Branco,R,0
+620,Portugal,1908,Francisco Joaquim Ferreira do Amaral,C,0
+620,Portugal,1909,Venceslau de Sousa Pereira de Lima,O,0
+620,Portugal,1910,Francisco António da Veiga Beirão,L,0
+620,Portugal,1911,Joaquim Teófilo Fernandes Braga,L,0
+620,Portugal,1912,Augusto César de Almeida de Vasconcelos Correia,L,0
+620,Portugal,1913,Afonso Augusto da Costa,L,0
+620,Portugal,1914,Bernardino Luís Machado Guimarães,L,0
+620,Portugal,1915,José Augusto Soares Ribeiro de Castro,L,0
+620,Portugal,1916,António José de Almeida,C,0
+620,Portugal,1917,Afonso Augusto da Costa,L,0
+620,Portugal,1918,Sidónio Bernardino Cardoso da Silva Pais,R,0
+620,Portugal,1919,Alfredo Ernesto de Sá Cardoso,L,0
+620,Portugal,1920,António Maria Baptista,L,0
+620,Portugal,1921,Tomé José de Barros Queirós,C,0
+620,Portugal,1922,António Maria da Silva,L,0
+620,Portugal,1923,António Maria da Silva,L,0
+620,Portugal,1924,Álvaro Xavier de Castro ,R,1
+620,Portugal,1925,Vitorino Máximo de Carvalho Guimarães,L,0
+620,Portugal,1926,António Óscar Fragoso Carmona,R,0
+620,Portugal,1927,António Óscar Fragoso Carmona,R,0
+620,Portugal,1928,José Vicente de Freitas,R,0
+620,Portugal,1929,José Vicente de Freitas,R,0
+620,Portugal,1930,Domingos Augusto Alves da Costa e Oliveira,R,0
+620,Portugal,1931,Domingos Augusto Alves da Costa e Oliveira,R,0
+620,Portugal,1932,Domingos Augusto Alves da Costa e Oliveira,R,0
+620,Portugal,1933,António de Oliveira Salazar,R,0
+620,Portugal,1934,António de Oliveira Salazar,R,0
+620,Portugal,1935,António de Oliveira Salazar,R,0
+620,Portugal,1936,António de Oliveira Salazar,R,0
+620,Portugal,1937,António de Oliveira Salazar,R,0
+620,Portugal,1938,António de Oliveira Salazar,R,0
+620,Portugal,1939,António de Oliveira Salazar,R,0
+620,Portugal,1940,António de Oliveira Salazar,R,0
+620,Portugal,1941,António de Oliveira Salazar,R,0
+620,Portugal,1942,António de Oliveira Salazar,R,0
+620,Portugal,1943,António de Oliveira Salazar,R,0
+620,Portugal,1944,António de Oliveira Salazar,R,0
+620,Portugal,1945,António de Oliveira Salazar,R,0
+620,Portugal,1946,António de Oliveira Salazar,R,0
+620,Portugal,1947,António de Oliveira Salazar,R,0
+620,Portugal,1948,António de Oliveira Salazar,R,0
+620,Portugal,1949,António de Oliveira Salazar,R,0
+620,Portugal,1950,António de Oliveira Salazar,R,0
+620,Portugal,1951,António de Oliveira Salazar,R,0
+620,Portugal,1952,António de Oliveira Salazar,R,0
+620,Portugal,1953,António de Oliveira Salazar,R,0
+620,Portugal,1954,António de Oliveira Salazar,R,0
+620,Portugal,1955,António de Oliveira Salazar,R,0
+620,Portugal,1956,António de Oliveira Salazar,R,0
+620,Portugal,1957,António de Oliveira Salazar,R,0
+620,Portugal,1958,António de Oliveira Salazar,R,0
+620,Portugal,1959,António de Oliveira Salazar,R,0
+620,Portugal,1960,António de Oliveira Salazar,R,0
+620,Portugal,1961,António de Oliveira Salazar,R,0
+620,Portugal,1962,António de Oliveira Salazar,R,0
+620,Portugal,1963,António de Oliveira Salazar,R,0
+620,Portugal,1964,António de Oliveira Salazar,R,0
+620,Portugal,1965,António de Oliveira Salazar,R,0
+620,Portugal,1966,António de Oliveira Salazar,R,0
+620,Portugal,1967,António de Oliveira Salazar,R,0
+620,Portugal,1968,António de Oliveira Salazar,R,0
+620,Portugal,1969,Marcello Caetano,R,0
+620,Portugal,1970,Marcello Caetano,R,0
+620,Portugal,1971,Marcello Caetano,R,0
+620,Portugal,1972,Marcello Caetano,R,0
+620,Portugal,1973,Marcello Caetano,R,0
+620,Portugal,1974,Vasco dos Santos Gonçalves,L,0
+620,Portugal,1975,Vasco dos Santos Gonçalves,L,
+620,Portugal,1976,José Baptista Pinheiro de Azevedo,L,
+620,Portugal,1977,Mário Soares,O,0
+620,Portugal,1978,Mário Soares,O,0
+620,Portugal,1979,Carlos Mota Pinto,O,0
+620,Portugal,1980,Francisco Sá Carneiro,O,0
+620,Portugal,1981,Francisco Pinto Balsemao,O,0
+620,Portugal,1982,Francisco Pinto Balsemao,O,0
+620,Portugal,1983,Mário Soares,R,0
+620,Portugal,1984,Mário Soares,L,0
+620,Portugal,1985,Mário Soares,L,0
+620,Portugal,1986,Aníbal Cavaco Silva,R,0
+620,Portugal,1987,Aníbal Cavaco Silva,R,0
+620,Portugal,1988,Aníbal Cavaco Silva,R,0
+620,Portugal,1989,Aníbal Cavaco Silva,R,0
+620,Portugal,1990,Aníbal Cavaco Silva,R,0
+620,Portugal,1991,Aníbal Cavaco Silva,R,0
+620,Portugal,1992,Aníbal Cavaco Silva,R,0
+620,Portugal,1993,Aníbal Cavaco Silva,R,0
+620,Portugal,1994,Aníbal Cavaco Silva,R,0
+620,Portugal,1995,Aníbal Cavaco Silva,R,0
+620,Portugal,1996,António Guterres,L,0
+620,Portugal,1997,António Guterres,L,0
+620,Portugal,1998,António Guterres,L,0
+620,Portugal,1999,António Guterres,L,0
+620,Portugal,2000,António Guterres,L,0
+620,Portugal,2001,António Guterres,L,0
+620,Portugal,2002,José Manuel Durao Barroso,L,0
+620,Portugal,2003,José Manuel Durao Barroso,R,0
+620,Portugal,2004,José Manuel Durao Barroso,R,0
+620,Portugal,2005,José Sócrates,R,0
+620,Portugal,2006,José Sócrates,L,0
+620,Portugal,2007,José Sócrates,L,0
+620,Portugal,2008,José Sócrates,L,0
+620,Portugal,2009,José Sócrates,L,0
+620,Portugal,2010,José Sócrates,L,0
+620,Portugal,2011,Pedro Passos Coelho,L,0
+620,Portugal,2012,Pedro Passos Coelho,R,0
+724,Spain,1870,General Juan Prim y Prats,C,0
+724,Spain,1871,Francisco Serrano y Domínguez,C,0
+724,Spain,1872,Manuel Ruiz Zorrilla,C,0
+724,Spain,1873,Emilio Castelar y Ripoll,C,0
+724,Spain,1874,Juan de Zavala y de la Puente,R,0
+724,Spain,1875,Antonio Cánovas del Castillo,R,0
+724,Spain,1876,Antonio Cánovas del Castillo,R,0
+724,Spain,1877,Antonio Cánovas del Castillo,R,0
+724,Spain,1878,Antonio Cánovas del Castillo,R,0
+724,Spain,1879,Arsenio Martínez Campos,R,0
+724,Spain,1880,Antonio Cánovas del Castillo,R,0
+724,Spain,1881,Práxedes Mateo Sagasta,C,0
+724,Spain,1882,Práxedes Mateo Sagasta,C,0
+724,Spain,1883,Práxedes Mateo Sagasta,C,0
+724,Spain,1884,Antonio Cánovas del Castillo,R,0
+724,Spain,1885,Antonio Cánovas del Castillo,R,0
+724,Spain,1886,Práxedes Mateo Sagasta,C,0
+724,Spain,1887,Práxedes Mateo Sagasta,C,0
+724,Spain,1888,Práxedes Mateo Sagasta,C,0
+724,Spain,1889,Práxedes Mateo Sagasta,C,0
+724,Spain,1890,Práxedes Mateo Sagasta,C,0
+724,Spain,1891,Antonio Cánovas del Castillo,R,0
+724,Spain,1892,Antonio Cánovas del Castillo,R,0
+724,Spain,1893,Práxedes Mateo Sagasta,C,0
+724,Spain,1894,Práxedes Mateo Sagasta,C,0
+724,Spain,1895,Antonio Cánovas del Castillo,R,0
+724,Spain,1896,Antonio Cánovas del Castillo,R,0
+724,Spain,1897,Antonio Cánovas del Castillo,R,0
+724,Spain,1898,Práxedes Mateo Sagasta,C,0
+724,Spain,1899,Francisco Silvela y de le Vielleuze,R,0
+724,Spain,1900,Francisco Silvela y de le Vielleuze,R,0
+724,Spain,1901,Práxedes Mateo Sagasta,C,0
+724,Spain,1902,Práxedes Mateo Sagasta,C,0
+724,Spain,1903,Francisco Silvela y de le Vielleuze,R,0
+724,Spain,1904,Antonio Maura y Montaner,R,0
+724,Spain,1905,Eugenio Montero Ríos,C,0
+724,Spain,1906,Segismundo Moret y Prendergast,C,0
+724,Spain,1907,Antonio Maura y Montaner,R,0
+724,Spain,1908,Antonio Maura y Montaner,R,0
+724,Spain,1909,Antonio Maura y Montaner,R,0
+724,Spain,1910,José Canalejas y Méndez,C,0
+724,Spain,1911,José Canalejas y Méndez,C,0
+724,Spain,1912,José Canalejas y Méndez,C,0
+724,Spain,1913,Álvaro Figueroa y Torres Mendieta,C,0
+724,Spain,1914,Eduardo Dato e Iradier,R,0
+724,Spain,1915,Eduardo Dato e Iradier,R,0
+724,Spain,1916,Álvaro Figueroa y Torres Mendieta,C,0
+724,Spain,1917,Eduardo Dato e Iradier,R,0
+724,Spain,1918,Antonio Maura y Montaner,R,0
+724,Spain,1919,Joaquín Sánchez de Toca Calvo,R,0
+724,Spain,1920,Eduardo Dato e Iradier,R,0
+724,Spain,1921,Manuel Allendesalazar,R,0
+724,Spain,1922,José Sánchez-Guerra y Martínez,R,0
+724,Spain,1923,Manuel García Prieto,C,0
+724,Spain,1924,Miguel Primo de Rivera y Orbaneja,R,1
+724,Spain,1925,Miguel Primo de Rivera y Orbaneja,R,1
+724,Spain,1926,Miguel Primo de Rivera y Orbaneja,R,1
+724,Spain,1927,Miguel Primo de Rivera y Orbaneja,R,1
+724,Spain,1928,Miguel Primo de Rivera y Orbaneja,R,1
+724,Spain,1929,Miguel Primo de Rivera y Orbaneja,R,1
+724,Spain,1930,Dámaso Berenguer,R,1
+724,Spain,1931,Niceto Alcalá-Zamora,C,0
+724,Spain,1932,Manuel Azaña Díaz,L,0
+724,Spain,1933,Manuel Azaña Díaz,L,0
+724,Spain,1934,Ricardo Samper e Ibáñez,R,0
+724,Spain,1935,Alejandro Lerroux García,R,0
+724,Spain,1936,Manuel Azaña Díaz,L,0
+724,Spain,1937,Juan Negrín López,L,0
+724,Spain,1938,Francisco Franco,R,1
+724,Spain,1939,Francisco Franco,R,1
+724,Spain,1940,Francisco Franco,R,1
+724,Spain,1941,Francisco Franco,R,1
+724,Spain,1942,Francisco Franco,R,1
+724,Spain,1943,Francisco Franco,R,1
+724,Spain,1944,Francisco Franco,R,1
+724,Spain,1945,Francisco Franco,R,1
+724,Spain,1946,Francisco Franco,R,1
+724,Spain,1947,Francisco Franco,R,1
+724,Spain,1948,Francisco Franco,R,1
+724,Spain,1949,Francisco Franco,R,1
+724,Spain,1950,Francisco Franco,R,1
+724,Spain,1951,Francisco Franco,R,1
+724,Spain,1952,Francisco Franco,R,1
+724,Spain,1953,Francisco Franco,R,1
+724,Spain,1954,Francisco Franco,R,1
+724,Spain,1955,Francisco Franco,R,1
+724,Spain,1956,Francisco Franco,R,1
+724,Spain,1957,Francisco Franco,R,1
+724,Spain,1958,Francisco Franco,R,1
+724,Spain,1959,Francisco Franco,R,1
+724,Spain,1960,Francisco Franco,R,1
+724,Spain,1961,Francisco Franco,R,1
+724,Spain,1962,Francisco Franco,R,1
+724,Spain,1963,Francisco Franco,R,1
+724,Spain,1964,Francisco Franco,R,1
+724,Spain,1965,Francisco Franco,R,1
+724,Spain,1966,Francisco Franco,R,1
+724,Spain,1967,Francisco Franco,R,1
+724,Spain,1968,Francisco Franco,R,1
+724,Spain,1969,Francisco Franco,R,1
+724,Spain,1970,Francisco Franco,R,1
+724,Spain,1971,Francisco Franco,R,1
+724,Spain,1972,Francisco Franco,R,1
+724,Spain,1973,Luis Carrero Blanco,R,1
+724,Spain,1974,Carlos Arias Navarro,R,1
+724,Spain,1975,Carlos Arias Navarro,R,1
+724,Spain,1976,Carlos Arias Navarro,R,1
+724,Spain,1977,Adolfo Suárez González,C,0
+724,Spain,1978,Adolfo Suárez González,C,0
+724,Spain,1979,Adolfo Suárez González,C,0
+724,Spain,1980,Adolfo Suárez González,C,0
+724,Spain,1981,Leopoldo Calvo-Sotelo y Bustelo,C,0
+724,Spain,1982,Leopoldo Calvo-Sotelo y Bustelo,C,0
+724,Spain,1983,Felipe González Márquez,L,0
+724,Spain,1984,Felipe González Márquez,L,0
+724,Spain,1985,Felipe González Márquez,L,0
+724,Spain,1986,Felipe González Márquez,L,0
+724,Spain,1987,Felipe González Márquez,L,0
+724,Spain,1988,Felipe González Márquez,L,0
+724,Spain,1989,Felipe González Márquez,L,0
+724,Spain,1990,Felipe González Márquez,L,0
+724,Spain,1991,Felipe González Márquez,L,0
+724,Spain,1992,Felipe González Márquez,L,0
+724,Spain,1993,Felipe González Márquez,L,0
+724,Spain,1994,Felipe González Márquez,L,0
+724,Spain,1995,Felipe González Márquez,L,0
+724,Spain,1996,José María Aznar,R,1
+724,Spain,1997,José María Aznar,R,1
+724,Spain,1998,José María Aznar,R,1
+724,Spain,1999,José María Aznar,R,1
+724,Spain,2000,José María Aznar,R,1
+724,Spain,2001,José María Aznar,R,1
+724,Spain,2002,José María Aznar,R,1
+724,Spain,2003,José María Aznar,R,1
+724,Spain,2004,José Luis Rodríguez Zapatero,L,0
+724,Spain,2005,José Luis Rodríguez Zapatero,L,0
+724,Spain,2006,José Luis Rodríguez Zapatero,L,0
+724,Spain,2007,José Luis Rodríguez Zapatero,L,0
+724,Spain,2008,José Luis Rodríguez Zapatero,L,0
+724,Spain,2009,José Luis Rodríguez Zapatero,L,0
+724,Spain,2010,José Luis Rodríguez Zapatero,L,0
+724,Spain,2011,José Luis Rodríguez Zapatero,L,0
+724,Spain,2012,Mariano Rajoy,R,1
+752,Sweden,1870,Axel Gustaf Adlercreutz,R,0
+752,Sweden,1871,Axel Gustaf Adlercreutz,R,0
+752,Sweden,1872,Axel Gustaf Adlercreutz,R,0
+752,Sweden,1873,Axel Gustaf Adlercreutz,R,0
+752,Sweden,1874,Eduard Carleson,R,0
+752,Sweden,1875,Louis de Geer,R,0
+752,Sweden,1876,Louis de Geer,R,0
+752,Sweden,1877,Louis de Geer,R,0
+752,Sweden,1878,Louis de Geer,R,0
+752,Sweden,1879,Louis de Geer,R,0
+752,Sweden,1880,Arvid Posse,R,0
+752,Sweden,1881,Arvid Posse,R,0
+752,Sweden,1882,Arvid Posse,R,0
+752,Sweden,1883,Carl Johan Thyselius,R,0
+752,Sweden,1884,Robert Themptander,R,0
+752,Sweden,1885,Robert Themptander,R,0
+752,Sweden,1886,Robert Themptander,R,0
+752,Sweden,1887,Robert Themptander,R,0
+752,Sweden,1888,Gillis Bildt,R,0
+752,Sweden,1889,Gillis Bildt,R,0
+752,Sweden,1890,Gustaf Åkerhielm,R,0
+752,Sweden,1891,Gustaf Åkerhielm,R,0
+752,Sweden,1892,Erik Gustaf Boström,R,0
+752,Sweden,1893,Erik Gustaf Boström,R,0
+752,Sweden,1894,Erik Gustaf Boström,R,0
+752,Sweden,1895,Erik Gustaf Boström,R,0
+752,Sweden,1896,Erik Gustaf Boström,R,0
+752,Sweden,1897,Erik Gustaf Boström,R,0
+752,Sweden,1898,Erik Gustaf Boström,R,0
+752,Sweden,1899,Erik Gustaf Boström,R,0
+752,Sweden,1900,Erik Gustaf Boström,R,0
+752,Sweden,1901,Fredrik von Otter,R,0
+752,Sweden,1902,Fredrik von Otter,R,0
+752,Sweden,1903,Erik Gustaf Boström,R,0
+752,Sweden,1904,Erik Gustaf Boström,R,0
+752,Sweden,1905,Johan Ramstedt,R,0
+752,Sweden,1906,Arvid Lindman,R,0
+752,Sweden,1907,Arvid Lindman,R,0
+752,Sweden,1908,Arvid Lindman,R,0
+752,Sweden,1909,Arvid Lindman,R,0
+752,Sweden,1910,Arvid Lindman,R,0
+752,Sweden,1911,Arvid Lindman,R,0
+752,Sweden,1912,Karl Staaf,C,0
+752,Sweden,1913,Karl Staaf,C,0
+752,Sweden,1914,Hjalmar Hammarskiöld,R,0
+752,Sweden,1915,Hjalmar Hammarskiöld,R,0
+752,Sweden,1916,Hjalmar Hammarskiöld,R,0
+752,Sweden,1917,Carl Swartz,R,0
+752,Sweden,1918,Nils Edén,C,0
+752,Sweden,1919,Nils Edén,C,0
+752,Sweden,1920,Hjalmar Branting,L,0
+752,Sweden,1921,Oscar von Sydow,O,0
+752,Sweden,1922,Hjalmar Branting,L,0
+752,Sweden,1923,Ernst Trygger,R,0
+752,Sweden,1924,Ernst Trygger,R,0
+752,Sweden,1925,Richard Sandler,L,0
+752,Sweden,1926,CG Ekman,C,0
+752,Sweden,1927,CG Ekman,C,0
+752,Sweden,1928,CG Ekman,C,0
+752,Sweden,1929,Arvid Lindman,R,0
+752,Sweden,1930,CG Ekman,C,0
+752,Sweden,1931,CG Ekman,C,0
+752,Sweden,1932,CG Ekman,C,0
+752,Sweden,1933,Per Albin Hansson,L,0
+752,Sweden,1934,Per Albin Hansson,L,0
+752,Sweden,1935,Per Albin Hansson,L,0
+752,Sweden,1936,Per Albin Hansson,L,0
+752,Sweden,1937,Per Albin Hansson,L,0
+752,Sweden,1938,Per Albin Hansson,L,0
+752,Sweden,1939,Per Albin Hansson,L,0
+752,Sweden,1940,Per Albin Hansson,L,0
+752,Sweden,1941,Per Albin Hansson,L,0
+752,Sweden,1942,Per Albin Hansson,L,0
+752,Sweden,1943,Per Albin Hansson,L,0
+752,Sweden,1944,Per Albin Hansson,L,0
+752,Sweden,1945,Per Albin Hansson,L,0
+752,Sweden,1946,Per Albin Hansson,L,0
+752,Sweden,1947,Tage Erlander,L,0
+752,Sweden,1948,Tage Erlander,L,0
+752,Sweden,1949,Tage Erlander,L,0
+752,Sweden,1950,Tage Erlander,L,0
+752,Sweden,1951,Tage Erlander,L,0
+752,Sweden,1952,Tage Erlander,L,0
+752,Sweden,1953,Tage Erlander,L,0
+752,Sweden,1954,Tage Erlander,L,0
+752,Sweden,1955,Tage Erlander,L,0
+752,Sweden,1956,Tage Erlander,L,0
+752,Sweden,1957,Tage Erlander,L,0
+752,Sweden,1958,Tage Erlander,L,0
+752,Sweden,1959,Tage Erlander,L,0
+752,Sweden,1960,Tage Erlander,L,0
+752,Sweden,1961,Tage Erlander,L,0
+752,Sweden,1962,Tage Erlander,L,0
+752,Sweden,1963,Tage Erlander,L,0
+752,Sweden,1964,Tage Erlander,L,0
+752,Sweden,1965,Tage Erlander,L,0
+752,Sweden,1966,Tage Erlander,L,0
+752,Sweden,1967,Tage Erlander,L,0
+752,Sweden,1968,Tage Erlander,L,0
+752,Sweden,1969,Tage Erlander,L,0
+752,Sweden,1970,Olof Palme,L,0
+752,Sweden,1971,Olof Palme,L,0
+752,Sweden,1972,Olof Palme,L,0
+752,Sweden,1973,Olof Palme,L,0
+752,Sweden,1974,Olof Palme,L,0
+752,Sweden,1975,Olof Palme,L,0
+752,Sweden,1976,Olof Palme,L,0
+752,Sweden,1977,Thorbjörn Fälldin,C,0
+752,Sweden,1978,Thorbjörn Fälldin,C,0
+752,Sweden,1979,Ola Ullsten,L,0
+752,Sweden,1980,Thorbjörn Fälldin,C,0
+752,Sweden,1981,Thorbjörn Fälldin,C,0
+752,Sweden,1982,Thorbjörn Fälldin,C,0
+752,Sweden,1983,Olof Palme,L,0
+752,Sweden,1984,Olof Palme,L,0
+752,Sweden,1985,Olof Palme,L,0
+752,Sweden,1986,Ingvar Carlsson,L,0
+752,Sweden,1987,Ingvar Carlsson,L,0
+752,Sweden,1988,Ingvar Carlsson,L,0
+752,Sweden,1989,Ingvar Carlsson,L,0
+752,Sweden,1990,Ingvar Carlsson,L,0
+752,Sweden,1991,Ingvar Carlsson,L,0
+752,Sweden,1992,Carl Bildt,R,0
+752,Sweden,1993,Carl Bildt,R,0
+752,Sweden,1994,Carl Bildt,R,0
+752,Sweden,1995,Ingvar Carlsson,L,0
+752,Sweden,1996,Göran Persson,L,0
+752,Sweden,1997,Göran Persson,L,0
+752,Sweden,1998,Göran Persson,L,0
+752,Sweden,1999,Göran Persson,L,0
+752,Sweden,2000,Göran Persson,L,0
+752,Sweden,2001,Göran Persson,L,0
+752,Sweden,2002,Göran Persson,L,0
+752,Sweden,2003,Göran Persson,L,0
+752,Sweden,2004,Göran Persson,L,0
+752,Sweden,2005,Göran Persson,L,0
+752,Sweden,2006,Göran Persson,L,0
+752,Sweden,2007,Fredrik Reinfeldt,R,0
+752,Sweden,2008,Fredrik Reinfeldt,R,0
+752,Sweden,2009,Fredrik Reinfeldt,R,0
+752,Sweden,2010,Fredrik Reinfeldt,R,0
+752,Sweden,2011,Fredrik Reinfeldt,R,0
+752,Sweden,2012,Fredrik Reinfeldt,R,0
+756,Switzerland,1870,Jakob Dubs,R,0
+756,Switzerland,1871,Karl Schenk,R,0
+756,Switzerland,1872,Emil Welti,R,0
+756,Switzerland,1873,Paul Cérésole ,R,0
+756,Switzerland,1874,Karl Schenk,R,0
+756,Switzerland,1875,Johann Jakob,R,0
+756,Switzerland,1876,Emil Welti,R,0
+756,Switzerland,1877,Joachim Heer ,R,0
+756,Switzerland,1878,Karl Schenk,R,0
+756,Switzerland,1879,Bernhard Hammer,R,0
+756,Switzerland,1880,Emil Welti,R,0
+756,Switzerland,1881,Numa Droz,R,0
+756,Switzerland,1882,Simeon Bavier,R,0
+756,Switzerland,1883,Louis Ruchonnet,R,0
+756,Switzerland,1884,Emil Welti,R,0
+756,Switzerland,1885,Karl Schenk,R,0
+756,Switzerland,1886,Adolf Deucher,R,0
+756,Switzerland,1887,Numa Droz,R,0
+756,Switzerland,1888,Wilhelm Friedrich Hertenstein,R,0
+756,Switzerland,1889,Bernhard Hammer,R,0
+756,Switzerland,1890,Louis Ruchonnet,R,0
+756,Switzerland,1891,Emil Welti,R,0
+756,Switzerland,1892,Walter Hauser,R,0
+756,Switzerland,1893,Karl Schenk,R,0
+756,Switzerland,1894,Emil Frey,R,0
+756,Switzerland,1895,Joseph Zemp ,R,0
+756,Switzerland,1896,Adrien Lachenal,R,0
+756,Switzerland,1897,Adolf Deucher,R,0
+756,Switzerland,1898,Eugène Ruffy ,R,0
+756,Switzerland,1899,Eduard Müller,R,0
+756,Switzerland,1900,Walter Hauser,R,0
+756,Switzerland,1901,Ernst Brenner,R,0
+756,Switzerland,1902,Joseph Zemp ,R,0
+756,Switzerland,1903,Adolf Deucher,R,0
+756,Switzerland,1904,Robert Comtesse,R,0
+756,Switzerland,1905,Marc-Émile Ruchet,R,0
+756,Switzerland,1906,Ludwig Forrer,R,0
+756,Switzerland,1907,Eduard Müller,R,0
+756,Switzerland,1908,Ernst Brenner,R,0
+756,Switzerland,1909,Adolf Deucher,R,0
+756,Switzerland,1910,Robert Comtesse,R,0
+756,Switzerland,1911,Marc-Émile Ruchet,R,0
+756,Switzerland,1912,Ludwig Forrer,R,0
+756,Switzerland,1913,Eduard Müller,R,0
+756,Switzerland,1914,Arthur Hoffmann,R,0
+756,Switzerland,1915,Giuseppe Motta,R,0
+756,Switzerland,1916,Camille Decoppet ,R,0
+756,Switzerland,1917,Edmund Schulthess,C,0
+756,Switzerland,1918,Felix Calonder ,C,0
+756,Switzerland,1919,Gustave Ador,C,0
+756,Switzerland,1920,Giuseppe Motta,C,0
+756,Switzerland,1921,Edmund Schulthess,C,0
+756,Switzerland,1922,Robert Haab ,C,0
+756,Switzerland,1923,Karl Alfred Scheurer ,C,0
+756,Switzerland,1924,Ernest Chuard  ,C,0
+756,Switzerland,1925,Jean-Marie Musy,C,0
+756,Switzerland,1926,Heinrich Häberlin,C,0
+756,Switzerland,1927,Giuseppe Motta,C,0
+756,Switzerland,1928,Edmund Schulthess,C,0
+756,Switzerland,1929,Robert Haab ,C,0
+756,Switzerland,1930,Jean-Marie Musy,C,0
+756,Switzerland,1931,Heinrich Häberlin,C,0
+756,Switzerland,1932,Giuseppe Motta,C,0
+756,Switzerland,1933,Edmund Schulthess,C,0
+756,Switzerland,1934,Marcel Pilet-Golaz,C,0
+756,Switzerland,1935,Rudolf Minger ,C,0
+756,Switzerland,1936,Albert Meyer ,C,0
+756,Switzerland,1937,Giuseppe Motta,C,0
+756,Switzerland,1938,Johannes Baumann ,C,0
+756,Switzerland,1939,Philipp Etter,C,0
+756,Switzerland,1940,Marcel Pilet-Golaz,C,0
+756,Switzerland,1941,Ernst Wetter ,C,0
+756,Switzerland,1942,Philipp Etter,C,0
+756,Switzerland,1943,Enrico Celio,C,0
+756,Switzerland,1944,Walter Stampfli ,C,0
+756,Switzerland,1945,Eduard von Steiger ,C,0
+756,Switzerland,1946,Karl Kobelt,C,0
+756,Switzerland,1947,Philipp Etter,C,0
+756,Switzerland,1948,Enrico Celio,C,0
+756,Switzerland,1949,Ernst Nobs  ,C,0
+756,Switzerland,1950,Max Petitpierre,C,0
+756,Switzerland,1951,Eduard von Steiger ,C,0
+756,Switzerland,1952,Karl Kobelt,C,0
+756,Switzerland,1953,Philipp Etter,C,0
+756,Switzerland,1954,Rodolphe Rubattel ,C,0
+756,Switzerland,1955,Max Petitpierre,C,0
+756,Switzerland,1956,Markus Feldmann ,C,0
+756,Switzerland,1957,Hans Streuli  ,C,0
+756,Switzerland,1958,Thomas Holenstein ,C,0
+756,Switzerland,1959,Paul Chaudet,C,0
+756,Switzerland,1960,Max Petitpierre,C,0
+756,Switzerland,1961,Friedrich Traugott Wahlen,C,0
+756,Switzerland,1962,Paul Chaudet,C,0
+756,Switzerland,1963,Willy Spühler,C,0
+756,Switzerland,1964,Ludwig von Moos,C,0
+756,Switzerland,1965,Hans Peter Tschudi ,C,0
+756,Switzerland,1966,Hans Schaffner,C,0
+756,Switzerland,1967,Roger Bonvin,C,0
+756,Switzerland,1968,Willy Spühler,C,0
+756,Switzerland,1969,Ludwig von Moos,C,0
+756,Switzerland,1970,Hans Peter Tschudi ,C,0
+756,Switzerland,1971,Rudolf Gnägi ,C,0
+756,Switzerland,1972,Nello Celio ,C,0
+756,Switzerland,1973,Roger Bonvin,C,0
+756,Switzerland,1974,Ernst Brugger,C,0
+756,Switzerland,1975,Pierre Graber ,C,0
+756,Switzerland,1976,Rudolf Gnägi ,C,0
+756,Switzerland,1977,Kurt Furgler,C,0
+756,Switzerland,1978,Willi Ritschard ,C,0
+756,Switzerland,1979,Hans Hürlimann,C,0
+756,Switzerland,1980,Georges-André Chevallaz,C,0
+756,Switzerland,1981,Kurt Furgler,C,0
+756,Switzerland,1982,Fritz Honegger,C,0
+756,Switzerland,1983,Pierre Aubert,C,0
+756,Switzerland,1984,Leon Schlumpf,C,0
+756,Switzerland,1985,Kurt Furgler,C,0
+756,Switzerland,1986,Alphons Egli ,C,0
+756,Switzerland,1987,Pierre Aubert,C,0
+756,Switzerland,1988,Otto Stich,C,0
+756,Switzerland,1989,Jean-Pascal Delamuraz,C,0
+756,Switzerland,1990,Arnold Koller,C,0
+756,Switzerland,1991,Flavio Cotti,C,0
+756,Switzerland,1992,René Felber ,C,0
+756,Switzerland,1993,Adolf Ogi,C,0
+756,Switzerland,1994,Otto Stich,C,0
+756,Switzerland,1995,Kaspar Villiger ,C,0
+756,Switzerland,1996,Jean-Pascal Delamuraz,C,0
+756,Switzerland,1997,Arnold Koller,C,0
+756,Switzerland,1998,Flavio Cotti,C,0
+756,Switzerland,1999,Ruth Dreifuss,C,0
+756,Switzerland,2000,Adolf Ogi,C,0
+756,Switzerland,2001,Moritz Leuenberger,C,0
+756,Switzerland,2002,Kaspar Villiger ,C,0
+756,Switzerland,2003,Pascal Couchepin,C,0
+756,Switzerland,2004,Joseph Deiss,C,0
+756,Switzerland,2005,Samuel Schmid,C,0
+756,Switzerland,2006,Moritz Leuenberger,C,0
+756,Switzerland,2007,Micheline Calmy-Rey ,C,0
+756,Switzerland,2008,Pascal Couchepin,C,0
+756,Switzerland,2009,Hans-Rudolf Merz,C,0
+756,Switzerland,2010,Doris Leuthard ,C,0
+756,Switzerland,2011,Micheline Calmy-Rey ,C,0
+756,Switzerland,2012,Eveline Widmer-Schlumpf,C,0
+826,United Kingdom,1870,William Ewart Gladstone,C,0
+826,United Kingdom,1871,William Ewart Gladstone,C,0
+826,United Kingdom,1872,William Ewart Gladstone,C,0
+826,United Kingdom,1873,William Ewart Gladstone,C,0
+826,United Kingdom,1874,Benjamin Disraeli,R,0
+826,United Kingdom,1875,Benjamin Disraeli,R,0
+826,United Kingdom,1876,Benjamin Disraeli,R,0
+826,United Kingdom,1877,Benjamin Disraeli,R,0
+826,United Kingdom,1878,Benjamin Disraeli,R,0
+826,United Kingdom,1879,Benjamin Disraeli,R,0
+826,United Kingdom,1880,William Ewart Gladstone,C,0
+826,United Kingdom,1881,William Ewart Gladstone,C,0
+826,United Kingdom,1882,William Ewart Gladstone,C,0
+826,United Kingdom,1883,William Ewart Gladstone,C,0
+826,United Kingdom,1884,William Ewart Gladstone,C,0
+826,United Kingdom,1885,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1886,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1887,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1888,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1889,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1890,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1891,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1892,Robert Gascoyne-Cecil,C,0
+826,United Kingdom,1893,William Ewart Gladstone,C,0
+826,United Kingdom,1894,Archibald Primrose,C,0
+826,United Kingdom,1895,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1896,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1897,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1898,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1899,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1900,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1901,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1902,Robert Gascoyne-Cecil,R,0
+826,United Kingdom,1903,Arthur James Balfour,R,0
+826,United Kingdom,1904,Arthur James Balfour,R,0
+826,United Kingdom,1905,Arthur James Balfour,R,0
+826,United Kingdom,1906,Henry Campbell-Bannerman,C,0
+826,United Kingdom,1907,Henry Campbell-Bannerman,C,0
+826,United Kingdom,1908,H.H. Asquith,C,0
+826,United Kingdom,1909,H.H. Asquith,C,0
+826,United Kingdom,1910,H.H. Asquith,C,0
+826,United Kingdom,1911,H.H. Asquith,C,0
+826,United Kingdom,1912,H.H. Asquith,C,0
+826,United Kingdom,1913,H.H. Asquith,C,0
+826,United Kingdom,1914,H.H. Asquith,C,0
+826,United Kingdom,1915,H.H. Asquith,C,0
+826,United Kingdom,1916,H.H. Asquith,C,0
+826,United Kingdom,1917,David Lloyd George,C,0
+826,United Kingdom,1918,David Lloyd George,C,0
+826,United Kingdom,1919,David Lloyd George,C,0
+826,United Kingdom,1920,David Lloyd George,C,0
+826,United Kingdom,1921,David Lloyd George,C,0
+826,United Kingdom,1922,David Lloyd George,C,0
+826,United Kingdom,1923,Stanley Baldwin,R,0
+826,United Kingdom,1924,Ramsay MacDonald,L,0
+826,United Kingdom,1925,Stanley Baldwin,R,0
+826,United Kingdom,1926,Stanley Baldwin,R,0
+826,United Kingdom,1927,Stanley Baldwin,R,0
+826,United Kingdom,1928,Stanley Baldwin,R,0
+826,United Kingdom,1929,Ramsay MacDonald,L,0
+826,United Kingdom,1930,Ramsay MacDonald,L,0
+826,United Kingdom,1931,Ramsay MacDonald,L,0
+826,United Kingdom,1932,Ramsay MacDonald,R,0
+826,United Kingdom,1933,Ramsay MacDonald,R,0
+826,United Kingdom,1934,Ramsay MacDonald,R,0
+826,United Kingdom,1935,Stanley Baldwin,R,0
+826,United Kingdom,1936,Stanley Baldwin,R,0
+826,United Kingdom,1937,Neville Chamberlain ,R,0
+826,United Kingdom,1938,Neville Chamberlain ,R,0
+826,United Kingdom,1939,Neville Chamberlain ,R,0
+826,United Kingdom,1940,Winston Churchill,R,0
+826,United Kingdom,1941,Winston Churchill,R,0
+826,United Kingdom,1942,Winston Churchill,R,0
+826,United Kingdom,1943,Winston Churchill,R,0
+826,United Kingdom,1944,Winston Churchill,R,0
+826,United Kingdom,1945,Winston Churchill,R,0
+826,United Kingdom,1946,Clement Attlee,L,0
+826,United Kingdom,1947,Clement Attlee,L,0
+826,United Kingdom,1948,Clement Attlee,L,0
+826,United Kingdom,1949,Clement Attlee,L,0
+826,United Kingdom,1950,Clement Attlee,L,0
+826,United Kingdom,1951,Clement Attlee,L,0
+826,United Kingdom,1952,Winston Churchill,R,0
+826,United Kingdom,1953,Winston Churchill,R,0
+826,United Kingdom,1954,Winston Churchill,R,0
+826,United Kingdom,1955,Anthony Eden,R,0
+826,United Kingdom,1956,Anthony Eden,R,0
+826,United Kingdom,1957,Harold Macmillan,R,0
+826,United Kingdom,1958,Harold Macmillan,R,0
+826,United Kingdom,1959,Harold Macmillan,R,0
+826,United Kingdom,1960,Harold Macmillan,R,0
+826,United Kingdom,1961,Harold Macmillan,R,0
+826,United Kingdom,1962,Harold Macmillan,R,0
+826,United Kingdom,1963,Harold Macmillan,R,0
+826,United Kingdom,1964,Alexander Douglas-Home,R,0
+826,United Kingdom,1965,Harold Wilson,L,0
+826,United Kingdom,1966,Harold Wilson,L,0
+826,United Kingdom,1967,Harold Wilson,L,0
+826,United Kingdom,1968,Harold Wilson,L,0
+826,United Kingdom,1969,Harold Wilson,L,0
+826,United Kingdom,1970,Edward Heath,R,0
+826,United Kingdom,1971,Edward Heath,R,0
+826,United Kingdom,1972,Edward Heath,R,0
+826,United Kingdom,1973,Edward Heath,R,0
+826,United Kingdom,1974,Harold Wilson,L,0
+826,United Kingdom,1975,Harold Wilson,L,0
+826,United Kingdom,1976,James Callaghan,L,0
+826,United Kingdom,1977,James Callaghan,L,0
+826,United Kingdom,1978,James Callaghan,L,0
+826,United Kingdom,1979,Margaret Thatcher,R,0
+826,United Kingdom,1980,Margaret Thatcher,R,0
+826,United Kingdom,1981,Margaret Thatcher,R,0
+826,United Kingdom,1982,Margaret Thatcher,R,0
+826,United Kingdom,1983,Margaret Thatcher,R,0
+826,United Kingdom,1984,Margaret Thatcher,R,0
+826,United Kingdom,1985,Margaret Thatcher,R,0
+826,United Kingdom,1986,Margaret Thatcher,R,0
+826,United Kingdom,1987,Margaret Thatcher,R,0
+826,United Kingdom,1988,Margaret Thatcher,R,0
+826,United Kingdom,1989,Margaret Thatcher,R,0
+826,United Kingdom,1990,Margaret Thatcher,R,0
+826,United Kingdom,1991,John Major,R,0
+826,United Kingdom,1992,John Major,R,0
+826,United Kingdom,1993,John Major,R,0
+826,United Kingdom,1994,John Major,R,0
+826,United Kingdom,1995,John Major,R,0
+826,United Kingdom,1996,John Major,R,0
+826,United Kingdom,1997,Tony Blair,L,0
+826,United Kingdom,1998,Tony Blair,L,0
+826,United Kingdom,1999,Tony Blair,L,0
+826,United Kingdom,2000,Tony Blair,L,0
+826,United Kingdom,2001,Tony Blair,L,0
+826,United Kingdom,2002,Tony Blair,L,0
+826,United Kingdom,2003,Tony Blair,L,0
+826,United Kingdom,2004,Tony Blair,L,0
+826,United Kingdom,2005,Tony Blair,L,0
+826,United Kingdom,2006,Tony Blair,L,0
+826,United Kingdom,2007,Gordon Brown,L,0
+826,United Kingdom,2008,Gordon Brown,L,0
+826,United Kingdom,2009,Gordon Brown,L,0
+826,United Kingdom,2010,David Cameron,R,0
+826,United Kingdom,2011,David Cameron,R,0
+826,United Kingdom,2012,David Cameron,R,0
+840,United States,1870,Ulysses S. Grant,R,0
+840,United States,1871,Ulysses S. Grant,R,0
+840,United States,1872,Ulysses S. Grant,R,0
+840,United States,1873,Ulysses S. Grant,R,0
+840,United States,1874,Ulysses S. Grant,R,0
+840,United States,1875,Ulysses S. Grant,R,0
+840,United States,1876,Ulysses S. Grant,R,0
+840,United States,1877,Rutherford B. Hayes,R,0
+840,United States,1878,Rutherford B. Hayes,R,0
+840,United States,1879,Rutherford B. Hayes,R,0
+840,United States,1880,Rutherford B. Hayes,R,0
+840,United States,1881,James A. Garfield,R,0
+840,United States,1882,Chester A. Arthur,R,0
+840,United States,1883,Chester A. Arthur,R,0
+840,United States,1884,Chester A. Arthur,R,0
+840,United States,1885,Grover Cleveland,R,0
+840,United States,1886,Grover Cleveland,R,0
+840,United States,1887,Grover Cleveland,R,0
+840,United States,1888,Grover Cleveland,R,0
+840,United States,1889,Benjamin Harrison,R,0
+840,United States,1890,Benjamin Harrison,R,0
+840,United States,1891,Benjamin Harrison,R,0
+840,United States,1892,Benjamin Harrison,R,0
+840,United States,1893,Grover Cleveland,R,0
+840,United States,1894,Grover Cleveland,R,0
+840,United States,1895,Grover Cleveland,R,0
+840,United States,1896,Grover Cleveland,R,0
+840,United States,1897,William McKinley,R,0
+840,United States,1898,William McKinley,R,0
+840,United States,1899,William McKinley,R,0
+840,United States,1900,William McKinley,R,0
+840,United States,1901,Theodore Roosevelt,C,0
+840,United States,1902,Theodore Roosevelt,C,0
+840,United States,1903,Theodore Roosevelt,C,0
+840,United States,1904,Theodore Roosevelt,C,0
+840,United States,1905,Theodore Roosevelt,C,0
+840,United States,1906,Theodore Roosevelt,C,0
+840,United States,1907,Theodore Roosevelt,C,0
+840,United States,1908,Theodore Roosevelt,C,0
+840,United States,1909,William Howard Taft,R,0
+840,United States,1910,William Howard Taft,R,0
+840,United States,1911,William Howard Taft,R,0
+840,United States,1912,William Howard Taft,R,0
+840,United States,1913,Woodrow Wilson,C,0
+840,United States,1914,Woodrow Wilson,C,0
+840,United States,1915,Woodrow Wilson,C,0
+840,United States,1916,Woodrow Wilson,C,0
+840,United States,1917,Woodrow Wilson,C,0
+840,United States,1918,Woodrow Wilson,C,0
+840,United States,1919,Woodrow Wilson,C,0
+840,United States,1920,Woodrow Wilson,C,0
+840,United States,1921,Warren G. Harding,R,0
+840,United States,1922,Warren G. Harding,R,0
+840,United States,1923,Warren G. Harding,R,0
+840,United States,1924,Calvin Coolidge,R,0
+840,United States,1925,Calvin Coolidge,R,0
+840,United States,1926,Calvin Coolidge,R,0
+840,United States,1927,Calvin Coolidge,R,0
+840,United States,1928,Calvin Coolidge,R,0
+840,United States,1929,Herbert Hoover,R,0
+840,United States,1930,Herbert Hoover,R,0
+840,United States,1931,Herbert Hoover,R,0
+840,United States,1932,Herbert Hoover,R,0
+840,United States,1933,Franklin D. Roosevelt,L,0
+840,United States,1934,Franklin D. Roosevelt,L,0
+840,United States,1935,Franklin D. Roosevelt,L,0
+840,United States,1936,Franklin D. Roosevelt,L,0
+840,United States,1937,Franklin D. Roosevelt,L,0
+840,United States,1938,Franklin D. Roosevelt,L,0
+840,United States,1939,Franklin D. Roosevelt,L,0
+840,United States,1940,Franklin D. Roosevelt,L,0
+840,United States,1941,Franklin D. Roosevelt,L,0
+840,United States,1942,Franklin D. Roosevelt,L,0
+840,United States,1943,Franklin D. Roosevelt,L,0
+840,United States,1944,Franklin D. Roosevelt,L,0
+840,United States,1945,Harry S. Truman,C,0
+840,United States,1946,Harry S. Truman,C,0
+840,United States,1947,Harry S. Truman,C,0
+840,United States,1948,Harry S. Truman,C,0
+840,United States,1949,Harry S. Truman,C,0
+840,United States,1950,Harry S. Truman,C,0
+840,United States,1951,Harry S. Truman,C,0
+840,United States,1952,Harry S. Truman,C,0
+840,United States,1953,Dwight D. Eisenhower,R,0
+840,United States,1954,Dwight D. Eisenhower,R,0
+840,United States,1955,Dwight D. Eisenhower,R,0
+840,United States,1956,Dwight D. Eisenhower,R,0
+840,United States,1957,Dwight D. Eisenhower,R,0
+840,United States,1958,Dwight D. Eisenhower,R,0
+840,United States,1959,Dwight D. Eisenhower,R,0
+840,United States,1960,Dwight D. Eisenhower,R,0
+840,United States,1961,John F. Kennedy,C,0
+840,United States,1962,John F. Kennedy,C,0
+840,United States,1963,John F. Kennedy,C,0
+840,United States,1964,Lyndon B. Johnson,C,0
+840,United States,1965,Lyndon B. Johnson,C,0
+840,United States,1966,Lyndon B. Johnson,C,0
+840,United States,1967,Lyndon B. Johnson,C,0
+840,United States,1968,Lyndon B. Johnson,C,0
+840,United States,1969,Richard M. Nixon,R,0
+840,United States,1970,Richard M. Nixon,R,0
+840,United States,1971,Richard M. Nixon,R,0
+840,United States,1972,Richard M. Nixon,R,0
+840,United States,1973,Richard M. Nixon,R,0
+840,United States,1974,Richard M. Nixon,R,0
+840,United States,1975,Gerald F. Ford,R,0
+840,United States,1976,Gerald F. Ford,R,0
+840,United States,1977,Jimmy Carter,C,0
+840,United States,1978,Jimmy Carter,C,0
+840,United States,1979,Jimmy Carter,C,0
+840,United States,1980,Jimmy Carter,C,0
+840,United States,1981,Ronald Reagan,R,0
+840,United States,1982,Ronald Reagan,R,0
+840,United States,1983,Ronald Reagan,R,0
+840,United States,1984,Ronald Reagan,R,0
+840,United States,1985,Ronald Reagan,R,0
+840,United States,1986,Ronald Reagan,R,0
+840,United States,1987,Ronald Reagan,R,0
+840,United States,1988,Ronald Reagan,R,0
+840,United States,1989,George Bush,R,0
+840,United States,1990,George Bush,R,0
+840,United States,1991,George Bush,R,0
+840,United States,1992,George Bush,R,0
+840,United States,1993,Bill Clinton,C,0
+840,United States,1994,Bill Clinton,C,0
+840,United States,1995,Bill Clinton,C,0
+840,United States,1996,Bill Clinton,C,0
+840,United States,1997,Bill Clinton,C,0
+840,United States,1998,Bill Clinton,C,0
+840,United States,1999,Bill Clinton,C,0
+840,United States,2000,Bill Clinton,C,0
+840,United States,2001,George W. Bush,R,0
+840,United States,2002,George W. Bush,R,0
+840,United States,2003,George W. Bush,R,0
+840,United States,2004,George W. Bush,R,0
+840,United States,2005,George W. Bush,R,0
+840,United States,2006,George W. Bush,R,0
+840,United States,2007,George W. Bush,R,0
+840,United States,2008,George W. Bush,R,0
+840,United States,2009,Barack Obama,C,0
+840,United States,2010,Barack Obama,C,0
+840,United States,2011,Barack Obama,C,0
+840,United States,2012,Barack Obama,C,0
+858,Uruguay,1870,Lorenzo Batlle,C,0
+858,Uruguay,1871,Lorenzo Batlle,C,0
+858,Uruguay,1872,Tomás Gomensoro,C,0
+858,Uruguay,1873,José Eugenio Ellauri,C,0
+858,Uruguay,1874,José Eugenio Ellauri,C,0
+858,Uruguay,1875,Pedro Varela,C,0
+858,Uruguay,1876,Lorenzo Latorre,C,0
+858,Uruguay,1877,Lorenzo Latorre,C,0
+858,Uruguay,1878,Lorenzo Latorre,C,0
+858,Uruguay,1879,Lorenzo Latorre,C,0
+858,Uruguay,1880,Fransisco Antonio Vidal,C,0
+858,Uruguay,1881,Fransisco Antonio Vidal,C,0
+858,Uruguay,1882,Máximo Santos,C,0
+858,Uruguay,1883,Máximo Santos,C,0
+858,Uruguay,1884,Máximo Santos,C,0
+858,Uruguay,1885,Máximo Santos,C,0
+858,Uruguay,1886,Máximo Santos,C,0
+858,Uruguay,1887,Máximo Tajes,C,0
+858,Uruguay,1888,Máximo Tajes,C,0
+858,Uruguay,1889,Máximo Tajes,C,0
+858,Uruguay,1890,Julio Herrera y Obes,C,0
+858,Uruguay,1891,Julio Herrera y Obes,C,0
+858,Uruguay,1892,Julio Herrera y Obes,C,0
+858,Uruguay,1893,Julio Herrera y Obes,C,0
+858,Uruguay,1894,Juan Idiarte Borda,C,0
+858,Uruguay,1895,Juan Idiarte Borda,C,0
+858,Uruguay,1896,Juan Idiarte Borda,C,0
+858,Uruguay,1897,Juan Idiarte Borda,C,0
+858,Uruguay,1898,Juan Lindolfo Cuestas,C,0
+858,Uruguay,1899,Juan Lindolfo Cuestas,C,0
+858,Uruguay,1900,José Batlle y Ordoñez,L,0
+858,Uruguay,1901,José Batlle y Ordoñez,L,0
+858,Uruguay,1902,José Batlle y Ordoñez,L,0
+858,Uruguay,1903,José Batlle y Ordoñez,L,0
+858,Uruguay,1904,José Batlle y Ordoñez,L,0
+858,Uruguay,1905,José Batlle y Ordoñez,L,0
+858,Uruguay,1906,José Batlle y Ordoñez,L,0
+858,Uruguay,1907,Claudio Wílliman,L,0
+858,Uruguay,1908,Claudio Wílliman,L,0
+858,Uruguay,1909,Claudio Wílliman,L,0
+858,Uruguay,1910,Claudio Wílliman,L,0
+858,Uruguay,1911,José Batlle y Ordoñez,L,0
+858,Uruguay,1912,José Batlle y Ordoñez,L,0
+858,Uruguay,1913,José Batlle y Ordoñez,L,0
+858,Uruguay,1914,José Batlle y Ordoñez,L,0
+858,Uruguay,1915,Feliciano Viera,C,0
+858,Uruguay,1916,Feliciano Viera,C,0
+858,Uruguay,1917,Feliciano Viera,C,0
+858,Uruguay,1918,Feliciano Viera,C,0
+858,Uruguay,1919,Baltasar Brum,L,0
+858,Uruguay,1920,Baltasar Brum,L,0
+858,Uruguay,1921,Baltasar Brum,L,0
+858,Uruguay,1922,Baltasar Brum,L,0
+858,Uruguay,1923,José Serrato,L,0
+858,Uruguay,1924,José Serrato,L,0
+858,Uruguay,1925,José Serrato,L,0
+858,Uruguay,1926,José Serrato,L,0
+858,Uruguay,1927,Juan Campisteguy,L,0
+858,Uruguay,1928,Juan Campisteguy,L,0
+858,Uruguay,1929,Juan Campisteguy,L,0
+858,Uruguay,1930,Juan Campisteguy,L,0
+858,Uruguay,1931,Gabriel Terra,R,0
+858,Uruguay,1932,Gabriel Terra,R,0
+858,Uruguay,1933,Gabriel Terra,R,0
+858,Uruguay,1934,Gabriel Terra,R,0
+858,Uruguay,1935,Gabriel Terra,R,0
+858,Uruguay,1936,Gabriel Terra,R,0
+858,Uruguay,1937,Gabriel Terra,R,0
+858,Uruguay,1938,Alfredo Baldomir,C,0
+858,Uruguay,1939,Alfredo Baldomir,C,0
+858,Uruguay,1940,Alfredo Baldomir,C,0
+858,Uruguay,1941,Alfredo Baldomir,C,0
+858,Uruguay,1942,Alfredo Baldomir,C,0
+858,Uruguay,1943,Juan José de Amézaga,L,0
+858,Uruguay,1944,Juan José de Amézaga,L,0
+858,Uruguay,1945,Juan José de Amézaga,L,0
+858,Uruguay,1946,Juan José de Amézaga,L,0
+858,Uruguay,1947,Tomás Berreta/Luis Batlle Berres,L,0
+858,Uruguay,1948,Luis Batlle Berres,L,0
+858,Uruguay,1949,Luis Batlle Berres,L,0
+858,Uruguay,1950,Luis Batlle Berres,L,0
+858,Uruguay,1951,Andrés Martínez Trueba,L,0
+858,Uruguay,1952,Andrés Martínez Trueba,L,0
+858,Uruguay,1953,Andrés Martínez Trueba,L,0
+858,Uruguay,1954,Andrés Martínez Trueba,L,0
+858,Uruguay,1955,Luis Batlle Berres,L,0
+858,Uruguay,1956,Alberto Fermín Zubiría,L,0
+858,Uruguay,1957,Arturo Lezama,L,0
+858,Uruguay,1958,Carlos L. Fischer,L,0
+858,Uruguay,1959,Martín R. Echegoyen,R,0
+858,Uruguay,1960,Benito Nardone,R,0
+858,Uruguay,1961,Eduardo Víctor Haedo,R,0
+858,Uruguay,1962,Faustino Harrison,R,0
+858,Uruguay,1963,Daniel Fernández Crespo,R,0
+858,Uruguay,1964,Luis Giannattasio,R,0
+858,Uruguay,1965,Washington Beltrán,R,0
+858,Uruguay,1966,Alberto Heber Usher,R,0
+858,Uruguay,1967,Óscar Diego Gestido,C,0
+858,Uruguay,1968,Jorge Pacheco Areco,R,0
+858,Uruguay,1969,Jorge Pacheco Areco,R,0
+858,Uruguay,1970,Jorge Pacheco Areco,R,0
+858,Uruguay,1971,Jorge Pacheco Areco,R,0
+858,Uruguay,1972,Juan María Bordaberry,R,0
+858,Uruguay,1973,Juan María Bordaberry,R,0
+858,Uruguay,1974,Juan María Bordaberry,R,0
+858,Uruguay,1975,Juan María Bordaberry,R,0
+858,Uruguay,1976,Juan María Bordaberry,R,0
+858,Uruguay,1977,Aparicio Méndez,O,0
+858,Uruguay,1978,Aparicio Méndez,O,0
+858,Uruguay,1979,Aparicio Méndez,O,0
+858,Uruguay,1980,Aparicio Méndez,O,0
+858,Uruguay,1981,Aparicio Méndez,O,0
+858,Uruguay,1982,Gregorio Conrado Álvarez Armelino,O,0
+858,Uruguay,1983,Gregorio Conrado Álvarez Armelino,O,0
+858,Uruguay,1984,Gregorio Conrado Álvarez Armelino,O,0
+858,Uruguay,1985,Julio María Sanguinetti Coirolo,C,0
+858,Uruguay,1986,Julio María Sanguinetti Coirolo,C,0
+858,Uruguay,1987,Julio María Sanguinetti Coirolo,C,0
+858,Uruguay,1988,Julio María Sanguinetti Coirolo,C,0
+858,Uruguay,1989,Julio María Sanguinetti Coirolo,C,0
+858,Uruguay,1990,Luis Alberto Lacalle,R,0
+858,Uruguay,1991,Luis Alberto Lacalle,R,0
+858,Uruguay,1992,Luis Alberto Lacalle,R,0
+858,Uruguay,1993,Luis Alberto Lacalle,R,0
+858,Uruguay,1994,Luis Alberto Lacalle,R,0
+858,Uruguay,1995,Julio María Sanguinetti Coirolo,C,0
+858,Uruguay,1996,Julio María Sanguinetti Coirolo,C,0
+858,Uruguay,1997,Julio María Sanguinetti Coirolo,C,0
+858,Uruguay,1998,Julio María Sanguinetti Coirolo,C,0
+858,Uruguay,1999,Julio María Sanguinetti Coirolo,C,0
+858,Uruguay,2000,Jorge Batlle,R,0
+858,Uruguay,2001,Jorge Batlle,R,0
+858,Uruguay,2002,Jorge Batlle,R,0
+858,Uruguay,2003,Jorge Batlle,R,0
+858,Uruguay,2004,Jorge Batlle,R,0
+858,Uruguay,2005,Tabaré Vázquez,L,0
+858,Uruguay,2006,Tabaré Vázquez,L,0
+858,Uruguay,2007,Tabaré Vázquez,L,0
+858,Uruguay,2008,Tabaré Vázquez,L,0
+858,Uruguay,2009,Tabaré Vázquez,L,0
+858,Uruguay,2010,José Mujica,L,0
+858,Uruguay,2011,José Mujica,L,0
+858,Uruguay,2012,José Mujica,L,0
+862,Venezuela,1870,Antonio Guzmán Blanco,C,0
+862,Venezuela,1871,Antonio Guzmán Blanco,C,0
+862,Venezuela,1872,Antonio Guzmán Blanco,C,0
+862,Venezuela,1873,Antonio Guzmán Blanco,C,0
+862,Venezuela,1874,Antonio Guzmán Blanco,C,0
+862,Venezuela,1875,Antonio Guzmán Blanco,C,0
+862,Venezuela,1876,Antonio Guzmán Blanco,C,0
+862,Venezuela,1877,Fransisco Linares Alcántara,C,0
+862,Venezuela,1878,Fransisco Linares Alcántara,C,0
+862,Venezuela,1879,Antonio Guzmán Blanco,C,0
+862,Venezuela,1880,Antonio Guzmán Blanco,C,0
+862,Venezuela,1881,Antonio Guzmán Blanco,C,0
+862,Venezuela,1882,Antonio Guzmán Blanco,C,0
+862,Venezuela,1883,Antonio Guzmán Blanco,C,0
+862,Venezuela,1884,Joaquín Crespo,C,0
+862,Venezuela,1885,Joaquín Crespo,C,0
+862,Venezuela,1886,Joaquín Crespo/Manuel Antonio Diez/Antonio Guzmán Blanco,C,0
+862,Venezuela,1887,Antonio Guzmán Blanco,C,0
+862,Venezuela,1888,Antonio Guzmán Blanco,C,0
+862,Venezuela,1889,Juan Pablo Rojas Paúl,C,0
+862,Venezuela,1890,Raimundo Andueza Palacio,C,0
+862,Venezuela,1891,Raimundo Andueza Palacio,C,0
+862,Venezuela,1892,Raimundo Andueza Palacio/Guillermo Tell Villegas/Guillermo Tell Villegas Pulido/Joaquín Crespo,C,0
+862,Venezuela,1893,Joaquín Crespo,C,0
+862,Venezuela,1894,Joaquín Crespo,C,0
+862,Venezuela,1895,Joaquín Crespo,C,0
+862,Venezuela,1896,Joaquín Crespo,C,0
+862,Venezuela,1897,Joaquín Crespo,C,0
+862,Venezuela,1898,Ignacio Andrade,C,0
+862,Venezuela,1899,Ignacio Andrade,C,0
+862,Venezuela,1900,Cipriano Castro,O,
+862,Venezuela,1901,Cipriano Castro,O,
+862,Venezuela,1902,Cipriano Castro,O,
+862,Venezuela,1903,Cipriano Castro,O,
+862,Venezuela,1904,Cipriano Castro,O,
+862,Venezuela,1905,Cipriano Castro,O,
+862,Venezuela,1906,Cipriano Castro,O,
+862,Venezuela,1907,Cipriano Castro,O,
+862,Venezuela,1908,Cipriano Castro,O,
+862,Venezuela,1909,Cipriano Castro,O,
+862,Venezuela,1910,Juan Vicente Gómez,R,0
+862,Venezuela,1911,Juan Vicente Gómez,R,0
+862,Venezuela,1912,Juan Vicente Gómez,R,0
+862,Venezuela,1913,Juan Vicente Gómez,R,0
+862,Venezuela,1914,Victorino Márquez Bustillos,R,0
+862,Venezuela,1915,Victorino Márquez Bustillos,R,0
+862,Venezuela,1916,Victorino Márquez Bustillos,R,0
+862,Venezuela,1917,Victorino Márquez Bustillos,R,0
+862,Venezuela,1918,Victorino Márquez Bustillos,R,0
+862,Venezuela,1919,Victorino Márquez Bustillos,R,0
+862,Venezuela,1920,Victorino Márquez Bustillos,R,0
+862,Venezuela,1921,Victorino Márquez Bustillos,R,0
+862,Venezuela,1922,Juan Vicente Gómez,R,0
+862,Venezuela,1923,Juan Vicente Gómez,R,0
+862,Venezuela,1924,Juan Vicente Gómez,R,0
+862,Venezuela,1925,Juan Vicente Gómez,R,0
+862,Venezuela,1926,Juan Vicente Gómez,R,0
+862,Venezuela,1927,Juan Vicente Gómez,R,0
+862,Venezuela,1928,Juan Vicente Gómez,R,0
+862,Venezuela,1929,Juan Bautista Pérez,R,0
+862,Venezuela,1930,Juan Bautista Pérez,R,0
+862,Venezuela,1931,Juan Bautista Pérez/Pedro Itriago Chacín/Juan Vicente Gómez,R,0
+862,Venezuela,1932,Juan Vicente Gómez,R,0
+862,Venezuela,1933,Juan Vicente Gómez,R,0
+862,Venezuela,1934,Juan Vicente Gómez,R,0
+862,Venezuela,1935,Juan Vicente Gómez,R,0
+862,Venezuela,1936,Eleazar López Contreras,R,0
+862,Venezuela,1937,Eleazar López Contreras,R,0
+862,Venezuela,1938,Eleazar López Contreras,R,0
+862,Venezuela,1939,Eleazar López Contreras,R,0
+862,Venezuela,1940,Eleazar López Contreras,R,0
+862,Venezuela,1941,Isaías Medina Angarita,O,0
+862,Venezuela,1942,Isaías Medina Angarita,O,0
+862,Venezuela,1943,Isaías Medina Angarita,O,0
+862,Venezuela,1944,Isaías Medina Angarita,O,0
+862,Venezuela,1945,Isaías Medina Angarita,O,0
+862,Venezuela,1946,Rómulo Betancourt,L,0
+862,Venezuela,1947,Rómulo Betancourt,L,0
+862,Venezuela,1948,Rómulo Gallegos,L,0
+862,Venezuela,1949,"Military Junta: Carlos Delgado Chalbaud, Marcos Pérez Jiménez, Luis Felipe Llovera Páez, Germán Suárez Flamerich",R,
+862,Venezuela,1950,"Military Junta: Carlos Delgado Chalbaud, Marcos Pérez Jiménez, Luis Felipe Llovera Páez, Germán Suárez Flamerich",R,
+862,Venezuela,1951,"Military Junta: Carlos Delgado Chalbaud, Marcos Pérez Jiménez, Luis Felipe Llovera Páez, Germán Suárez Flamerich",R,
+862,Venezuela,1952,"Military Junta: Carlos Delgado Chalbaud, Marcos Pérez Jiménez, Luis Felipe Llovera Páez, Germán Suárez Flamerich",R,
+862,Venezuela,1953,Marcos Pérez Jiménez,R,
+862,Venezuela,1954,Marcos Pérez Jiménez,R,
+862,Venezuela,1955,Marcos Pérez Jiménez,R,
+862,Venezuela,1956,Marcos Pérez Jiménez,R,
+862,Venezuela,1957,Marcos Pérez Jiménez,R,
+862,Venezuela,1958,Wolfgang Larrazábal,L,0
+862,Venezuela,1959,Rómulo Betancourt,L,0
+862,Venezuela,1960,Rómulo Betancourt,L,0
+862,Venezuela,1961,Rómulo Betancourt,L,0
+862,Venezuela,1962,Rómulo Betancourt,L,0
+862,Venezuela,1963,Rómulo Betancourt,L,0
+862,Venezuela,1964,Raúl Leoni,L,0
+862,Venezuela,1965,Raúl Leoni,L,0
+862,Venezuela,1966,Raúl Leoni,L,0
+862,Venezuela,1967,Raúl Leoni,L,0
+862,Venezuela,1968,Raúl Leoni,L,0
+862,Venezuela,1969,Rafael Caldera,R,1
+862,Venezuela,1970,Rafael Caldera,R,1
+862,Venezuela,1971,Rafael Caldera,R,1
+862,Venezuela,1972,Rafael Caldera,R,1
+862,Venezuela,1973,Rafael Caldera,R,1
+862,Venezuela,1974,Carlos Andrés Pérez,L,0
+862,Venezuela,1975,Carlos Andrés Pérez,L,0
+862,Venezuela,1976,Carlos Andrés Pérez,L,0
+862,Venezuela,1977,Carlos Andrés Pérez,L,0
+862,Venezuela,1978,Carlos Andrés Pérez,L,0
+862,Venezuela,1979,Luis Herrera Campins,R,1
+862,Venezuela,1980,Luis Herrera Campins,R,1
+862,Venezuela,1981,Luis Herrera Campins,R,1
+862,Venezuela,1982,Luis Herrera Campins,R,1
+862,Venezuela,1983,Luis Herrera Campins,R,1
+862,Venezuela,1984,Jaime Lusinchi,L,0
+862,Venezuela,1985,Jaime Lusinchi,L,0
+862,Venezuela,1986,Jaime Lusinchi,L,0
+862,Venezuela,1987,Jaime Lusinchi,L,0
+862,Venezuela,1988,Jaime Lusinchi,L,0
+862,Venezuela,1989,Carlos Andrés Pérez,L,0
+862,Venezuela,1990,Carlos Andrés Pérez,L,0
+862,Venezuela,1991,Carlos Andrés Pérez,L,0
+862,Venezuela,1992,Carlos Andrés Pérez,L,0
+862,Venezuela,1993,Ramón José Velásquez,L,0
+862,Venezuela,1994,Rafael Caldera,O,0
+862,Venezuela,1995,Rafael Caldera,O,0
+862,Venezuela,1996,Rafael Caldera,O,0
+862,Venezuela,1997,Rafael Caldera,O,0
+862,Venezuela,1998,Rafael Caldera,O,0
+862,Venezuela,1999,Hugo Chávez,O,0
+862,Venezuela,2000,Hugo Chávez,O,0
+862,Venezuela,2001,Hugo Chávez,O,0
+862,Venezuela,2002,Hugo Chávez,O,0
+862,Venezuela,2003,Hugo Chávez,O,0
+862,Venezuela,2004,Hugo Chávez,O,0
+862,Venezuela,2005,Hugo Chávez,O,0
+862,Venezuela,2006,Hugo Chávez,O,0
+862,Venezuela,2007,Hugo Chávez,O,0
+862,Venezuela,2008,Hugo Chávez,O,0
+862,Venezuela,2009,Hugo Chávez,O,0
+862,Venezuela,2010,Hugo Chávez,O,0
+862,Venezuela,2011,Hugo Chávez,O,0
+862,Venezuela,2012,Hugo Chávez,O,0

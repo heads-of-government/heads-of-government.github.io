@@ -8,10 +8,11 @@ government that was in office during the greater part of that year. We also prov
 
 <br>
 
-<div style="font-size:130%">
+<div style="font-size:120%">
 
-* Country-Year Data Set v1.4   [STATA][EXCEL]
-* Leader-Year Data Set v1.4    [STATA][EXCEL]
+* Country-Year Data Set v1.5   [[STATA]]("data/v1.5/HoG_dataset_country_year_v1.5.dta") [[EXCEL]]("data/v1.5/HoG_dataset_country_year_v1.5.xls")
+* Leader-Year Data Set v1.5 [[STATA](data/v1.5/HoG_dataset_leader_year_v1.5.dta) [[EXCEL]](data/v1.5/HoG_dataset_leader_year_v1.5.xls)
 * Codebook
+
 
 </div>

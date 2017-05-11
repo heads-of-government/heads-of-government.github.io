@@ -17,9 +17,9 @@ packages <- lapply(packages, FUN = function(x) {
   }
 })
 
-#data_location <- "/Users/tbrambor/Dropbox (Pflegedienst Brambor)/Reform_Capacity_TB/Research_Assistance/Leaders/"
+data_location <- "/Users/tbrambor/Dropbox (Pflegedienst Brambor)/Reform_Capacity_TB/Research_Assistance/Leaders/"
 
-data_location <- "C:/Users/svet-jlv/Dropbox/Research Assistance/Leaders/"
+# data_location <- "C:/Users/svet-jlv/Dropbox/Research Assistance/Leaders/"
 
 ```
 
