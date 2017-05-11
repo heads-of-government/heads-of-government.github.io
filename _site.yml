@@ -1,7 +1,7 @@
 name: "hog"
 output_dir: "."
 navbar:
-  title: "The Ideology of Heads of Government, 1870 - 2012"
+  title: "The Ideology of Heads of Government, 1870-2012"
   left:
     - text: "Home"
       href: index.html

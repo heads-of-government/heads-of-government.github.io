@@ -6,23 +6,22 @@ output: html_document
 ```{r Setup, warning=FALSE, include=FALSE, results='hide'}
 library(knitr)
 
-data_location <- "/Users/tbrambor/Dropbox (Pflegedienst Brambor)/Reform_Capacity_TB/Research_Assistance/Leaders/"
+# Load packages.
+packages <- c("readxl","plyr","readstata13","reshape2","dplyr","ggthemes","plotly",
+              "countrycode","readr","DescTools","DT")
 
-library(readxl)
-library(plyr)
-library(readstata13)
-library(reshape2)
-library(dplyr)
-library(ggthemes)
-library(plotly)
-library(countrycode)
-library(readr)
-library(dplyrExtras)
-library(DescTools)  # for lambda
-library(DT)
+packages <- lapply(packages, FUN = function(x) {
+  if(!require(x, character.only = TRUE)) {
+    install.packages(x)
+    library(x, character.only = TRUE)
+  }
+})
+
+#data_location <- "/Users/tbrambor/Dropbox (Pflegedienst Brambor)/Reform_Capacity_TB/Research_Assistance/Leaders/"
+
+data_location <- "C:/Users/svet-jlv/Dropbox/Research Assistance/Leaders/"
 
 ```
-
 
 The **Heads of Government (HoG)** dataset provides summary information about the **ideological orientation of heads of government** in **33 countries** in Europe, Latin America, North America, and the Asia-Pacific region **between 1870 and 2012**.
 
@@ -43,10 +42,9 @@ data <- dplyr::left_join(hogcy, bmr, by = c(year="year", ccodecow = "ccodecow"))
 ```
 
 
-## Head of Government Ideology by Regime Types
+## Head-of-Government Ideology by Regime Type
 
-To following graphs provide a quick overview of the coding of ideology of heads of hovernment over time
-.
+To following graphs provide a quick overview of the coding of the ideology of heads of government over time.
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, dpi=300}
 theme_new <- function(base_size = 12, base_family = "Helvetica"){
@@ -157,9 +155,9 @@ g_web2 %>% config(displayModeBar = F)
 
 ```
 
-## Head of Government Ideology by Country
+## Head-of-Government Ideology by Country
 
-The graph below is a representation of the head of government ideology coding for all countries in the sample.
+The graph below is a representation of the head-of-government ideology coding for all countries in the sample.
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, cache=FALSE, dpi=300}
 countries <- unique(data$cname)
@@ -201,7 +199,7 @@ dat1 <- cast(dat1)
 
 # The data 
 
-To give the reader of our (online) codebook the ability to quickly peruse our database, we are providing a quick way to search the database here:
+To give the reader of our (online) codebook the ability to quickly peruse our database, we are providing a quick way to search the database here.
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}
 data_sel <- dplyr::select(data, cname, year, hogname, hogideo, hogrel, hogindate, hogoutdate)

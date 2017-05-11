@@ -4,7 +4,7 @@ output: html_document
 ---
 
 We provide two versions of the dataset. The main dataset is in the country-year format. In this dataset, when several heads of government were in office in the same year, the dataset only includes the head of
-government that was in office during the greater part of that year. Walso provide a second dataset, which is in the leader-year format (similar to the structure of the Archigos dataset; see Goemans, Gleditsch, and Chiozza 2009), but we do not provide new data on ideology for leaders who were only in power for a small part of one year.
+government that was in office during the greater part of that year. We also provide a second dataset, which is in the leader-year format (similar to the structure of the Archigos dataset; see Goemans, Gleditsch, and Chiozza 2009), but we do not provide new data on ideology for leaders who were only in power for a small part of one year.
 
 <br>
 
